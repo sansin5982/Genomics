@@ -1,6 +1,6 @@
 # Cis-Regulatory Elements (CREs)
 
-## 1. What Are Cis-Regulatory Elements?
+## 1. What are Cis-Regulatory Elements?
 
 **Cis-Regulatory Elements (CREs)** are **non-coding DNA sequences** that
 control **when, where, and how much a gene is expressed**. Unlike
@@ -13,9 +13,9 @@ interacting with **transcription factors (TFs)**, **chromatin
 remodelers**, and **RNA polymerase** to either activate or repress
 transcription.
 
-<img src="Figures/Structure_of_Eukaryotic_Gene_SMC.jpg" alt="Figure 1: TOrganization of a eukaryotic protein-coding gene region"  />
+<img src="Figures/Structure_of_Eukaryotic_Gene_SMC.jpg" alt="Figure 1: Organization of a eukaryotic protein-coding gene region"  />
 <p class="caption">
-Figure 1: TOrganization of a eukaryotic protein-coding gene region
+Figure 1: Organization of a eukaryotic protein-coding gene region
 </p>
 
 [Image
@@ -101,8 +101,9 @@ coordinating their expression</td>
     -   **TATA Box**: A common core promoter element (~25-30 bp upstream
         of TSS).
     -   **GC Box (GGGCGG)**: Found in housekeeping genes.
-    -   **CAAT Box**: Found in many eukaryotic genes. \### B. Enhancers
-        (Boost Gene Expression)
+    -   **CAAT Box**: Found in many eukaryotic genes.
+
+### B. Enhancers (Boost Gene Expression)
 
 -   Can be **upstream, downstream, in introns, or even on a different
     chromosome**.
@@ -114,16 +115,18 @@ coordinating their expression</td>
     -   **SHH Limb Enhancer (ZRS)** → Regulates **Sonic Hedgehog (SHH)**
         gene, controlling limb development. Mutations cause polydactyly.
     -   **MYC Super-Enhancer** → Drives **high expression of MYC**, a
-        key oncogene in cancer. \### C. Silencers (Repress Gene
-        Expression)
+        key oncogene in cancer.
+
+### C. Silencers (Repress Gene Expression)
 
 -   Bind to **repressor proteins** to prevent transcription.
 
 -   Examples:
 
     -   **Neuron-Restrictive Silencer Element (NRSE)** → Prevents
-        neuronal gene expression in non-neuronal tissues. \### D.
-        Insulators (Block Incorrect Enhancer-Promoter Interactions)
+        neuronal gene expression in non-neuronal tissues.
+
+### D. Insulators (Block Incorrect Enhancer-Promoter Interactions)
 
 -   **CTCF-binding sites** act as insulators by preventing enhancers
     from activating the wrong gene.
