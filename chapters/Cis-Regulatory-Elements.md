@@ -134,8 +134,9 @@ coordinating their expression</td>
 -   Example:
 
     -   **H19/IGF2 Insulator** → Ensures that **only one of the two
-        parental alleles is active**. \### E. Locus Control Regions
-        (LCRs)
+        parental alleles is active**.
+
+### E. Locus Control Regions (LCRs)
 
 -   Ensure **correct spatiotemporal expression** of multiple genes in a
     cluster.
@@ -150,11 +151,17 @@ coordinating their expression</td>
 A gene’s expression is **not controlled by just one CRE** but by a
 **network of multiple elements** working in coordination.
 
-For example, **in development**: \* The **SHH gene** is activated in
-specific tissues by a **distant enhancer (ZRS)**. \* Its **promoter**
-ensures transcription starts correctly. \* **Insulators** prevent
-unwanted activation in other tissues. \* If **silencers** are mutated,
-the gene could be **expressed in the wrong location**.
+For example, **in development**:
+
+-   The **SHH gene** is activated in specific tissues by a **distant
+    enhancer (ZRS)**.
+
+-   Its **promoter** ensures transcription starts correctly.
+
+-   **Insulators** prevent unwanted activation in other tissues.
+
+-   If **silencers** are mutated, the gene could be **expressed in the
+    wrong location**.
 
 ## 5. Methods to Identify and Study Cis-Regulatory Elements
 
