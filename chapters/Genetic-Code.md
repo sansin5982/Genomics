@@ -186,6 +186,11 @@ Credit](https://openstax.org/books/biology/pages/15-1-the-genetic-code)
 </tbody>
 </table>
 
+<img src="Figures/Wobble.png" alt="Figure 3: Wobble Hypothesis" width="571" />
+<p class="caption">
+Figure 3: Wobble Hypothesis
+</p>
+
 [Image
 Credit](https://www.sarthaks.com/963168/give-diagrammatic-representation-to-show-a-perfect-pairing-and-any-two-wobble-pairings)
 
@@ -208,6 +213,16 @@ UAG and UAA may code for amino acids instead of being stop codons.
     code.
 -   **Evolutionary Conservation**: The universality of the code suggests
     a **common origin of life**.
+
+<img src="Figures/AA structure.jpeg" alt="Figure 4: Structures of the 20 amino acids found in proteins are shown. Each amino acid is composed of an amino group ( NH+3), a carboxyl group (COO-), and a side chain (blue). The side chain may be nonpolar, polar, or charged, as well as large or small. It is the variety of amino acid side chains that gives rise to the incredible variation of protein structure and function."  />
+<p class="caption">
+Figure 4: Structures of the 20 amino acids found in proteins are shown.
+Each amino acid is composed of an amino group ( NH+3), a carboxyl group
+(COO-), and a side chain (blue). The side chain may be nonpolar, polar,
+or charged, as well as large or small. It is the variety of amino acid
+side chains that gives rise to the incredible variation of protein
+structure and function.
+</p>
 
 [Image
 Credit](https://openstax.org/books/biology/pages/15-1-the-genetic-code)
