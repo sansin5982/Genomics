@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 # Navigation (Optional)
 title: "Genetics and Genomics"
-description: "A structured guide on genetics and genomics."
+description: "Fundamentals of genetics and genomics."
 
 # Enable navigation links
 include:
