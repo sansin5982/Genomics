@@ -2,4 +2,4 @@
 
 Explore different chapters:
 
--   [Genetic Code](chapters/genetic-code.md)
+-   [Genetic Code](chapters/Genetic-Code)
