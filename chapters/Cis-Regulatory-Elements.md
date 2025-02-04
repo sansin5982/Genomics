@@ -201,6 +201,52 @@ specific conditions.
 
 ### B. Enhancers (Boost Gene Expression)
 
+Enhancers are CREs that play a crucial role in controlling gene
+expression by increasing the transcriptional activity of specific genes.
+Unlike promoters, which are generally located immediately upstream of a
+gene, **enhancers can be located at variable distances**, often
+**kilobases away from the gene they regulate**, either **upstream,
+downstream**, or **within intronic regions**. They can even be found on
+different chromosomes in some cases due to **chromatin looping**.
+
+#### Key Characteristics of Enhancers
+
+**1. Distance-Independent Function** \* Unlike promoters, enhancers do
+not need to be adjacent to the transcription start site (TSS). They can
+be located far away and still regulate gene transcription through DNA
+looping, which brings them in contact with the target gene.
+
+**2. Orientation Independence** \* Enhancers can function in **either
+orientation** (forward or reverse) without affecting their regulatory
+activity.
+
+**3. Tissue-Specific & Temporal Control** \* Enhancer activity is highly
+**cell-type specific** and varies depending on **developmental stage,
+cell signaling**, and **environmental stimuli**.
+
+**4. Mediators of Transcription Factor Binding** \* Enhancers contain
+multiple **TFBSs**. Transcription factors binding to enhancers recruit
+**coactivators**, including **mediator complexes**, **chromatin
+remodelers**, and **histone-modifying enzymes**, to promote
+transcription.
+
+**5. Chromatin Accessibility and Modifications** \* Enhancers are often
+marked by **histone modifications**, such as: \* **H3K4me1**
+(monomethylation of histone H3 lysine 4) \* **H3K27ac** (acetylation of
+histone H3 lysine 27), which distinguishes active enhancers. \* **DNAse
+I hypersensitivity** also indicates open chromatin regions where
+enhancers are accessible for transcription factor binding.
+
+**6. Enhancer-Promoter Interaction via Chromatin Looping** \* Enhancers
+interact with promoters through **chromatin looping**, facilitated by
+proteins like **cohesin** and **CTCF (CCCTC-binding factor)**, bringing
+them into spatial proximity despite physical distance on the linear
+genome.
+
+**7.Super-Enhancers** \* Clusters of enhancers that drive exceptionally
+high levels of transcription for key genes (often in cell identity and
+disease contexts) are termed **super-enhancers**.
+
 -   Can be **upstream, downstream, in introns, or even on a different
     chromosome**.
 
@@ -366,5 +412,15 @@ neurodevelopmental issues.</td>
 -   **Mutations in these regions can cause severe genetic diseases**.
 -   **Advanced sequencing and genome-editing tools** (e.g., **ChIP-seq,
     CRISPR, Hi-C**) help uncover their functions.
+
+### Reference:
+
+#### 1. Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2015). Molecular Biology of the Cell (6th ed.). Garland Science.
+
+#### 2. Lodish, H., Berk, A., Kaiser, C. A., Krieger, M., Bretscher, A., Ploegh, H., Amon, A., & Scott, M. P. (2021). Molecular Cell Biology (9th ed.). W.H. Freeman.
+
+#### 3. Lewin, B. (2018). Genes XII. Jones & Bartlett Learning.
+
+#### 4. Thomas, M. C., & Chiang, C. M. (2006). The general transcription machinery and general cofactors. Critical Reviews in Biochemistry and Molecular Biology, 41(3), 105–178.
 
 [⬅ Back to Home](../index.md)
