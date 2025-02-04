@@ -2,16 +2,26 @@
 
 ## 1. What are Cis-Regulatory Elements?
 
-**Cis-Regulatory Elements (CREs)** are **non-coding DNA sequences** that
-control **when, where, and how much a gene is expressed**. Unlike
-protein-coding sequences, CREs do not produce proteins but instead
-function as **“molecular switches”** that regulate gene activity.
+**Cis-Regulatory Elements (CREs)** or **cis-regulatory modules (CRMs)**
+are **non-coding DNA sequences** that control **when, where, and how
+much a gene is expressed**. Unlike protein-coding sequences, CREs do not
+produce proteins but instead function as **“molecular switches”** that
+regulate gene activity.
 
 These elements are called **“cis”** because they are located **on the
 same chromosome as the genes they regulate**. They function by
 interacting with **transcription factors (TFs)**, **chromatin
 remodelers**, and **RNA polymerase** to either activate or repress
-transcription.
+transcription. A single TFs may control the expression of many genes
+(**pleiotropy**) via binding many CREs. CREs contrast with **trans
+regulatory elements**.
+
+CREs are one of several types of functional **regulatory elements**.
+**Regulatory elements are binding site of TFs** which involved in gene
+regulation. **Histone modification** and/or **DNA methylation** also
+play a significant role in transcription. **Non-coding RNAs (ncRNAs)**
+such as **microRNAs (miRNAs)** also control gene activity
+**post-transcriptionally**.
 
 <img src="Figures/Structure_of_Eukaryotic_Gene_SMC.jpg" alt="Figure 1: Organization of a eukaryotic protein-coding gene region"  />
 <p class="caption">
@@ -211,9 +221,11 @@ expression changes</strong>.</td>
 ## 6. Role of Cis-Regulatory Elements in Disease
 
 Since **CREs control gene expression**, mutations in them can cause
-**disease** by: \* Activating oncogenes (cancer). \* Disrupting
-developmental genes (congenital disorders). \* Affecting brain gene
-expression (neurological disorders).
+**disease** by:
+
+-   Activating oncogenes (cancer).
+-   Disrupting developmental genes (congenital disorders).
+-   Affecting brain gene expression (neurological disorders).
 
 **Examples of CRE-Related Diseases**
 
