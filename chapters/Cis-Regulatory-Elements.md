@@ -209,9 +209,9 @@ gene, **enhancers can be located at variable distances**, often
 downstream**, or **within intronic regions**. They can even be found on
 different chromosomes in some cases due to **chromatin looping**.
 
-<img src="Figures/Enhancer_promoter_inter.png" alt="Figure 3: Promoter Enhancer Interaction" width="500" />
+<img src="Figures/Enhancer_promoter_inter.png" alt="Figure 4: Promoter Enhancer Interaction" width="500" />
 <p class="caption">
-Figure 3: Promoter Enhancer Interaction
+Figure 4: Promoter Enhancer Interaction
 </p>
 
 [Image Credit](https://www.cs.ucf.edu/~xiaoman/ET/)
@@ -330,9 +330,9 @@ repressor proteins bind to them. Silencers can be located **upstream,
 downstream, within introns, or even at a distance** from the target
 gene.
 
-<img src="Figures/Silencer.jpeg" alt="Figure 4: Promoter Enhancer Interaction"  />
+<img src="Figures/Silencer.jpeg" alt="Figure 5: Promoter Silencer Interaction"  />
 <p class="caption">
-Figure 4: Promoter Enhancer Interaction
+Figure 5: Promoter Silencer Interaction
 </p>
 
 [Image Credit](https://www.cs.ucf.edu/~xiaoman/ET/)
@@ -458,6 +458,14 @@ that regulatory elements influence only their specific target genes.
 
 Insulators perform two primary functions in gene regulation:
 
+<img src="Figures/insulators.jpg" alt="Figure 6: Insulators as enhancer blocking activity and barrier function"  />
+<p class="caption">
+Figure 6: Insulators as enhancer blocking activity and barrier function
+</p>
+
+[Image
+Credit](https://www.sciencedirect.com/science/article/abs/pii/S0168952514000535)
+
 #### 1. Enhancer-Blocking Activity
 
 -   Insulators **prevent enhancers from activating unintended genes** by
@@ -562,6 +570,15 @@ during development and differentiation.
 LCRs are particularly important in **gene clusters**, such as the
 **β-globin gene cluster**, where they help orchestrate stage-specific
 gene expression.
+
+<img src="Figures/LCR.png" alt="Figure 7: The β -LCR-HS2 region showing the positions of the three SNPs and the microsatellite motif (AT) X N 12 (AT) Y . " width="600" />
+<p class="caption">
+Figure 7: The β -LCR-HS2 region showing the positions of the three SNPs
+and the microsatellite motif (AT) X N 12 (AT) Y .
+</p>
+
+[Image
+Credit](https://www.researchgate.net/figure/The-b-LCR-HS2-region-showing-the-positions-of-the-three-SNPs-and-the-microsatellite_fig1_232717676)
 
 #### Key Characteristics of LCRs
 
