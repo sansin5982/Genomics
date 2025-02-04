@@ -108,9 +108,9 @@ coordinating their expression</td>
 
 ### A. Promoters (Essential for Transcription Initiation)
 
--   A **promoter** is a DNA sequence where proteins bind to initiate the
-    transcription of a single RNA transcript from the DNA downstream of
-    the promoter.
+-   A **promoter** is a DNA sequence where proteins, known as TFs, bind
+    to initiate the transcription of a single RNA transcript from the
+    DNA downstream of the promoter.
 
 -   Found near the **transcriptional start site (TSS) immediately
     upstream** of a gene (towards the **5\` region** of the **sense
@@ -123,8 +123,6 @@ coordinating their expression</td>
 
 -   Can be 100-1000 base pairs long, depends on the gene and product of
     transcription.
-
--   The promoters usually have
 
 -   Examples:
 
@@ -167,6 +165,8 @@ RNA polymerase II then binds and forms the transcription initiation
 complex.
 </p>
 
+[Image Credit](https://www.cs.ucf.edu/~xiaoman/ET/)
+
 Within the promoter region, just upstream of the transcription start
 site, lies the **TATA box**, a sequence consisting of repeated thymine
 and adenine nucleotides (TATA repeats). This region plays a crucial role
@@ -208,6 +208,13 @@ gene, **enhancers can be located at variable distances**, often
 **kilobases away from the gene they regulate**, either **upstream,
 downstream**, or **within intronic regions**. They can even be found on
 different chromosomes in some cases due to **chromatin looping**.
+
+<img src="Figures/Enhancer_promoter_inter.png" alt="Figure 3: Promoter Enhancer Interaction" width="500" />
+<p class="caption">
+Figure 3: Promoter Enhancer Interaction
+</p>
+
+[Image Credit](https://www.cs.ucf.edu/~xiaoman/ET/)
 
 #### Key Characteristics of Enhancers
 
@@ -254,7 +261,7 @@ different chromosomes in some cases due to **chromatin looping**.
     factor)**, bringing them into spatial proximity despite physical
     distance on the linear genome.
 
-#### 7.Super-Enhancers
+#### 7. Super-Enhancers
 
 -   Clusters of enhancers that drive exceptionally high levels of
     transcription for key genes (often in cell identity and disease
@@ -293,6 +300,24 @@ different chromosomes in some cases due to **chromatin looping**.
 
 -   RNA polymerase II is recruited and activated, allowing transcription
     to begin.
+
+#### Examples of Enhancer Function
+
+#### 1.β-Globin Locus Control Region (LCR)
+
+#### 1. The **β-globin gene cluster** is regulated by an **upstream enhancer**, known as the **locus control region (LCR)**, which ensures high expression of β-globin in erythroid cells.
+
+#### 2. SHH (Sonic Hedgehog) Enhancer in Limb Development
+
+-   The **ZRS (ZPA regulatory sequence)** is an enhancer that regulates
+    **Sonic Hedgehog (SHH)** gene expression in limb development.
+    Mutations in this enhancer lead to **limb malformations**.
+
+#### 3. MYC Super-Enhancer in Cancer
+
+-   The oncogene **MYC** is controlled by a **super-enhancer**, which
+    drives its high expression in cancer. Targeting MYC enhancers has
+    been explored as a potential cancer therapy.
 
 ### C. Silencers (Repress Gene Expression)
 
@@ -457,5 +482,13 @@ neurodevelopmental issues.</td>
 #### 3. Lewin, B. (2018). Genes XII. Jones & Bartlett Learning.
 
 #### 4. Thomas, M. C., & Chiang, C. M. (2006). The general transcription machinery and general cofactors. Critical Reviews in Biochemistry and Molecular Biology, 41(3), 105–178.
+
+#### 5. Plank, J. L., & Dean, A. (2014). Enhancer function: Mechanistic and genome-wide insights come together. Molecular Cell, 55(1), 5-14.
+
+#### 6. Whyte, W. A., Orlando, D. A., Hnisz, D., et al. (2013). Master transcription factors and mediator establish super-enhancers at key cell identity genes. Cell, 153(2), 307-319.
+
+#### 7. Catarino, R. R., & Stark, A. (2018). Assessing enhancer function in genome-wide studies. Nature Reviews Genetics, 19(7), 428-443.
+
+#### 8. Long, H. K., Prescott, S. L., & Wysocka, J. (2016). Ever-changing landscapes: Transcriptional enhancers in development and evolution. Cell, 167(5), 1170-1187.
 
 [⬅ Back to Home](../index.md)
