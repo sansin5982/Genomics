@@ -211,53 +211,88 @@ different chromosomes in some cases due to **chromatin looping**.
 
 #### Key Characteristics of Enhancers
 
-**1. Distance-Independent Function** \* Unlike promoters, enhancers do
-not need to be adjacent to the transcription start site (TSS). They can
-be located far away and still regulate gene transcription through DNA
-looping, which brings them in contact with the target gene.
+#### 1. Distance-Independent Function
 
-**2. Orientation Independence** \* Enhancers can function in **either
-orientation** (forward or reverse) without affecting their regulatory
-activity.
+-   Unlike promoters, enhancers do not need to be adjacent to the
+    transcription start site (TSS). They can be located far away and
+    still regulate gene transcription through DNA looping, which brings
+    them in contact with the target gene.
 
-**3. Tissue-Specific & Temporal Control** \* Enhancer activity is highly
-**cell-type specific** and varies depending on **developmental stage,
-cell signaling**, and **environmental stimuli**.
+#### 2. Orientation Independence
 
-**4. Mediators of Transcription Factor Binding** \* Enhancers contain
-multiple **TFBSs**. Transcription factors binding to enhancers recruit
-**coactivators**, including **mediator complexes**, **chromatin
-remodelers**, and **histone-modifying enzymes**, to promote
-transcription.
+-   Enhancers can function in **either orientation** (forward or
+    reverse) without affecting their regulatory activity.
 
-**5. Chromatin Accessibility and Modifications** \* Enhancers are often
-marked by **histone modifications**, such as: \* **H3K4me1**
-(monomethylation of histone H3 lysine 4) \* **H3K27ac** (acetylation of
-histone H3 lysine 27), which distinguishes active enhancers. \* **DNAse
-I hypersensitivity** also indicates open chromatin regions where
-enhancers are accessible for transcription factor binding.
+#### 3. Tissue-Specific & Temporal Control
 
-**6. Enhancer-Promoter Interaction via Chromatin Looping** \* Enhancers
-interact with promoters through **chromatin looping**, facilitated by
-proteins like **cohesin** and **CTCF (CCCTC-binding factor)**, bringing
-them into spatial proximity despite physical distance on the linear
-genome.
+-   Enhancer activity is highly **cell-type specific** and varies
+    depending on **developmental stage, cell signaling**, and
+    **environmental stimuli**.
 
-**7.Super-Enhancers** \* Clusters of enhancers that drive exceptionally
-high levels of transcription for key genes (often in cell identity and
-disease contexts) are termed **super-enhancers**.
+#### 4. Mediators of Transcription Factor Binding
 
--   Can be **upstream, downstream, in introns, or even on a different
-    chromosome**.
+-   Enhancers contain multiple **TFBSs**. Transcription factors binding
+    to enhancers recruit **coactivators**, including **mediator
+    complexes**, **chromatin remodelers**, and **histone-modifying
+    enzymes**, to promote transcription.
 
--   Work by **looping to interact with promoters**.
+#### 5. Chromatin Accessibility and Modifications
 
--   Examples:
+-   Enhancers are often marked by **histone modifications**, such as:
 
-    -   **SHH Limb Enhancer (ZRS)** → Regulates **Sonic Hedgehog (SHH)**
-        gene, controlling limb development. Mutations cause polydactyly.
-    -   **MYC Super-Enhancer** → Drives **high expression of MYC**, a
-        key oncogene in cancer.
+    -   **H3K4me1** (monomethylation of histone H3 lysine 4)
+    -   **H3K27ac** (acetylation of histone H3 lysine 27), which
+        distinguishes active enhancers.
+
+-   **DNAse I hypersensitivity** also indicates open chromatin regions
+    where enhancers are accessible for transcription factor binding.
+
+#### 6. Enhancer-Promoter Interaction via Chromatin Looping
+
+-   Enhancers interact with promoters through **chromatin looping**,
+    facilitated by proteins like **cohesin** and **CTCF (CCCTC-binding
+    factor)**, bringing them into spatial proximity despite physical
+    distance on the linear genome.
+
+#### 7.Super-Enhancers
+
+-   Clusters of enhancers that drive exceptionally high levels of
+    transcription for key genes (often in cell identity and disease
+    contexts) are termed **super-enhancers**.
+
+#### Examples:
+
+    * **SHH Limb Enhancer (ZRS)** → Regulates **Sonic Hedgehog (SHH)** gene, controlling limb development. Mutations cause polydactyly.
+    * **MYC Super-Enhancer** → Drives **high expression of MYC**, a key oncogene in cancer.
+
+#### Mechanism of Enhancer Function
+
+#### 1. Transcription Factor Recruitment
+
+-   Specific transcription factors bind to enhancer sequences,
+    recruiting coactivator complexes such as **Mediator, p300, CBP**,
+    and **chromatin remodelers**.
+
+#### 2. Mediator Complex Assembly
+
+-   The **mediator complex** bridges enhancer-bound transcription
+    factors and the basal transcription machinery at the promoter.
+
+#### 3. Histone Modifications and Chromatin Remodeling
+
+-   Histone acetylation and methylation open chromatin for transcription
+    machinery access.
+
+#### 4. DNA Looping Brings Enhancer to Promoter
+
+-   Proteins like **CTCF** and **Cohesin** mediate the formation of
+    **chromatin loops**, physically bringing enhancers and promoters
+    into close proximity.
+
+#### 5. Activation of RNA Polymerase II and Transcription Initiation
+
+-   RNA polymerase II is recruited and activated, allowing transcription
+    to begin.
 
 ### C. Silencers (Repress Gene Expression)
 
