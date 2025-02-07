@@ -7,7 +7,13 @@ In molecular genetics, gene expression is regulated by both
 (TREs)**. While **cis-elements** are located near the genes they
 regulate (like promoters and enhancers), **trans-elements** act from a
 different location in the genome and often encode diffusible factors
-like transcription factors, RNA molecules, and proteins.
+like transcription factors (TFs), RNA molecules, and proteins.
+
+-   **Diffuse**: In the context of TREs, the term **“diffuse”** means
+    that these molecules (such as **TFs, miRNAs, or regulatory
+    proteins**) are **not confined to a specific DNA location**.
+    Instead, they **move freely within the nucleus or cytoplasm** and
+    can regulate genes located on different chromosomes.
 
 TREs play a crucial role in gene regulation, allowing **a single
 regulatory molecule to control multiple genes**, even those located on
@@ -36,16 +42,27 @@ different chromosomes.
     **complex biological processes like development, cell
     differentiation, and stress responses**.
 
+<img src="Figures/Trans_factors.jpg" alt="Figure 1: Trans-Regulatory Elements and their interaction with Cis-Regualtory Elements"  />
+<p class="caption">
+Figure 1: Trans-Regulatory Elements and their interaction with
+Cis-Regualtory Elements
+</p>
+
+[Image Credit](http://chenlab.bio.sustech.edu.cn/research)
+
 ## How Do Trans-Regulatory Elements Work?
 
 TREs influence gene expression in multiple ways:
 
 -   **1. By binding to CREs in DNA** (e.g., transcription factors like
     p53)
+
 -   **2. By modifying chromatin structure** (e.g., histone-modifying
     enzymes like HDACs)
+
 -   **3. By binding to mRNA and regulating translation** (e.g.,
     microRNAs)
+
 -   **4. By interacting with other proteins that control gene
     expression** (e.g., co-activators like CBP/p300)
 
@@ -58,12 +75,20 @@ TREs exert their effects in multiple ways:
 
 ### Transcription Factors as TREs
 
-**Transcription factors (TFs) are proteins that bind to DNA and regulate
-gene expression by activating or repressing transcription**. These TFs
-are encoded by separate genes and travel to their target sites (bind to
-**CREs such as enhancers and promoters**), making them trans-regulatory.
-These TFs are encoded by **genes that can be located anywhere in the
-genome** and can regulate multiple genes on different chromosomes.
+**TFs are proteins that bind to DNA and regulate gene expression by
+activating or repressing transcription**. These TFs are encoded by
+separate genes and travel to their target sites (bind to **CREs such as
+enhancers and promoters**), making them trans-regulatory. These TFs are
+encoded by **genes that can be located anywhere in the genome** and can
+regulate multiple genes on different chromosomes.
+
+<img src="Figures/TFs.jpg" alt="Figure 2: Transcription Factors and Mediator Proteins"  />
+<p class="caption">
+Figure 2: Transcription Factors and Mediator Proteins
+</p>
+
+[Image
+Credit](https://www.sciencedirect.com/topics/neuroscience/transcription-factors)
 
 #### Example: p53 (Tumor Suppressor)
 
@@ -93,6 +118,14 @@ TREs by modulating gene expression post-transcriptionally.
 -   **miRNAs** typically bind to the 3’ UTR of target mRNAs, leading to
     mRNA degradation or translational repression.
 
+<img src="Figures/miRNA.jpg" alt="Figure 4: Translational Suppression by miRNAs"  />
+<p class="caption">
+Figure 4: Translational Suppression by miRNAs
+</p>
+
+[Image
+Credit](https://www.genecopoeia.com/product/mirna-precursor-clone/)
+
 -   **lncRNAs** can serve as scaffolds, enhancers, or decoys to
     influence gene regulation.
 
@@ -110,11 +143,18 @@ Some trans-regulatory elements regulate gene expression by modifying
 **chromatin structure**, making genes more or less accessible for
 transcription.
 
+<img src="Figures/HDAC.jpg" alt="Figure 4: HDAC as inhibitors"  />
+<p class="caption">
+Figure 4: HDAC as inhibitors
+</p>
+
+[Image Credit](https://www.nature.com/articles/nn.3200)
+
 #### Example: Histone Deacetylases (HDACs)
 
 -   **HDACs remove acetyl groups from histones**, leading to chromatin
     condensation and gene repression.
--   \*\*Since HDACs are enzymes that move freely and regulate multiple
+-   Since HDACs are enzymes that move freely and regulate multiple
     genes, they function as trans-regulatory elements.
 
 ### Repressor Proteins & Feedback Loops
@@ -134,6 +174,13 @@ Some proteins act as repressors by binding to DNA sequences and
     present.
 -   Since **LacI is a protein that diffuses to regulate another genetic
     locus**, it is a trans-regulatory element.
+
+<img src="Figures/Repressor_protein.png" alt="Figure 5: Repressor Protein blocking transcription" width="1687" />
+<p class="caption">
+Figure 5: Repressor Protein blocking transcription
+</p>
+
+[Image Credit](https://www.nature.com/articles/nn.3200)
 
 ### Key Differences Between Cis- and Trans-Regulatory Elements
 
@@ -192,7 +239,7 @@ repressors</td>
 -   **Hox genes**: Encode transcription factors that regulate body
     segmentation **across multiple genomic loci**.
 
-## Hormone-Receptor Complexes
+### Hormone-Receptor Complexes
 
 -   **Glucocorticoid Receptor (GR)**
     -   The **glucocorticoid receptor (GR) binds to glucocorticoid
@@ -201,14 +248,14 @@ repressors</td>
     -   The **GR gene itself is located on chromosome 5**, but it
         regulates genes across multiple chromosomes.
 
-## microRNAs as Trans-Acting Regulators
+### microRNAs as Trans-Acting Regulators
 
 -   **miR-34a**: Acts as a **tumor suppressor** by downregulating
     oncogenes.
 -   **miR-155**: Regulates immune responses by targeting multiple
     cytokine mRNAs.
 
-## Functional Significance of TREs
+### Functional Significance of TREs
 
 Trans-regulatory elements allow **dynamic and coordinated gene
 regulation**. Their **diffusible nature** enables:
@@ -217,7 +264,7 @@ regulation**. Their **diffusible nature** enables:
     responses).
 -   **2. Developmental control**, where the same factor regulates
     multiple genes in different tissues.
--   **3. **Gene networks\*\*, where multiple genes are turned on/off
+-   **3. Gene networks**, where multiple genes are turned on/off
     together to execute biological programs.
 
 ## Importance of Trans-Regulatory Elements
@@ -247,12 +294,6 @@ independently of the genomic location of the genes they control. They
 expression**, influencing everything from **development and metabolism
 to disease progression**. Their study continues to uncover fundamental
 insights into genetics, molecular biology, and medicin
-
--   **Diffuse**: In the context of TREs, the term **“diffuse”** means
-    that these molecules (such as **TFs, miRNAs, or regulatory
-    proteins**) are **not confined to a specific DNA location**.
-    Instead, they **move freely within the nucleus or cytoplasm** and
-    can regulate genes located on different chromosomes.
 
 ### Reference:
 
