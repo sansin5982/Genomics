@@ -111,9 +111,11 @@ Credit](https://www.sciencedirect.com/topics/neuroscience/transcription-factors)
 ### RNA-Based Trans-Regulation
 
 Not all trans-regulatory elements are proteins. Some regulatory RNAs
-also function as TREs. \* Certain **non-coding RNAs (ncRNAs)**, like
-**microRNAs (miRNAs)** and **long non-coding RNAs (lncRNAs)**, act as
-TREs by modulating gene expression post-transcriptionally.
+also function as TREs.
+
+-   Certain **non-coding RNAs (ncRNAs)**, like **microRNAs (miRNAs)**
+    and **long non-coding RNAs (lncRNAs)**, act as TREs by modulating
+    gene expression post-transcriptionally.
 
 -   **miRNAs** typically bind to the 3’ UTR of target mRNAs, leading to
     mRNA degradation or translational repression.
