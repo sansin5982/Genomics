@@ -180,7 +180,8 @@ Some proteins act as repressors by binding to DNA sequences and
 Figure 5: Repressor Protein blocking transcription
 </p>
 
-[Image Credit](https://www.nature.com/articles/nn.3200)
+[Image
+Credit](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/a/overview-gene-regulation-in-bacteria)
 
 ### Key Differences Between Cis- and Trans-Regulatory Elements
 
