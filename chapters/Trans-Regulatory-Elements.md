@@ -118,7 +118,7 @@ TREs by modulating gene expression post-transcriptionally.
 -   **miRNAs** typically bind to the 3’ UTR of target mRNAs, leading to
     mRNA degradation or translational repression.
 
-<img src="Figures/miRNA.jpg" alt="Figure 4: Translational Suppression by miRNAs" width="100%" height="100%" />
+<img src="Figures/miRNA.jpg" alt="Figure 4: Translational Suppression by miRNAs" width="50%" height="50%" />
 <p class="caption">
 Figure 4: Translational Suppression by miRNAs
 </p>
