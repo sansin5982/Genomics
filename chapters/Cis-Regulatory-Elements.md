@@ -792,7 +792,53 @@ neurodevelopmental issues.</td>
 </tbody>
 </table>
 
-## 7. Conclusion
+### Key Differences Between Cis- and Trans-Regulatory Elements
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Feature</th>
+<th style="text-align: left;">CREs</th>
+<th style="text-align: left;">TREs</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Location</strong></td>
+<td style="text-align: left;">Near the traget gene</td>
+<td style="text-align: left;">Can be anywhere in the genome</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Function</strong></td>
+<td style="text-align: left;">Binding sites for regulators</td>
+<td style="text-align: left;">Encode proteins/RNAs that regulate
+genes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Mobility</strong></td>
+<td style="text-align: left;">Fixed in the DNA sequence</td>
+<td style="text-align: left;">Diffusible molecules</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Examples</strong></td>
+<td style="text-align: left;">Promoters, enhancers, silencers</td>
+<td style="text-align: left;">Transcription factors, miRNAs,
+repressors</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Regulation</strong></td>
+<td style="text-align: left;">Affects only nearby genes</td>
+<td style="text-align: left;">Can regulate multiple genes</td>
+</tr>
+</tbody>
+</table>
+
+### 7. Conclusion
 
 -   **Cis-regulatory elements** are critical for gene expression and
     influence development, cell identity, and disease.
