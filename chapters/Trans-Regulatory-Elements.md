@@ -319,3 +319,5 @@ insights into genetics, molecular biology, and medicin
 -   Weintraub, H. (1993). “The MyoD family and myogenesis: redundancy,
     networks, and thresholds.” Cell, 75(7), 1241-1244. DOI:
     10.1016/0092-8674(93)90610-3
+
+[⬅ Back to Home](../index.md)
