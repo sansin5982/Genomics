@@ -14,14 +14,6 @@ double helix structure.
 Before DNA was identified as the genetic material, scientists believed
 proteins carried genetic information due to their complexity.
 
-<img src="Figures/DNA_structure.jpg" alt="Figure 1: Structire of DNA"  />
-<p class="caption">
-Figure 1: Structire of DNA
-</p>
-
-[Image
-Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
-
 ### 2. Key Discoveries
 
 -   **1869 - Friedrich Miescher**: Isolated a substance from white blood
@@ -43,6 +35,14 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
 
 DNA has a **double-helix structure**, resembling a twisted ladder. The
 **building blocks** of DNA are nucleotides, which consist of:
+
+<img src="Figures/DNA_structure.jpg" alt="Figure 1: Structure of DNA"  />
+<p class="caption">
+Figure 1: Structure of DNA
+</p>
+
+[Image
+Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
 
 #### 1. A phosphate group
 
