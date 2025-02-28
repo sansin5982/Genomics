@@ -71,4 +71,98 @@ There are **four** nitrogenous bases:
 -   **Antiparallel Strands**: One strand runs **5’ to 3’**, and the
     other runs **3’ to 5’**.
 
+### Function of DNA
+
+-   **Stores Genetic Information**: Carries instructions for protein
+    synthesis.
+-   **Replication**: Copies itself before cell division.
+-   **Mutation & Evolution**: Changes in DNA lead to genetic diversity.
+-   **Gene Expression**: Controls when and how genes are turned on or
+    off.
+
+## Types of DNA
+
+DNA can be classified based on its structure, location, and function.
+
+### 1. Based on Structure
+
+DNA exists in **three main structural forms**:
+
+#### A-DNA (Right-Handed Helix)
+
+-   Found in dehydrated conditions.
+-   Shorter and wider than B-DNA.
+-   Rarely occurs in living cells.
+
+#### B-DNA (Right-Handed Helix)
+
+-   Most common form in living cells.
+-   Discovered by Watson and Crick.
+-   Has a major groove and minor groove for protein interactions.
+
+#### Z-DNA (Left-Handed Helix)
+
+-   Zigzag backbone structure.
+-   Found in regions of DNA undergoing transcription.
+-   May play a role in gene regulation.
+
+### 2. Based on Location in Cells
+
+DNA is found in different organelles:
+
+#### Nuclear DNA (nDNA)
+
+-   Located in the **nucleus** of eukaryotic cells.
+-   Inherited from both parents.
+-   Encodes most of the genetic information.
+
+#### Mitochondrial DNA (mtDNA)
+
+-   Found in mitochondria.
+-   Circular and maternally inherited.
+-   Plays a crucial role in energy production.
+
+#### Chloroplast DNA (cpDNA)
+
+-   Found in chloroplasts of plant cells. \*Encodes proteins for
+    photosynthesis.
+
+### 3. Based on Function
+
+#### Coding DNA
+
+-   Contains genes that are transcribed into RNA.
+-   Only 1-2% of the human genome is coding DNA.
+
+#### Non-Coding DNA
+
+-   Does not code for proteins but has regulatory roles.
+-   Includes **introns, regulatory elements, and repetitive DNA**.
+
+### 4. Based on Organization in the Genome
+
+#### Single-Copy DNA
+
+-   Unique sequences that occur once in the genome.
+-   Includes protein-coding genes.
+
+#### Repetitive DNA
+
+-   Sequences repeated many times.
+-   Examples:
+    -   **Tandem repeats** (e.g., microsatellites, minisatellites).
+    -   **Interspersed repeats** (e.g., transposable elements).
+
+### References
+
+-   Watson, J. D., & Crick, F. H. (1953). Molecular structure of nucleic
+    acids: A structure for deoxyribose nucleic acid. Nature, 171(4356),
+    737-738. DOI: 10.1038/171737a0
+-   Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., &
+    Walter, P. (2002). Molecular Biology of the Cell. 4th edition. New
+    York: Garland Science.
+-   Lodish, H., Berk, A., Zipursky, S. L., et al. (2000). Molecular Cell
+    Biology. 4th edition. W. H. Freeman.
+-   Brown, T. A. (2002). Genomes. 2nd edition. Oxford: Wiley-Liss.
+
 [⬅ Back to Home](../index.md)
