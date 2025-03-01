@@ -309,7 +309,7 @@ DNA exists in **three main structural forms**:
 -   Found in regions of DNA undergoing transcription.
 -   May play a role in gene regulation.
 
-<img src="Figures/DNA forms.jpg" alt="Figure 6: Different forms of DNA" width="50%" height="50%" />
+<img src="Figures/DNA forms.jpg" alt="Figure 6: Different forms of DNA" width="60%" height="60%" />
 <p class="caption">
 Figure 6: Different forms of DNA
 </p>
@@ -349,6 +349,14 @@ DNA is found in different organelles:
 
 -   Does not code for proteins but has regulatory roles.
 -   Includes **introns, regulatory elements, and repetitive DNA**.
+
+<img src="Figures/Gene_structure.jpg" alt="Figure 7: Coding and Noncoding DNA" width="60%" height="60%" />
+<p class="caption">
+Figure 7: Coding and Noncoding DNA
+</p>
+
+[Image
+Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-and-function-of-cellular-genomes/)
 
 ### 4. Based on Organization in the Genome
 
