@@ -380,18 +380,71 @@ Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-an
 
 There is a second nucleic acid in all cells called **ribonucleic acid**,
 or **RNA**. Like DNA, RNA is a polymer of nucleotides. Fundamental
-differences between DNA and RNA are: |Feature|DNA|RNA| |:—|:—|:—|
-|**Sugar**|Deoxyribose (lacks oxygen at 2’ carbon)|Ribose (has oxygen at
-2’ carbon)| |**Strands**|Double-stranded (mostly)|Single-stranded
-(mostly)| |**Base**|Adenine (A), Thymine (T), Guanine (G), Cytosine
-(C)|Adenine (A), Uracil (U), Guanine (G), Cytosine (C)|
-|**Stability**|More stable due to double helix and hydrogen bonding|Less
-stable, degrades faster| |**Function**|Stores and transmits genetic
-information|Involved in protein synthesis (mRNA, tRNA, rRNA) and gene
-regulation| |**Types**|Only one main type|Three main types (mRNA, tRNA,
-rRNA)| |**Location**|Found in the nucleus (eukaryotes) and cytoplasm
-(prokaryotes)|Found in the nucleus and cytoplasm|
-|**Replication**|Self-replicating|Synthesized from DNA (transcription)|
+differences between DNA and RNA are:
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Feature</th>
+<th style="text-align: left;">DNA</th>
+<th style="text-align: left;">RNA</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Sugar</strong></td>
+<td style="text-align: left;">Deoxyribose (lacks oxygen at 2’
+carbon)</td>
+<td style="text-align: left;">Ribose (has oxygen at 2’ carbon)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Strands</strong></td>
+<td style="text-align: left;">Double-stranded (mostly)</td>
+<td style="text-align: left;">Single-stranded (mostly)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Base</strong></td>
+<td style="text-align: left;">Adenine (A), Thymine (T), Guanine (G),
+Cytosine (C)</td>
+<td style="text-align: left;">Adenine (A), Uracil (U), Guanine (G),
+Cytosine (C)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Stability</strong></td>
+<td style="text-align: left;">More stable due to double helix and
+hydrogen bonding</td>
+<td style="text-align: left;">Less stable, degrades faster</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Function</strong></td>
+<td style="text-align: left;">Stores and transmits genetic
+information</td>
+<td style="text-align: left;">Involved in protein synthesis (mRNA, tRNA,
+rRNA) and gene regulation</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Types</strong></td>
+<td style="text-align: left;">Only one main type</td>
+<td style="text-align: left;">Three main types (mRNA, tRNA, rRNA)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Location</strong></td>
+<td style="text-align: left;">Found in the nucleus (eukaryotes) and
+cytoplasm (prokaryotes)</td>
+<td style="text-align: left;">Found in the nucleus and cytoplasm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Replication</strong></td>
+<td style="text-align: left;">Self-replicating</td>
+<td style="text-align: left;">Synthesized from DNA (transcription)</td>
+</tr>
+</tbody>
+</table>
 
 <img src="Figures/RNA_vs_DNA.jpg" alt="Figure 8: Difference between RNA and DNA" width="75%" height="75%" />
 <p class="caption">
