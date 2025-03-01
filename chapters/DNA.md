@@ -350,7 +350,7 @@ DNA is found in different organelles:
 -   Does not code for proteins but has regulatory roles.
 -   Includes **introns, regulatory elements, and repetitive DNA**.
 
-<img src="Figures/Gene_structure.jpg" alt="Figure 7: Coding and Noncoding DNA" width="60%" height="60%" />
+<img src="Figures/Gene_structure.jpg" alt="Figure 7: Coding and Noncoding DNA" width="75%" height="75%" />
 <p class="caption">
 Figure 7: Coding and Noncoding DNA
 </p>
@@ -362,12 +362,16 @@ Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-an
 
 #### Single-Copy DNA
 
--   Unique sequences that occur once in the genome.
--   Includes protein-coding genes.
+-   Unique sequences of DNA that occur once in the genome.
+-   Includes protein-coding genes, mainly found in the **exons** and are
+    sited for transcription.
+-   They are present in **Euchromatin** part as they are coding region.
 
 #### Repetitive DNA
 
--   Sequences repeated many times.
+-   Sequences repeated many times. They are short in sequence.
+-   They are present in **heterochromatin** and unique in different
+    individuals.  
 -   Examples:
     -   **Tandem repeats** (e.g., microsatellites, minisatellites).
     -   **Interspersed repeats** (e.g., transposable elements).
@@ -388,6 +392,14 @@ regulation| |**Types**|Only one main type|Three main types (mRNA, tRNA,
 rRNA)| |**Location**|Found in the nucleus (eukaryotes) and cytoplasm
 (prokaryotes)|Found in the nucleus and cytoplasm|
 |**Replication**|Self-replicating|Synthesized from DNA (transcription)|
+
+<img src="Figures/RNA_vs_DNA.jpg" alt="Figure 8: Difference between RNA and DNA" width="75%" height="75%" />
+<p class="caption">
+Figure 8: Difference between RNA and DNA
+</p>
+
+[Image
+Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
 
 ### References
 
