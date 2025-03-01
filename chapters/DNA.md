@@ -67,16 +67,10 @@ Figure 1: Structure of DNA
 [Image
 Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
 
-#### 1. A phosphate group
-
-#### 2. A deoxyribose sugar (pentose sugar)
-
-#### 3. A nitrogenous base
-
 ### 1. Phosphate Group
 
--   The \*\*phosphate group (PO₄\*)** consists of **one phosphorus
-    atom** bonded to **four oxygen atoms\*\*.
+-   The **phosphate group (PO₄)** consists of **one phosphorus atom**
+    bonded to **four oxygen atoms**.
 -   It is **negatively charged**, making DNA an **acidic molecule**.
 -   Phosphate groups are linked to **deoxyribose sugars** through
     **phosphodiester bonds**, forming the **sugar-phosphate backbone**.
@@ -90,6 +84,14 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
 -   Maintains DNA’s **negative charge**, which helps in interactions
     with proteins (e.g., histones).
 -   Forms the **backbone** of the DNA molecule.
+
+<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 2: Nucleotides = deoxyribose + base + phosphate group"  />
+<p class="caption">
+Figure 2: Nucleotides = deoxyribose + base + phosphate group
+</p>
+
+[Image
+Credit](https://elearning.fondation-merieux.org/molecular-biology/chapter-1/page-8.php)
 
 ### 2. Deoxyribose Sugar
 
@@ -119,7 +121,7 @@ base</strong> (A, T, G, C)</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>2’ Carbon</strong></td>
-<td style="text-align: left;">Lacks an oxygen atom (hence, “deoxy”</td>
+<td style="text-align: left;">Lacks an oxygen atom (hence, “deoxy”)</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>3’ Carbon</strong></td>
