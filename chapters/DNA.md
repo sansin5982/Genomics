@@ -87,7 +87,7 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
     with proteins (e.g., histones).
 -   Forms the **backbone** of the DNA molecule.
 
-<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 2: Nucleotides = deoxyribose + base + phosphate group" width="50%" height="50%" />
+<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 2: Nucleotides = deoxyribose + base + phosphate group" width="70%" height="70%" />
 <p class="caption">
 Figure 2: Nucleotides = deoxyribose + base + phosphate group
 </p>
@@ -168,6 +168,15 @@ There are **four** nitrogenous bases classified into **two groups**:
 -   **Cytosine (C)**
 -   **Thymine (T)**
 -   Smaller, **one-ring** molecules.
+
+<img src="Figures/Nucleotides.jpg" alt="Figure 3: Cytosine and Thymine are pyrimidine and Guanine and Adenine are purines" width="70%" height="70%" />
+<p class="caption">
+Figure 3: Cytosine and Thymine are pyrimidine and Guanine and Adenine
+are purines
+</p>
+
+[Image
+Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
 
 ### Base Pairing Rule (Chargaff’s Rule)
 
