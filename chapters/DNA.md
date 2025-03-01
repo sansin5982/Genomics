@@ -86,6 +86,10 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
 -   These bonds connect the **5’ carbon** of one nucleotide’s sugar to
     the **3’ carbon** of the next nucleotide’s sugar, ensuring the
     **directionality** of the DNA strand (5’ to 3’).
+-   **Phosphodiester bonds**occurs when exactly two of the hydroxyl
+    groups (-OH) in phosphoric acid react with hydroxyl groups on the
+    molecules to form two easter bonds. The **“bond”** involves this
+    linkage **C-O-PO-2O-C**.
 
 #### Function:
 
@@ -160,7 +164,12 @@ These nitrogenous bases follow specific pairing rules (**A with T and G
 with C**) to maintain the stability of the double helix. Furthermore,
 DNA exists in various structural forms (B-DNA, A-DNA, Z-DNA), allowing
 flexibility in biological processes such as **gene expression,
-regulation, and repair**.
+regulation, and repair**. These base pairs are stabilize by **hydrogen
+bonds**; adenine and thymine form 2 hydrogen bonds between them, where
+as cytosine and guanine from three hydrogen bonds between them.
+
+-   Hydrogen Bonding is a special dipole-dipole attraction between
+    molecules, not a covalent bond to hydrogen atom.
 
 There are **four** nitrogenous bases classified into **two groups**:
 
@@ -266,7 +275,7 @@ In a **double-stranded DNA molecule**:
 -   **Antiparallel Strands**: One strand runs **5’ to 3’**, and the
     other runs **3’ to 5’**.
 
-<img src="Figures/Antiparallel DNA.jpg" alt="Figure 5: Antiparallel Structure of DNA" width="50%" height="50%" />
+<img src="Figures/Antiparallel DNA.jpg" alt="Figure 5: Antiparallel Structure of DNA" width="75%" height="75%" />
 <p class="caption">
 Figure 5: Antiparallel Structure of DNA
 </p>
@@ -366,12 +375,17 @@ Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-an
 -   Includes protein-coding genes, mainly found in the **exons** and are
     sited for transcription.
 -   They are present in **Euchromatin** part as they are coding region.
+-   Euchromatin (also called open chromatin) is lightly packed form of
+    chromatin (DNA, RNA and protein) that is enriched in genes and is
+    often under active transcription.
 
 #### Repetitive DNA
 
 -   Sequences repeated many times. They are short in sequence.
 -   They are present in **heterochromatin** and unique in different
-    individuals.  
+    individuals.
+-   Heterochromatin is tightly packed form of DNA or condensed DNA, and
+    less accessible for transcription.
 -   Examples:
     -   **Tandem repeats** (e.g., microsatellites, minisatellites).
     -   **Interspersed repeats** (e.g., transposable elements).
@@ -381,6 +395,14 @@ Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-an
 There is a second nucleic acid in all cells called **ribonucleic acid**,
 or **RNA**. Like DNA, RNA is a polymer of nucleotides. Fundamental
 differences between DNA and RNA are:
+
+<img src="Figures/RNA_vs_DNA.jpg" alt="Figure 8: Difference between RNA and DNA" width="75%" height="75%" />
+<p class="caption">
+Figure 8: Difference between RNA and DNA
+</p>
+
+[Image
+Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
 
 <table>
 <colgroup>
@@ -445,14 +467,6 @@ cytoplasm (prokaryotes)</td>
 </tr>
 </tbody>
 </table>
-
-<img src="Figures/RNA_vs_DNA.jpg" alt="Figure 8: Difference between RNA and DNA" width="75%" height="75%" />
-<p class="caption">
-Figure 8: Difference between RNA and DNA
-</p>
-
-[Image
-Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
 
 ### References
 
