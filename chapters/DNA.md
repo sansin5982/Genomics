@@ -12,6 +12,13 @@ arranged in a precise sequence to form a **double-helix structure**, a
 discovery attributed to **James Watson** and **Francis Crick** in 1953,
 based on Rosalind Franklin’s crucial X-ray diffraction data.
 
+<img src="Figures/DNA.png" alt="Figure 1: The Location of DNA in Human cells" width="50%" height="50%" />
+<p class="caption">
+Figure 1: The Location of DNA in Human cells
+</p>
+
+[Image Credit](https://theory.labster.com/dna-location/)
+
 DNA plays a central role in biological inheritance, ensuring that traits
 are passed from one generation to the next. It serves as a **blueprint**
 for the synthesis of proteins, which are essential for the structure and
@@ -61,9 +68,9 @@ proteins carried genetic information due to their complexity.
 DNA has a **double-helix structure**, resembling a twisted ladder. The
 **building blocks** of DNA are nucleotides, which consist of:
 
-<img src="Figures/DNA_structure.jpg" alt="Figure 1: Structure of DNA"  />
+<img src="Figures/DNA_structure.jpg" alt="Figure 2: Structure of DNA"  />
 <p class="caption">
-Figure 1: Structure of DNA
+Figure 2: Structure of DNA
 </p>
 
 [Image
@@ -87,9 +94,9 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
     with proteins (e.g., histones).
 -   Forms the **backbone** of the DNA molecule.
 
-<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 2: Nucleotides = deoxyribose + base + phosphate group" width="70%" height="70%" />
+<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 3: Nucleotides = deoxyribose + base + phosphate group" width="70%" height="70%" />
 <p class="caption">
-Figure 2: Nucleotides = deoxyribose + base + phosphate group
+Figure 3: Nucleotides = deoxyribose + base + phosphate group
 </p>
 
 [Image
@@ -169,9 +176,9 @@ There are **four** nitrogenous bases classified into **two groups**:
 -   **Thymine (T)**
 -   Smaller, **one-ring** molecules.
 
-<img src="Figures/Nucleotides.jpg" alt="Figure 3: Cytosine and Thymine are pyrimidine and Guanine and Adenine are purines" width="70%" height="70%" />
+<img src="Figures/Nucleotides.jpg" alt="Figure 4: Cytosine and Thymine are pyrimidine and Guanine and Adenine are purines" width="50%" height="50%" />
 <p class="caption">
-Figure 3: Cytosine and Thymine are pyrimidine and Guanine and Adenine
+Figure 4: Cytosine and Thymine are pyrimidine and Guanine and Adenine
 are purines
 </p>
 
