@@ -12,7 +12,7 @@ arranged in a precise sequence to form a **double-helix structure**, a
 discovery attributed to **James Watson** and **Francis Crick** in 1953,
 based on Rosalind Franklin’s crucial X-ray diffraction data.
 
-<img src="Figures/DNA.png" alt="Figure 1: The Location of DNA in Human cells" width="50%" height="50%" />
+<img src="Figures/DNA.png" alt="Figure 1: The Location of DNA in Human cells" width="70%" height="70%" />
 <p class="caption">
 Figure 1: The Location of DNA in Human cells
 </p>
@@ -94,7 +94,7 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
     with proteins (e.g., histones).
 -   Forms the **backbone** of the DNA molecule.
 
-<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 3: Nucleotides = deoxyribose + base + phosphate group" width="70%" height="70%" />
+<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 3: Nucleotides = deoxyribose + base + phosphate group" width="60%" height="60%" />
 <p class="caption">
 Figure 3: Nucleotides = deoxyribose + base + phosphate group
 </p>
@@ -187,10 +187,77 @@ Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
 
 ### Base Pairing Rule (Chargaff’s Rule)
 
--   Adenine (A) pairs with Thymine (T) → A=T (2 hydrogen bonds).
--   Guanine (G) pairs with Cytosine (C) → G≡C (3 hydrogen bonds).
--   The hydrogen bonds between these bases hold the two DNA strands
-    together.
+Chargaff’s Rule, formulated by **Erwin Chargaff** in the **1950s**,
+describes the **base composition** of DNA. It consists of two key
+principles:
+
+#### 1. Base Pairing Rule (First Parity Rule)
+
+In a **double-stranded DNA molecule**:
+
+-   The amount of **Adenine (A)** is equal to the amount of
+    **Thymine (T) → A = T**
+-   The amount of **Guanine (G)** is equal to the amount of
+    **Cytosine (C) → G = C**
+-   This **complementary base pairing** ensures that **purines (A, G)
+    and pyrimidines (T, C) pair in a 1:1 ratio**.
+
+#### Example of Base Composition in Different Organisms
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Organism</th>
+<th style="text-align: left;">A(%)</th>
+<th style="text-align: left;">T(%)</th>
+<th style="text-align: left;">G(%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Human</td>
+<td style="text-align: left;">30.9</td>
+<td style="text-align: left;">29.4</td>
+<td style="text-align: left;">19.9</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">E.coli</td>
+<td style="text-align: left;">24.7</td>
+<td style="text-align: left;">23.6</td>
+<td style="text-align: left;">26.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Yeast</td>
+<td style="text-align: left;">31.3</td>
+<td style="text-align: left;">32.9</td>
+<td style="text-align: left;">18.7</td>
+</tr>
+</tbody>
+</table>
+
+#### 2. Species Variation Rule (Second Parity Rule)
+
+-   The total **percentage of A+T is not necessarily equal to G+C**.
+-   Different species have different **A+T and G+C ratios**, leading to
+    **genetic diversity**.
+-   This disproved the earlier belief that DNA composition is the same
+    in all organisms.
+
+#### Significance of Chargaff’s Rule
+
+-   **Supported Watson & Crick’s Discovery of the DNA Double Helix**
+    -   The **1:1 ratio of base pairs** explained the structure of DNA.
+    -   It confirmed the concept of **complementary base pairing (A-T,
+        G-C)**.
+-   **Provided Evidence for DNA as the Genetic Material**
+    -   DNA composition varies among species but follows the same rules,
+        highlighting its role in heredity.
+-   **Helps in DNA Replication and Transcription**
+    -   During replication, the base-pairing rule ensures accurate
+        copying of genetic information.
+-   **Important in Genetic Research & Forensics**
+    -   DNA sequencing and fingerprinting rely on base composition
+        analysis.
 
 ### DNA Double Helix Features
 
