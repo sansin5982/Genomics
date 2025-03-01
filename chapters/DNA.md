@@ -85,7 +85,7 @@ Credit](https://www2.nau.edu/lrm22/lessons/dna_notes/dna_notes.html)
     with proteins (e.g., histones).
 -   Forms the **backbone** of the DNA molecule.
 
-<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 2: Nucleotides = deoxyribose + base + phosphate group"  />
+<img src="Figures/DNA_chemical_structure.jpg" alt="Figure 2: Nucleotides = deoxyribose + base + phosphate group" width="50%" height="50%" />
 <p class="caption">
 Figure 2: Nucleotides = deoxyribose + base + phosphate group
 </p>
