@@ -266,6 +266,13 @@ In a **double-stranded DNA molecule**:
 -   **Antiparallel Strands**: One strand runs **5’ to 3’**, and the
     other runs **3’ to 5’**.
 
+<img src="Figures/Antiparallel DNA.jpg" alt="Figure 5: Antiparallel Structure of DNA" width="50%" height="50%" />
+<p class="caption">
+Figure 5: Antiparallel Structure of DNA
+</p>
+
+[Image Credit](https://slideplayer.com/slide/17764629/#google_vignette)
+
 ### Function of DNA
 
 -   **Stores Genetic Information**: Carries instructions for protein
@@ -301,6 +308,14 @@ DNA exists in **three main structural forms**:
 -   Zigzag backbone structure.
 -   Found in regions of DNA undergoing transcription.
 -   May play a role in gene regulation.
+
+<img src="Figures/DNA forms.jpg" alt="Figure 6: Different forms of DNA" width="50%" height="50%" />
+<p class="caption">
+Figure 6: Different forms of DNA
+</p>
+
+[Image
+Credit](https://www.chemistryworld.com/features/more-than-a-mirror-image-left-handed-nucleic-acids/4018889.article)
 
 ### 2. Based on Location in Cells
 
@@ -348,6 +363,23 @@ DNA is found in different organelles:
 -   Examples:
     -   **Tandem repeats** (e.g., microsatellites, minisatellites).
     -   **Interspersed repeats** (e.g., transposable elements).
+
+### Basic Differences Between DNA and RNA
+
+There is a second nucleic acid in all cells called **ribonucleic acid**,
+or **RNA**. Like DNA, RNA is a polymer of nucleotides. Fundamental
+differences between DNA and RNA are: |Feature|DNA|RNA| |:—|:—|:—|
+|**Sugar**|Deoxyribose (lacks oxygen at 2’ carbon)|Ribose (has oxygen at
+2’ carbon)| |**Strands**|Double-stranded (mostly)|Single-stranded
+(mostly)| |**Base**|Adenine (A), Thymine (T), Guanine (G), Cytosine
+(C)|Adenine (A), Uracil (U), Guanine (G), Cytosine (C)|
+|**Stability**|More stable due to double helix and hydrogen bonding|Less
+stable, degrades faster| |**Function**|Stores and transmits genetic
+information|Involved in protein synthesis (mRNA, tRNA, rRNA) and gene
+regulation| |**Types**|Only one main type|Three main types (mRNA, tRNA,
+rRNA)| |**Location**|Found in the nucleus (eukaryotes) and cytoplasm
+(prokaryotes)|Found in the nucleus and cytoplasm|
+|**Replication**|Self-replicating|Synthesized from DNA (transcription)|
 
 ### References
 
