@@ -18,7 +18,9 @@ for the synthesis of proteins, which are essential for the structure and
 function of every cell in the body. The ability of DNA to **replicate**
 itself allows genetic information to be transmitted accurately during
 cell division. However, occasional changes in the DNA sequence, known as
-**mutations**, contribute to **genetic diversity** and evolution.
+**mutations**, contribute to **genetic diversity** and evolution.The
+**entire genetic content** of a cell is known as its **genome**, and the
+study of genomes is **genomics**.
 
 The structure of DNA is **highly conserved** across species, yet the
 sequence of nucleotide bases within the DNA molecule determines the
