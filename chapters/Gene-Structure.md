@@ -751,11 +751,140 @@ in muscle fibers.</td>
 
 ## Impact on protein diversity
 
+### 1. Expands the Proteome Without Increasing Gene Count
+
+-   Humans have **~20,000 protein-coding genes**, yet alternative
+    splicing **creates over 100,000 different proteins**.
+
+### 2. Tissue-Specific Isoforms
+
+-   Different splicing patterns create **cell- and tissue-specific
+    proteins**.
+
+#### Example:
+
+-   **Tropomyosin gene (TPM1)** produces **different isoforms** in
+    muscle vs. non-muscle cells.
+
+### 3. Role in Development and Differentiation
+
+-   Alternative splicing enables stem cells to differentiate into
+    various cell types.
+
+#### Example:
+
+-   **Neural-specific splicing of PTBP1** controls brain development.
+
+### 4. Implications in Disease
+
+-   **Defective splicing causes many diseases**, including:
+    -   **Cancer**: Aberrant splicing of Bcl-x leads to overproduction
+        of anti-apoptotic proteins.
+    -   **Spinal Muscular Atrophy (SMA)**: SMN1 gene splicing defects
+        lead to neuron degeneration.
+
 # 7. Evolutionary Perspective
+
+The presence of **introns** and **non-coding DNA** in the genome has
+long been debated in evolutionary biology. While earlier scientists
+considered non-coding DNA as **“junk DNA,”** modern research has
+revealed its crucial roles in **gene regulation, alternative splicing,
+and evolutionary adaptability**. This section explores **why genes have
+introns** and the differences between **conserved vs. species-specific
+non-coding DNA**.
 
 ## Why do genes have introns?
 
+### 1. Evolutionary Origins of Introns
+
+There are two main theories regarding the origin of introns: \*
+**Introns-Early Hypothesis**: Introns existed in the earliest life forms
+and played a role in assembling genes. \* **Introns-Late Hypothesis**:
+Introns evolved later and were inserted into existing genes during
+evolution.
+
+Regardless of their origin, introns have been preserved in eukaryotic
+genomes due to their functional advantages.
+
+### 2. Functional Roles of Introns in Evolution
+
+#### A. Facilitating Alternative Splicing
+
+-   Introns allow for **alternative splicing**, enabling a single gene
+    to produce multiple proteins.
+-   This enhances **protein diversity**, which is **crucial for
+    adaptation**.
+
+#### Example:
+
+-   The **DSCAM gene** in **Drosophila (fruit flies)** produces over
+    **38,000 protein isoforms** via alternative splicing, helping in
+    **neuronal development**.
+
+#### B. Enhancing Gene Regulation
+
+-   Some introns **contain enhancers and silencers** that regulate gene
+    expression.
+-   Introns may act as **“spacer DNA”** to ensure correct protein
+    folding.
+
+#### Example:
+
+-   The **FGFR2 gene** (linked to limb development) has an **intron with
+    an enhancer** that controls **tissue-specific expression**.
+
+#### C. Accelerating Evolution Through Exon Shuffling
+
+-   Introns allow for **exon shuffling**, where genetic recombination
+    rearranges exons to create **new proteins**.
+-   This increases genetic diversity and adaptability.
+
+#### Example:
+
+-   The **immunoglobulin gene (IgG)** evolved through exon shuffling,
+    **enhancing immune response diversity**.
+
+### D. Protecting Against Mutations
+
+-   Introns act as a **buffer zone**, preventing mutations in coding
+    sequences.
+-   Mutations in introns are **less harmful** compared to exons.
+
+#### Example:
+
+-   In **hemophilia B**, a mutation in an **exon** of the **Factor IX
+    gene** is more severe than a mutation in an intron.
+
 ## Conserved vs. species-specific non-coding DNA
+
+### 1. What is Conserved Non-Coding DNA?
+
+-   **Conserved non-coding DNA (CNC DNA)** refers to sequences that
+    remain **highly similar across species** due to **evolutionary
+    importance**.
+-   These regions often **regulate gene expression** and are critical
+    for **development and survival**.
+
+#### Examples of Conserved Non-Coding DNA:
+
+-   **HOX Gene Enhancers**: Found in all vertebrates, controlling body
+    plan development.
+-   **Ultraconserved Elements (UCEs)**: Found in humans, mice, and fish,
+    with unknown but vital functions.
+
+### 2. What is Species-Specific Non-Coding DNA?
+
+-   Some non-coding DNA sequences are **unique to certain species**,
+    reflecting **species-specific** adaptations.
+-   These regions may arise from **mutations, transposons, or regulatory
+    changes**.
+
+### Examples of Species-Specific Non-Coding DNA:
+
+-   **HAR1 (Human Accelerated Region 1)**: Unique to humans, involved in
+    brain development.
+-   **Fugu Fish Genome**: Has very **little non-coding DNA**, yet is
+    functionally similar to mammals.
 
 # 8. Applications in Research and Medicine
 
@@ -805,5 +934,11 @@ in muscle fibers.</td>
     Science.
 -   Black, D.L. (2003), Mechanisms of Alternative Pre-Messenger RNA
     Splicing, Annual Review of Biochemistry.
+-   Cooper, T.A., Wan, L., & Dreyfuss, G. (2009), RNA and Disease:
+    Splicing in Neuromuscular Disorders, New England Journal of
+    Medicine.
+-   Gilbert, W. (1978), Why Genes in Pieces?, Nature.
+-   Bejerano et al. (2004), Ultraconserved Elements in the Human Genome,
+    Science.
 
 [⬅ Back to Home](../index.md)
