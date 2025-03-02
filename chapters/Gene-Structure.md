@@ -888,11 +888,216 @@ genomes due to their functional advantages.
 
 # 8. Applications in Research and Medicine
 
+Both **coding and non-coding DNA** play crucial roles in genetic
+research and medicine. While **coding DNA** directly impacts **protein
+function**, **non-coding DNA** regulates gene expression, epigenetics,
+and genome stability. Advances in **genome-wide association studies
+(GWAS)**, **CRISPR gene editing**, and **genetic disorder research**
+have improved our understanding of how **mutations in both coding and
+non-coding regions** contribute to human diseases.
+
 ## Genome-wide association studies (GWAS)
+
+Genome-wide association studies (GWAS) are used to identify **single
+nucleotide polymorphisms (SNPs)** associated with diseases by scanning
+the **entire genome** of large populations.
+
+### GWAS and Coding DNA:
+
+-   **Direct mutations** in exons can affect protein structure and
+    function.
+    -   **Missense mutations**: Change amino acids, altering protein
+        function (e.g., **CFTR mutation in cystic fibrosis**).
+    -   **Nonsense mutations**: Introduce premature stop codons, leading
+        to truncated proteins (**e.g., Dystrophin gene in Duchenne
+        muscular dystrophy**).
+
+### GWAS and Non-Coding DNA:
+
+-   **~90% of GWAS-identified SNPs are in non-coding regions**,
+    indicating the importance of gene regulation in disease.
+-   These SNPs **alter promoters, enhancers, and splicing sites**,
+    influencing gene expression.
+-   **Example**: SNPs near **9p21 (CDKN2A/B)** are associated with
+    cardiovascular disease, affecting gene regulation rather than
+    protein function.
+
+#### Examples of GWAS findings
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Disease</th>
+<th style="text-align: left;">Coding Region</th>
+<th style="text-align: left;">Non-Coding Region</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Breast Cancer</strong></td>
+<td style="text-align: left;">BRCA1/BRCA2 mutations affect DNA
+repair</td>
+<td style="text-align: left;">SNPs in <strong>TOX3 enhancer</strong>
+impact gene regulation</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Type 2 Diabetes</strong></td>
+<td style="text-align: left;">GCK mutation disrupts glucose
+metabolism</td>
+<td style="text-align: left;">SNPs near <strong>TCF7L2 gene</strong>
+alter insulin regulation</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Alzheimer’s Disease</strong></td>
+<td style="text-align: left;">APP mutations affect β-amyloid
+production</td>
+<td style="text-align: left;">Non-coding SNPs in APOE promoter change
+gene expression</td>
+</tr>
+</tbody>
+</table>
 
 ## CRISPR gene editing
 
+CRISPR-Cas9 is a revolutionary gene-editing tool that allows precise
+modifications in both coding and non-coding DNA.
+
+### CRISPR Applications in Coding DNA:
+
+-   **Correcting exonic mutations**:
+    -   **Example**: CRISPR was used to fix **CFTR gene mutations** in
+        cystic fibrosis.
+-   **Disrupting harmful protein-coding genes**:
+    -   **Example**: CRISPR knocked out the **PCSK9 gene**, lowering
+        cholesterol levels and reducing heart disease risk.
+
+### CRISPR Applications in Non-Coding DNA:
+
+-   **Editing regulatory elements**:
+    -   **Example**: CRISPR was used to **enhance fetal hemoglobin
+        production** by targeting a **non-coding enhancer of the
+        **\_BCL11A\_ gene\*\*, helping treat sickle cell disease.
+-   **Epigenome editing**:
+-   **Example**: CRISPR-dCas9 was used to modify **histone
+    acetylation**, reactivating tumor suppressor genes in cancer.
+-   **Modulating alternative splicing**:
+    -   **Example**: CRISPR was used to correct a **splicing defect in
+        the DMD gene** for muscular dystrophy therapy.
+
+#### CRISPR Editing Comparison:
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">CRISPR Target</th>
+<th style="text-align: left;">Coding DNA Application</th>
+<th style="text-align: left;">Non-Coding DNA Application</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Point Mutations</strong></td>
+<td style="text-align: left;">Fixing CFTR gene mutations in cystic
+fibrosis.</td>
+<td style="text-align: left;">Correcting splicing defects in SMA.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Gene Knockout</strong></td>
+<td style="text-align: left;">Deactivating Huntingtin gene in
+Huntington’s disease.</td>
+<td style="text-align: left;">Silencing cancer-associated
+enhancers.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Gene Activation</strong></td>
+<td style="text-align: left;">Reactivating dystrophin in DMD.</td>
+<td style="text-align: left;">Enhancing fetal hemoglobin by targeting
+BCL11A enhancer.</td>
+</tr>
+</tbody>
+</table>
+
 ## Understanding genetic disorders (e.g., non-coding mutations in cancer, neurodevelopmental disorders)
+
+Both coding and non-coding mutations contribute to human diseases. While
+coding mutations alter protein function, non-coding mutations affect
+gene regulation, splicing, and chromatin structure.
+
+### Coding Mutations and Disease
+
+-   **Missense mutations**:
+    -   Change **amino acid sequence**, altering protein function (e.g.,
+        **sickle cell anemia (HBB gene)**).
+-   **Nonsense mutations**:
+    -   Introduce premature **stop codons**, leading to **truncated,
+        non-functional proteins (e.g., Duchenne Muscular Dystrophy (DMD
+        gene)**).
+-   **Frameshift mutations**:
+    -   Insertions/deletions disrupt the **reading frame**, causing loss
+        of protein function (**e.g., BRCA1 mutations in breast
+        cancer**).
+
+#### Non-Coding Mutations and Disease
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Mutation Type</th>
+<th style="text-align: left;">Example Disease</th>
+<th style="text-align: left;">Affected Non-codingregion</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Promotor Mutations</strong></td>
+<td style="text-align: left;">Glioblastoma (Brain Cancer)</td>
+<td style="text-align: left;">TERT promoter mutations increase
+telomerase activity.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Enhancer Mutations</strong></td>
+<td style="text-align: left;">Autism Spectrum Disorder</td>
+<td style="text-align: left;">SNPs in FOXP2 enhancer affect brain
+development.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Splicing Mutations</strong></td>
+<td style="text-align: left;">Spinal Muscular Atrophy (SMA)</td>
+<td style="text-align: left;">SMN2 exon skipping reduces motor neuron
+survival.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>lncRNA Mutations</strong></td>
+<td style="text-align: left;">Breast Cancer</td>
+<td style="text-align: left;">HOTAIR misregulation alters chromatin
+modifications.</td>
+</tr>
+</tbody>
+</table>
+
+#### Example Studies:
+
+-   **Breast Cancer & lncRNAs**:
+    -   **HOTAIR (lncRNA)** was found to **promote tumor metastasis** by
+        interacting with chromatin modifiers.
+-   **Schizophrenia & Enhancer Mutations**:
+    -   GWAS identified **non-coding SNPs in CACNA1C**, influencing
+        synaptic plasticity in the brain.
 
 ### References:
 
@@ -940,5 +1145,11 @@ genomes due to their functional advantages.
 -   Gilbert, W. (1978), Why Genes in Pieces?, Nature.
 -   Bejerano et al. (2004), Ultraconserved Elements in the Human Genome,
     Science.
+-   Visscher, P.M. et al. (2017), 10 Years of GWAS Discovery: Biology,
+    Function, and Translation, American Journal of Human Genetics.
+-   Liu, Y. et al. (2021), CRISPR-Based Functional Genomics in
+    Non-Coding Regions, Nature Reviews Genetics.
+-   Rinn, J.L. & Chang, H.Y. (2012), Genome Regulation by Long Noncoding
+    RNAs, Annual Review of Biochemistry.
 
 [⬅ Back to Home](../index.md)
