@@ -384,31 +384,370 @@ into pre-mRNA but removed before translation** through **RNA splicing**.
 -   **Genome Evolution**: Introns facilitate exon shuffling and
     recombination.
 
-\####Example: \* The Dystrophin (DMD) gene contains introns that make up
-~99% of its sequence. \* Defects in intron splicing of the **CFTR gene**
-cause **cystic fibrosis**.
+#### Example:
+
+-   The Dystrophin (DMD) gene contains introns that make up ~99% of its
+    sequence.
+-   Defects in intron splicing of the **CFTR gene** cause **cystic
+    fibrosis**.
 
 ## Promoters and Enhancers (Regulatory roles)
 
+### Promoters
+
+-   Short DNA sequences located upstream of a gene, acting as binding
+    sites for RNA polymerase to initiate transcription.
+
+#### Core Promoter Elements:
+
+-   TATA Box (~25 bp upstream) – Found in eukaryotic genes.
+-   GC Box & CAAT Box – Help regulate gene expression.
+
+### Enhancers
+
+-   **Distant regulatory elements** that **increase transcription
+    efficiency** by interacting with activator proteins.
+-   Can be **located far from genes** (even within introns or
+    downstream).
+
+#### Example:
+
+-   The **β-globin gene enhancer** is crucial for hemoglobin production
+    in red blood cells.
+
+#### Example:
+
+-   The **HBB gene (Beta-Globin)** has a TATA box in its promoter,
+    essential for red blood cell function.
+
 ## Silencers and Insulators (Control gene expression)
+
+### Silencers
+
+Regulatory DNA sequences that **bind repressor proteins**, reducing gene
+expression.
+
+#### Example:
+
+-   **NRSE (Neural Restrictive Silencer Element)** prevents
+    neuron-specific genes from being expressed in non-neuronal cells.
+
+### Insulators
+
+-   DNA sequences that block enhancers from activating the wrong gene.
+-   **Function**: Ensure precise gene regulation by preventing
+    cross-talk between adjacent genes.
+
+#### Example:
+
+-   The IGF2/H19 gene locus uses an insulator to ensure proper
+    imprinting in mammalian development.
 
 ## Repetitive DNA (Microsatellites, transposons, pseudogenes)
 
+### Microsatellites (Short Tandem Repeats, STRs)
+
+-   **Definition**: Short repeated DNA sequences (e.g., **CACACA**).
+-   Used in **DNA fingerprinting** and **forensic genetics**.
+
+### Transposons (“Jumping Genes”)
+
+-   **Definition**: DNA sequences that **move within the genome**,
+    altering gene expression.
+-   Make up **~45% of the human genome**.
+
+#### Two main types:
+
+-   LINEs (Long Interspersed Elements)
+-   SINEs (Short Interspersed Elements, e.g., Alu elements)
+
+#### Example:
+
+-   **Alu elements** are transposons that influence **gene evolution and
+    expression**.
+
+#### Example:
+
+-   **Huntington’s disease** is caused by **CAG repeats in the HTT
+    gene**.
+
+### Pseudogenes (“Non-Functional Genes”)
+
+-   **Non-functional gene** copies due to **mutations or lack of
+    regulatory elements**.
+-   **Processed Pseudogenes**: Result from **reverse transcription** of
+    mRNA.
+-   **Non-Processed Pseudogenes**: Created by **gene duplication
+    followed by mutation**.
+
+#### Example:
+
+-   Ψβ-globin is a pseudogene related to the HBB gene.
+
 ## Non-Coding RNAs (ncRNAs) (miRNA, lncRNA, rRNA, tRNA)
+
+### MicroRNAs (miRNA)
+
+**Definition**: Small RNAs (~22 nucleotides) that **bind to mRNA and
+inhibit translation**. Play a role in **cancer, neurodegenerative
+diseases, and immune responses**. \#### Example: \* **miR-21** is
+overexpressed in **many cancers**, affecting tumor progression.
+
+### Long Non-Coding RNAs (lncRNA)
+
+-   RNAs &gt;200 nucleotides that regulate gene expression at multiple
+    levels.
+-   Involved in chromatin remodeling, transcription, and
+    post-transcriptional regulation.
+
+#### Example:
+
+-   XIST lncRNA is responsible for X-chromosome inactivation in females.
+
+### Ribosomal RNA (rRNA)
+
+-   A structural component of **ribosomes**, essential for translation.
+-   **rRNA genes are highly conserved** across species.
+
+#### Example:
+
+-   **16S rRNA sequencing** is used to classify bacteria in microbiome
+    studies.
+
+### Transfer RNA (tRNA)
+
+-   Small RNA molecules that carry amino acids to the ribosome during
+    translation.
+
+#### Example:
+
+-   tRNA^Met brings methionine to the ribosome to initiate protein
+    synthesis.
 
 # 5. Functional Importance of Non-Coding DNA
 
+Although non-coding DNA does not encode proteins, it plays a crucial
+role in **gene regulation, epigenetic modifications, and genetic
+diseases**. These functions impact gene expression, cellular processes,
+and the development of various diseases.
+
 ## Gene regulation
+
+Non-coding DNA contains regulatory elements such as promoters,
+enhancers, silencers, and insulators, which control the when, where, and
+how much a gene is expressed.
+
+### Key Regulatory Elements:
+
+-   **Promoters**: Located upstream of genes, they control the
+    initiation of transcription by recruiting RNA polymerase.
+-   **Enhancers**: Increase the transcription of target genes, even if
+    located far away.
+-   **Silencers**: Reduce or prevent gene expression by binding to
+    repressor proteins.
+-   **Insulators**: Block the influence of enhancers on unintended
+    genes.
+
+### How Non-Coding DNA Regulates Genes:
+
+1.  Transcription Factor Binding: Transcription factors (TFs) bind to
+    specific non-coding DNA regions to control gene expression.
+2.  Chromatin Remodeling: Non-coding DNA influences chromatin structure,
+    making genes more or less accessible.
+3.  Non-Coding RNAs (ncRNAs):
+
+-   **MicroRNAs (miRNAs)** bind to mRNA, preventing translation.
+-   **Long Non-Coding RNAs (lncRNAs)** interact with chromatin-modifying
+    complexes.
+
+#### Example:
+
+-   The **β-globin gene** enhancer regulates hemoglobin production,
+    controlling red blood cell function.
 
 ## Epigenetic modifications (DNA methylation, histone modifications)
 
+Epigenetics refers to **heritable changes in gene expression** that **do
+not alter the DNA sequence** but modify how genes are activated or
+silenced.
+
+### DNA Methylation
+
+-   The addition of a methyl group (-CH₃) to cytosine residues at CpG
+    sites.
+-   Performed by DNA methyltransferases (DNMTs).
+
+#### Effects:
+
+-   Inhibits transcription when present in gene promoters.
+-   Important for X-chromosome inactivation in females.
+
+#### Example:
+
+-   **Hypermethylation** of tumor suppressor genes (e.g., p16, BRCA1) is
+    linked to cancer.
+
+### Histone Modifications
+
+Histones are proteins that package DNA into chromatin. Their chemical
+modifications influence gene expression.
+
+#### Types of Histone Modifications:
+
+-   **Acetylation (HATs, HDACs)**: Increases gene expression by
+    loosening chromatin.
+-   **Methylation (HMTs, HDMs)**: Can either activate or repress genes
+    depending on the site.
+-   **Phosphorylation**: Involved in chromatin condensation during cell
+    division.
+
+#### Example:
+
+-   **Histone acetylation (H3K9ac) at gene promoters increases
+    transcription** in neurons.
+
 ## Role in genetic diseases (Mutations in regulatory regions)
+
+Mutations in non-coding DNA do not directly alter protein sequences but
+can disrupt regulatory functions, leading to disease.
+
+### How Non-Coding Mutations Cause Disease:
+
+-   **Promoter Mutations**: Prevent proper transcription initiation.
+-   **Enhancer Mutations**: Reduce expression of important genes.
+-   **miRNA Binding Site Mutations**: Disrupt post-transcriptional
+    regulation.
+-   **Epigenetic Mutations**: Cause abnormal DNA methylation or histone
+    modifications.
+
+#### Examples:
+
+-   **Cancer**:
+    -   **TP53 promoter mutations** decrease tumor suppressor activity.
+    -   **Hypermethylation of MLH1** leads to colorectal cancer.
+-   **Neurological Disorders**:
+    -   **MECP2 mutations** in **Rett Syndrome** affect chromatin
+        remodeling.
+-   **Cardiovascular Diseases**:
+    -   SNPs in **9p21 non-coding regions** increase heart disease risk.
 
 # 6. Alternative Splicing and Gene Expression
 
+Alternative splicing is a **post-transcriptional process** where
+different combinations of **exons and introns** are selectively included
+or excluded in the final **mRNA transcript**. This process enables a
+**single gene** to produce **multiple protein isoforms**, significantly
+increasing **protein diversity** without increasing the number of genes.
+
 ## Mechanism of splicing
 
+Splicing is the process of **removing introns and joining exons** in
+pre-mRNA to form a **mature mRNA transcript** that can be translated
+into a protein.
+
+### Steps in Splicing:
+
+#### 1. Recognition of Splice Sites
+
+-   The pre-mRNA contains **specific splice sites** at the **intron-exon
+    boundaries**:
+    -   **5’ splice site (GU)** – Start of the intron.
+    -   **3’ splice site (AG)** – End of the intron.
+    -   **Branch Point (A residue)** – Important for intron lariat
+        formation.
+
+#### 2. Spliceosome Assembly
+
+-   The **spliceosome**, a large complex of **small nuclear RNAs
+    (snRNAs) and proteins**, recognizes these sites.
+-   The major snRNPs (small nuclear ribonucleoproteins) involved:
+    -   **U1** (binds to the 5’ splice site).
+    -   **U2** (binds to the branch point).
+    -   **U4, U5, U6** (help with catalysis).
+
+#### 3. Catalysis of Splicing
+
+-   The intron is cut at the **5’ splice site**, forming a **lariat
+    structure** at the branch point.
+-   The **3’ splice site is cleaved**, and the exons are **ligated
+    together**.
+-   The **intron is degraded**.
+
+#### Example:
+
+The **Dystrophin (DMD) gene**, one of the largest human genes, undergoes
+extensive splicing to generate different muscle-specific isoforms.
+
 ## Types of alternative splicing
+
+Alternative splicing occurs when **exons and introns are differentially
+included** or excluded, generating multiple mRNA variants from **a
+single gene**.
+
+#### Major Types of Alternative Splicing:
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Type</th>
+<th style="text-align: left;">Description</th>
+<th style="text-align: left;">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Exon Skipping</strong></td>
+<td style="text-align: left;">An exon is <strong>excluded</strong> from
+the mature mRNA.</td>
+<td style="text-align: left;"><strong>Dystrophin gene (DMD)</strong> in
+muscle cells.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Intron Retention</strong></td>
+<td style="text-align: left;">A normally spliced intron is
+<strong>retained</strong> in the mature mRNA.</td>
+<td style="text-align: left;"><strong>PTBP1 gene</strong> in neural
+differentiation.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Alternative 5’ Splice
+Site</strong></td>
+<td style="text-align: left;">A different <strong>5’ splice
+site</strong> is used, leading to a <strong>shorter/longer
+exon</strong>.</td>
+<td style="text-align: left;"><strong>Fas gene (apoptosis
+regulator)</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Alternative 3’ Splice
+Site</strong></td>
+<td style="text-align: left;">A different <strong>3’ splice
+site</strong> is used, altering exon length.</td>
+<td style="text-align: left;"><strong>Fibronectin gene (FN1)</strong> in
+extracellular matrix proteins.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Mutually Exclusive
+Exons</strong></td>
+<td style="text-align: left;">Two <strong>exons are never included
+together</strong> in the same mRNA.</td>
+<td style="text-align: left;"><strong>Tropomyosin gene (TPM1)</strong>
+in muscle fibers.</td>
+</tr>
+</tbody>
+</table>
+
+#### Example:
+
+-   The **Calcitonin/CGRP gene (CALCA)** undergoes alternative splicing
+    to produce two different hormones:
+    -   **Calcitonin** (in thyroid cells)
+    -   **CGRP (Calcitonin Gene-Related Peptide)** (in neurons)
 
 ## Impact on protein diversity
 
@@ -443,5 +782,28 @@ cause **cystic fibrosis**.
 -   Alberts, B. (2002), Molecular Biology of the Cell.
 -   Mattick, J.S. (2004), The Hidden Genetic Program of Complex
     Organisms, Scientific American.
+-   Levine, M. (2010), Enhancers: The Power Switches of the Genome,
+    Science.
+-   Blackwood, E. & Kadonaga, J.T. (1998), Going the Distance: A Current
+    View of Enhancer Action, Science.
+-   McClintock, B. (1950), The Discovery of Jumping Genes, PNAS.
+-   Zheng, D. & Gerstein, M.B. (2006), Pseudogenes in the Human Genome,
+    Genome Research.
+-   Rinn, J.L. & Chang, H.Y. (2012), Genome Regulation by Long Noncoding
+    RNAs, Annual Review of Biochemistry.
+-   Rich, A. & RajBhandary, U.L. (1976), Transfer RNA: Molecular
+    Biology, Annual Review of Biochemistry.
+-   Levine, M. (2010), Enhancers: The Power Switches of the Genome,
+    Science.
+-   Jones, P.A. & Baylin, S.B. (2002), The Fundamental Role of
+    Epigenetic Events in Cancer, Nature Reviews Genetics.
+-   Kouzarides, T. (2007), Chromatin Modifications and Their Function,
+    Cell.
+-   Feinberg, A.P. (2018), The Key Role of Epigenetics in Human Disease,
+    New England Journal of Medicine
+-   Sharp, P.A. (1985), Discovery of Split Genes and RNA Splicing,
+    Science.
+-   Black, D.L. (2003), Mechanisms of Alternative Pre-Messenger RNA
+    Splicing, Annual Review of Biochemistry.
 
 [⬅ Back to Home](../index.md)
