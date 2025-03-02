@@ -5,6 +5,14 @@ that determine an organism’s traits. Understanding **gene structure** is
 essential for exploring **genetics, evolution, gene regulation, and
 disease mechanisms**.
 
+<img src="Figures/Structure_of_Eukaryotic_Gene_SMC.jpg" alt="Figure 1: Organization of a eukaryotic protein-coding gene region"  />
+<p class="caption">
+Figure 1: Organization of a eukaryotic protein-coding gene region
+</p>
+
+[Image
+Credit](https://www.mun.ca/biology/scarr/Organization_of_a_eukaryotic_gene.html)
+
 A gene consists of both **coding (exons)** and **non-coding (introns,
 regulatory elements) regions**, playing a vital role in **protein
 synthesis and gene expression**. The distinction between these regions
