@@ -220,8 +220,7 @@ Protein synthesis occurs in two major steps:
 Figure 6: Central Dogma
 </p>
 
-[Image
-Credit](https://www.differencebetween.com/difference-between-orf-and-exon/)
+[Image Credit](https://www.genome.gov/genetics-glossary/Central-Dogma)
 
 ### Step 1: Transcription (DNA → mRNA)
 
@@ -292,6 +291,13 @@ translation** through **RNA splicing**.
 -   A promoter is a short **regulatory DNA sequences** located
     **upstream (5’ end)** of a gene, acting as binding sites for **RNA
     polymerase** to **initiate transcription**.
+
+<img src="Figures/Promotor.jpg" alt="Figure 7: Promotors" width="75%" height="75%" />
+<p class="caption">
+Figure 7: Promotors
+</p>
+
+[Image Credit](https://www.genome.gov/genetics-glossary/Promoter)
 
 A typical eukaryotic promoter contains:
 
