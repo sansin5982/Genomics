@@ -481,11 +481,11 @@ how much a gene is expressed.
 
 ### How Non-Coding DNA Regulates Genes:
 
-1.  Transcription Factor Binding: Transcription factors (TFs) bind to
-    specific non-coding DNA regions to control gene expression.
-2.  Chromatin Remodeling: Non-coding DNA influences chromatin structure,
-    making genes more or less accessible.
-3.  Non-Coding RNAs (ncRNAs):
+1.  **Transcription Factor Binding**: Transcription factors (TFs) bind
+    to specific non-coding DNA regions to control gene expression.
+2.  **Chromatin Remodeling**: Non-coding DNA influences chromatin
+    structure, making genes more or less accessible.
+3.  **Non-Coding RNAs (ncRNAs)**:
 
 -   **MicroRNAs (miRNAs)** bind to mRNA, preventing translation.
 -   **Long Non-Coding RNAs (lncRNAs)** interact with chromatin-modifying
