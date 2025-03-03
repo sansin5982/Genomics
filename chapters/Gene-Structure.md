@@ -92,6 +92,14 @@ Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-an
 -   **Silencers**
 -   **Insulators**
 
+<img src="Figures/regulatory_region2.png" alt="Figure 4:Regulatory Regions in DNA" width="75%" height="75%" />
+<p class="caption">
+Figure 4:Regulatory Regions in DNA
+</p>
+
+[Image
+Credit](https://rwu.pressbooks.pub/bio103/chapter/regulation-of-gene-expression/)
+
 #### C. Repetitive DNA (Microsatellites, Transposons, Pseudogenes)
 
 -   **Transposable elements (“jumping genes”)**
