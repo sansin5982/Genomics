@@ -687,6 +687,13 @@ Credit](https://laskerfoundation.org/winners/histone-modifications-and-gene-expr
 Mutations in non-coding DNA do not directly alter protein sequences but
 can disrupt regulatory functions, leading to disease.
 
+<img src="Figures/Histone Modification.jpg" alt="Figure 19: Mutations" width="75%" height="75%" />
+<p class="caption">
+Figure 19: Mutations
+</p>
+
+[Image Credit](https://www.genome.gov/genetics-glossary/Mutation)
+
 ### How Non-Coding Mutations Cause Disease:
 
 -   **Promoter Mutations**: Prevent proper transcription initiation.
@@ -714,6 +721,13 @@ different combinations of **exons and introns** are selectively included
 or excluded in the final **mRNA transcript**. This process enables a
 **single gene** to produce **multiple protein isoforms**, significantly
 increasing **protein diversity** without increasing the number of genes.
+
+<img src="Figures/Alternative Splicing.jpg" alt="Figure 20: Alternative Splicing" width="75%" height="75%" />
+<p class="caption">
+Figure 20: Alternative Splicing
+</p>
+
+[Image Credit](https://www.nature.com/articles/onc2013570)
 
 ## Mechanism of splicing
 
@@ -759,6 +773,13 @@ extensive splicing to generate different muscle-specific isoforms.
 Alternative splicing occurs when **exons and introns are differentially
 included** or excluded, generating multiple mRNA variants from **a
 single gene**.
+
+<img src="Figures/Alternative Splicing2.jpg" alt="Figure 21: Types of Alternative Splicing" width="75%" height="75%" />
+<p class="caption">
+Figure 21: Types of Alternative Splicing
+</p>
+
+[Image Credit](https://www.nature.com/articles/onc2013570)
 
 #### Major Types of Alternative Splicing:
 
