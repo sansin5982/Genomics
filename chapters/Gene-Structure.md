@@ -172,6 +172,14 @@ These regions undergo:
 -   The **HBB gene** (beta-globin) encodes part of **hemoglobin**,
     essential for oxygen transport in blood.
 
+<img src="Figures/ORF.png" alt="Figure 5:Difference between ORF and exon" width="75%" height="75%" />
+<p class="caption">
+Figure 5:Difference between ORF and exon
+</p>
+
+[Image
+Credit](https://www.differencebetween.com/difference-between-orf-and-exon/)
+
 ## Open Reading Frame (ORF) and its significance
 
 An **Open Reading Frame (ORF)** is a **continuous stretch of codons**
