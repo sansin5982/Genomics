@@ -224,6 +224,56 @@ A typical eukaryotic promoter contains:
 -   Example: The Polyadenylation signal (AAUAAA) in the β-globin gene
     ensures stable mRNA processing.
 
+## Operators
+
+An **operator** is a DNA sequence located **between the promoter and
+structural genes** of an **operon**. It serves as a **binding site for
+regulatory proteins** (repressors or activators) that determine whether
+transcription will occur.
+
+### Function:
+
+-   **If a repressor binds to the operator** → **Transcription is
+    blocked** (gene is turned **off**).
+-   **If the repressor is absent or inactivated** → **Transcription
+    proceeds** (gene is turned on).
+-   Some operators **bind activators** instead of repressors, increasing
+    transcription.
+
+#### Example
+
+#### The Lac Operon (Inducible Operator)
+
+-   The **lac operon** controls the breakdown of **lactose** in ***E.
+    coli***.
+-   The **operator (lacO) is a DNA sequence where the Lac repressor
+    (LacI) binds**.
+-   **Without lactose**: LacI binds the operator, blocking RNA
+    polymerase → No transcription.
+-   **With lactose**: Lactose inactivates LacI, freeing the operator →
+    Transcription occurs.
+
+#### Example Sequence of the Lac Operator:
+
+`5'-TTGACA TATAAT TGTGAGCGGATAACAATT-3'`
+
+#### The Trp Operon (Repressible Operator)
+
+-   The trp operon regulates **tryptophan biosynthesis**.
+-   The **operator binds the trp repressor** when tryptophan levels are
+    high, blocking transcription.
+-   **If tryptophan is low**, the repressor is inactive, allowing
+    transcription.
+
+### Operators in Eukaryotes?
+
+-   While **classic operators are found in prokaryotes**, similar
+    elements exist in eukaryotic gene regulation.
+-   **Enhancer or silencer elements** act like operators by recruiting
+    transcription factors to **activate or suppress genes**.
+-   **Insulators** function like prokaryotic operators by blocking
+    interactions between enhancers and promoters
+
 # 3. Coding DNA
 
 Coding DNA refers to **regions of the genome that are transcribed into
@@ -1112,5 +1162,9 @@ modifications.</td>
     Non-Coding Regions, Nature Reviews Genetics.
 -   Rinn, J.L. & Chang, H.Y. (2012), Genome Regulation by Long Noncoding
     RNAs, Annual Review of Biochemistry.
+-   Jacob, F. & Monod, J. (1961), Genetic Regulatory Mechanisms in the
+    Synthesis of Proteins, Journal of Molecular Biology.
+-   Yanofsky, C. (1981), Attenuation in the Control of Expression of
+    Bacterial Operons, Nature.
 
 [⬅ Back to Home](../index.md)
