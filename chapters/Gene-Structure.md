@@ -55,15 +55,9 @@ but **only ~1-2%** of it is **coding DNA** (responsible for making
 proteins). The rest is **non-coding DNA**, which plays crucial
 regulatory and structural roles.
 
-### Coding DNA (Exons)
+### Coding DNA
 
--   **Definition**: Coding DNA consists of **exons**, which are
-    transcribed and translated into proteins.
--   **Function**: Directly responsible for protein synthesis.
--   **Composition**: Forms the **Open Reading Frame (ORF)**, a sequence
-    that gets translated into amino acids.
--   **Example**: The **TP53 gene**, which encodes the p53 tumor
-    suppressor protein, is essential in preventing cancer.
+Takes part in the formation of protein. \#### A. Exons
 
 ### Non-Coding DNA
 
@@ -72,64 +66,23 @@ Non-coding DNA **does not code for proteins** but plays vital roles in
 
 #### A. Introns
 
--   **Non-coding sequences within genes**, transcribed into RNA but
-    spliced out before translation.
--   **Function**: Allow for **alternative splicing**, increasing protein
-    diversity.
--   **Example**: The **Dystrophin (DMD) gene** has **79 introns**,
-    making it one of the largest human genes.
-
 #### B. Regulatory DNA (Enhancers, Promoters, Silencers, Insulators)
 
--   **Promoters**: Found **upstream of genes**, they control where and
-    when a gene is transcribed (e.g., the **TATA box**).
--   **Enhancers & Silencers**: Regulate the **level of gene expression**
-    by interacting with transcription factors.
--   **Insulators**: Prevent unwanted interactions between neighboring
-    genes.
+-   **Promoters**
+-   **Enhancers**
+-   **Silencers**
+-   **Insulators**
 
 #### C. Repetitive DNA (Microsatellites, Transposons, Pseudogenes)
 
--   **Transposable elements (“jumping genes”)**: Mobile DNA sequences
-    that influence genome evolution.
--   **Pseudogenes**: “Non-functional” gene copies, remnants of
-    **evolutionary history**.
--   **Microsatellites (STRs)**: Short repeated sequences used in
-    **forensic DNA profiling**.
+-   **Transposable elements (“jumping genes”)**
+-   **Pseudogenes**
+-   **Microsatellites (STRs)**
 
 #### D. Non-Coding RNAs (ncRNAs)
 
--   **tRNA & rRNA**: Essential for translation.
--   **miRNA & lncRNA**: Regulate gene expression post-transcriptionally.
-
-## Importance of gene structure in genetics and evolution
-
-Understanding gene structure is crucial for multiple fields:
-
-### Genetics & Disease
-
--   **Mutations in coding regions**: Can lead to genetic disorders
-    (e.g., cystic fibrosis, sickle cell anemia).
--   **Mutations in regulatory elements**: Can alter gene expression,
-    causing diseases like cancer.
--   **Splicing defects in introns**:Linked to neurological disorders.
-
-### Evolution & Natural Selection
-
--   **Alternative splicing of introns**: Creates **protein diversity**,
-    allowing adaptation.
--   **Gene duplication & pseudogenes**: Provide raw material for
-    evolution.
--   **Regulatory DNA changes**: Drive differences between species (e.g.,
-    humans and chimpanzees share ~98% of DNA, but regulatory differences
-    make us distinct).
-
-### Biotechnology & Medicine
-
--   **Gene editing (CRISPR-Cas9)**: Targets specific genes for therapy.
--   **Gene therapy**: Corrects defective genes in genetic disorders.
--   **Genome-wide association studies (GWAS)**: Identify genes linked to
-    diseases.
+-   **tRNA & rRNA**
+-   **miRNA & lncRNA**
 
 # 2. Basic Structure of a Gene
 
