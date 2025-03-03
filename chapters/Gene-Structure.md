@@ -92,9 +92,9 @@ Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-an
 -   **Silencers**
 -   **Insulators**
 
-<img src="Figures/regulatory_region2.png" alt="Figure 4:Regulatory Regions in DNA" width="75%" height="75%" />
+<img src="Figures/regulatory_region2.png" alt="Figure 4: Regulatory Regions in DNA" width="75%" height="75%" />
 <p class="caption">
-Figure 4:Regulatory Regions in DNA
+Figure 4: Regulatory Regions in DNA
 </p>
 
 [Image
@@ -172,9 +172,9 @@ These regions undergo:
 -   The **HBB gene** (beta-globin) encodes part of **hemoglobin**,
     essential for oxygen transport in blood.
 
-<img src="Figures/ORF.png" alt="Figure 5:Difference between ORF and exon" width="75%" height="75%" />
+<img src="Figures/ORF.png" alt="Figure 5: Difference between ORF and exon" width="75%" height="75%" />
 <p class="caption">
-Figure 5:Difference between ORF and exon
+Figure 5: Difference between ORF and exon
 </p>
 
 [Image
@@ -192,8 +192,8 @@ UAG, or UGA)**.
 -   **Start codon (AUG)**: Specifies the amino acid **Methionine
     (Met)**.
 -   **Stop codons (UAA, UAG, UGA)**: Terminate translation.
--   **Found in **coding DNA\*\* and help determine where proteins start
-    and stop.
+-   **Found in coding DNA** and help determine where proteins start and
+    stop.
 -   Identified using **bioinformatics tools** like **BLAST, ORF Finder,
     and GenScan**.
 
@@ -214,6 +214,14 @@ has an ORF encoding a protein crucial for chloride ion transport.
 ## Role in protein synthesis
 
 Protein synthesis occurs in two major steps:
+
+<img src="Figures/Central-dogma.jpg" alt="Figure 6: Central Dogma" width="75%" height="75%" />
+<p class="caption">
+Figure 6: Central Dogma
+</p>
+
+[Image
+Credit](https://www.differencebetween.com/difference-between-orf-and-exon/)
 
 ### Step 1: Transcription (DNA → mRNA)
 
