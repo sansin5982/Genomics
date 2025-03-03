@@ -409,6 +409,13 @@ structural genes** of an **operon**. It serves as a **binding site for
 regulatory proteins** (repressors or activators) that determine whether
 transcription will occur.
 
+<img src="Figures/Operators.png" alt="Figure 12: Lac Operaon" width="75%" height="75%" />
+<p class="caption">
+Figure 12: Lac Operaon
+</p>
+
+[Image Credit](https://www.geeksforgeeks.org/lac-operon/)
+
 ### Function:
 
 -   **If a repressor binds to the operator** → **Transcription is
@@ -459,11 +466,27 @@ transcription will occur.
 -   **Definition**: Short repeated DNA sequences (e.g., **CACACA**).
 -   Used in **DNA fingerprinting** and **forensic genetics**.
 
+<img src="Figures/Tandem Repeats.jpg" alt="Figure 13: Tandem Repeats" width="75%" height="75%" />
+<p class="caption">
+Figure 13: Tandem Repeats
+</p>
+
+[Image
+Credit](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2015.01462/full)
+
 ### Transposons (“Jumping Genes”)
 
 -   **Definition**: DNA sequences that **move within the genome**,
     altering gene expression.
 -   Make up **~45% of the human genome**.
+
+<img src="Figures/Transposon.png" alt="Figure 14: Transposon" width="75%" height="75%" />
+<p class="caption">
+Figure 14: Transposon
+</p>
+
+[Image
+Credit](https://blogs.cuit.columbia.edu/postdocsociety/2022/12/31/a-continuous-war-between-dna-elements-shapes-genome-evolution/)
 
 #### Two main types:
 
@@ -488,6 +511,14 @@ transcription will occur.
     mRNA.
 -   **Non-Processed Pseudogenes**: Created by **gene duplication
     followed by mutation**.
+
+<img src="Figures/Pseudogene.jpeg" alt="Figure 15: Pseudogene" width="75%" height="75%" />
+<p class="caption">
+Figure 15: Pseudogene
+</p>
+
+[Image
+Credit](https://geneticeducation.co.in/what-are-pseudogenes-and-how-do-they-differ-from-genes/)
 
 #### Example:
 
