@@ -388,6 +388,13 @@ Credit](https://www.semanticscholar.org/paper/Chromatin-Insulators-and-CTCF%3A-A
 -   In **eukaryotes**, transcription ends after **polyadenylation
     (Poly-A signal: AAUAAA)**.
 
+<img src="Figures/Termination.jpg" alt="Figure 11: Terminator" width="75%" height="75%" />
+<p class="caption">
+Figure 11: Terminator
+</p>
+
+[Image Credit](https://www.youtube.com/watch?v=JkMCDSKPUV4)
+
 ### Function:
 
 -   Ensures proper mRNA length.
