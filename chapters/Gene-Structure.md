@@ -526,12 +526,24 @@ Credit](https://geneticeducation.co.in/what-are-pseudogenes-and-how-do-they-diff
 
 ## Non-Coding RNAs (ncRNAs)
 
+<img src="Figures/Non-codingRNA.png" alt="Figure 16: Non Coding RNA (ncRNA)" width="75%" height="75%" />
+<p class="caption">
+Figure 16: Non Coding RNA (ncRNA)
+</p>
+
+[Image
+Credit](https://geneticeducation.co.in/what-are-pseudogenes-and-how-do-they-differ-from-genes/)
+
 ### MicroRNAs (miRNA)
 
 **Definition**: Small RNAs (~22 nucleotides) that **bind to mRNA and
 inhibit translation**. Play a role in **cancer, neurodegenerative
-diseases, and immune responses**. \#### Example: \* **miR-21** is
-overexpressed in **many cancers**, affecting tumor progression.
+diseases, and immune responses**.
+
+#### Example:
+
+-   **miR-21** is overexpressed in **many cancers**, affecting tumor
+    progression.
 
 ### Long Non-Coding RNAs (lncRNA)
 
@@ -563,6 +575,14 @@ overexpressed in **many cancers**, affecting tumor progression.
 
 -   tRNA^Met brings methionine to the ribosome to initiate protein
     synthesis.
+
+<img src="Figures/ncRNA2.png" alt="Figure 17: Types of Non coding RNA" width="75%" height="75%" />
+<p class="caption">
+Figure 17: Types of Non coding RNA
+</p>
+
+[Image
+Credit](https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-024-01038-1)
 
 # 3. Functional Importance of Non-Coding DNA
 
@@ -617,6 +637,14 @@ silenced.
     sites.
 -   Performed by DNA methyltransferases (DNMTs).
 
+<img src="Figures/DNA_methylation.png" alt="Figure 18: DNA methylation" width="75%" height="75%" />
+<p class="caption">
+Figure 18: DNA methylation
+</p>
+
+[Image
+Credit](https://www.researchgate.net/publication/221804095_Epigenetics_A_New_Challenge_in_the_Post-Genomic_Era_of_Livestock/figures?lo=1)
+
 #### Effects:
 
 -   Inhibits transcription when present in gene promoters.
@@ -631,6 +659,14 @@ silenced.
 
 Histones are proteins that package DNA into chromatin. Their chemical
 modifications influence gene expression.
+
+<img src="Figures/Histone Modification.jpg" alt="Figure 19: Histone Modification" width="75%" height="75%" />
+<p class="caption">
+Figure 19: Histone Modification
+</p>
+
+[Image
+Credit](https://laskerfoundation.org/winners/histone-modifications-and-gene-expression/)
 
 #### Types of Histone Modifications:
 
