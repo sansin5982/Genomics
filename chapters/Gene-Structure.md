@@ -34,6 +34,15 @@ Credit](https://www.mun.ca/biology/scarr/Organization_of_a_eukaryotic_gene.html)
 -   Transmitted from parent to offspring
 -   Regulated by promoters, enhancers, and other control elements
 
+<img src="Figures/Nucleotides.jpg" alt="Figure 2: Cytosine and Thymine are pyrimidine and Guanine and Adenine are purines" width="50%" height="50%" />
+<p class="caption">
+Figure 2: Cytosine and Thymine are pyrimidine and Guanine and Adenine
+are purines
+</p>
+
+[Image
+Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
+
 ### Classical vs. Modern Definition:
 
 -   **Classical Definition (Mendelian Genetics)**: A gene is a unit of
@@ -65,6 +74,14 @@ Takes part in the formation of protein.
 
 Non-coding DNA **does not code for proteins** but plays vital roles in
 **gene regulation, genome stability, and evolution**.
+
+<img src="Figures/Gene_structure.jpg" alt="Figure 3: Coding and Noncoding DNA" width="75%" height="75%" />
+<p class="caption">
+Figure 3: Coding and Noncoding DNA
+</p>
+
+[Image
+Credit](https://courses.lumenlearning.com/suny-microbiology/chapter/structure-and-function-of-cellular-genomes/)
 
 #### A. Introns
 
