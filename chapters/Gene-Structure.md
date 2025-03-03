@@ -205,43 +205,50 @@ for a **DNA repair protein**.
 The **insulin gene (INS)** is transcribed and translated to produce
 **insulin**, regulating blood sugar.
 
-## Introns (Non-coding sequences, removed during splicing)
+# 2.2. Non-Coding DNA
 
-**Introns** are **non-coding sequences** found **between exons** in
-eukaryotic genes. They are **transcribed into RNA but removed during
-splicing**.
+Non-coding DNA refers to regions of the genome that **do not encode
+proteins** but play **critical regulatory, structural, and evolutionary
+roles**. Although only ~1-2% of the human genome is coding DNA, the
+remaining 98-99% consists of non-coding DNA, much of which is essential
+for gene expression, genome stability, and cellular function.
 
-### Key Features of Introns:
+## Introns (Spliced out before translation)
 
--   Typically **longer than exons**.
--   Start with **5’ GT** and end with **3’ AG**, defining the **splice
-    sites**.
--   Contain **regulatory sequences** affecting **gene expression**.
+Introns are **non-coding sequences** within genes between exons that are
+**transcribed into pre-mRNA but removed during splicing before
+translation** through **RNA splicing**.
 
-### Function:
+### Key Features:
 
--   **Alternative Splicing**: Allows different combinations of exons,
-    producing **protein diversity**.
--   **Regulation**: Some introns contain **enhancers** or other
-    regulatory elements.
--   **Evolutionary Role**: Introns enable **genetic recombination** and
-    **exon shuffling**.
+-   Typically **longer than exons**
+-   Found in **eukaryotic genes** but rare in prokaryotes.
+-   Contain regulatory sequences that **influence gene expression**.
+-   Play a role in **alternative splicing**, allowing multiple proteins
+    from one gene.
+-   Marked by **GT (5’ splice site) and AG (3’ splice site) sequences**.
 
-### Example:
+### Functions:
 
--   The **Dystrophin (DMD) gene**, linked to **muscular dystrophy**,
-    contains **large introns (~99% of the gene)**, which may help
-    regulate its expression.
+-   **Alternative Splicing**: Different exon combinations create
+    **protein diversity**.
+-   **Gene Regulation**: Some introns contain **enhancers** and other
+    regulatoy elements.
+-   **Genome Evolution**: Introns enable **exon shuffling** and
+    \*\*genetic recombination\*.
 
-## Regulatory Elements
+#### Example:
 
-### Promoter (Initiates transcription)
+-   The Dystrophin (DMD) gene contains introns that make up ~99% of its
+    sequence.
+-   Defects in intron splicing of the **CFTR gene** cause **cystic
+    fibrosis**.
 
-The **promoter** is a **regulatory DNA sequence** located **upstream (5’
-end)** of a gene, where RNA polymerase binds to **initiate
-transcription**.
+## Promoters
 
-#### Structure of a Promoter:
+-   A promoter is a short **regulatory DNA sequences** located
+    **upstream (5’ end)** of a gene, acting as binding sites for **RNA
+    polymerase** to **initiate transcription**.
 
 A typical eukaryotic promoter contains:
 
@@ -265,35 +272,41 @@ A typical eukaryotic promoter contains:
 -   The **HBB gene** (beta-globin) has a TATA box **that regulates
     hemoglobin production in red blood cells**.
 
-### Enhancers
+## Enhancers
 
--   **Distant regulatory sequences** that **increase gene
-    transcription** by binding activator proteins.
+-   **Distant regulatory elements** that **increase transcription
+    efficiency** by interacting with activator proteins.
+-   Can be **located far from genes** (even within introns or
+    downstream).
 
--   Can be located **upstream, downstream, or even within introns**.
+#### Example:
 
--   Example: The **β-globin gene enhancer** regulates **hemoglobin
-    production**.
+-   The **β-globin gene enhancer** is crucial for hemoglobin production
+    in red blood cells.
 
-### Silencers
+## Silencers
 
--   **Opposite of enhancers** – they **suppress gene expression**.
+-   Regulatory DNA sequences that **bind repressor proteins**,
+    \*\*suppress gene expression\*.
+-   
 
--   Bind to **repressor proteins** that prevent transcription.
+#### Example:
 
--   Example: **NRSE (Neural Restrictive Silencer Element)** suppresses
-    **neuron-specific genes in non-neuronal cells**.
+-   **NRSE (Neural Restrictive Silencer Element)** prevents
+    neuron-specific genes from being expressed in non-neuronal cells.
 
-### Insulators
+## Insulators
 
--   **Boundary sequences** that prevent enhancers from activating the
-    **wrong gene**.
-
+-   DNA sequences that block enhancers from activating the wrong gene.
+-   Ensure precise gene regulation by preventing cross-talk between
+    adjacent genes.
 -   **CCCTC-binding factor (CTCF)** is a protein that binds to
     insulators.
 
--   Example: **The IGF2/H19 gene locus** uses an **insulator** to ensure
-    proper gene imprinting.
+#### Example:
+
+-   The IGF2/H19 gene locus uses an insulator to ensure proper
+    imprinting in mammalian development.
 
 ## Terminator (Stops transcription)
 
@@ -360,95 +373,6 @@ transcription will occur.
     transcription factors to **activate or suppress genes**.
 -   **Insulators** function like prokaryotic operators by blocking
     interactions between enhancers and promoters
-
-# 4. Non-Coding DNA
-
-Non-coding DNA refers to regions of the genome that **do not encode
-proteins** but play **critical regulatory, structural, and evolutionary
-roles**. Although only ~1-2% of the human genome is coding DNA, the
-remaining 98-99% consists of non-coding DNA, much of which is essential
-for gene expression, genome stability, and cellular function.
-
-## Introns (Spliced out before translation)
-
-Introns are **non-coding sequences** within genes that are **transcribed
-into pre-mRNA but removed before translation** through **RNA splicing**.
-
-### Key Features:
-
--   Found in **eukaryotic genes** but rare in prokaryotes.
--   Contain regulatory sequences that **influence gene expression**.
--   Play a role in **alternative splicing**, allowing multiple proteins
-    from one gene.
--   Marked by **GT (5’ splice site) and AG (3’ splice site) sequences**.
-
-### Functions:
-
--   **Alternative Splicing**: Different exon combinations create
-    **protein diversity**.
--   **Gene Regulation**: Some introns contain enhancers and microRNA
-    (miRNA) sequences.
--   **Genome Evolution**: Introns facilitate exon shuffling and
-    recombination.
-
-#### Example:
-
--   The Dystrophin (DMD) gene contains introns that make up ~99% of its
-    sequence.
--   Defects in intron splicing of the **CFTR gene** cause **cystic
-    fibrosis**.
-
-## Promoters and Enhancers (Regulatory roles)
-
-### Promoters
-
--   Short DNA sequences located upstream of a gene, acting as binding
-    sites for RNA polymerase to initiate transcription.
-
-#### Core Promoter Elements:
-
--   TATA Box (~25 bp upstream) – Found in eukaryotic genes.
--   GC Box & CAAT Box – Help regulate gene expression.
-
-### Enhancers
-
--   **Distant regulatory elements** that **increase transcription
-    efficiency** by interacting with activator proteins.
--   Can be **located far from genes** (even within introns or
-    downstream).
-
-#### Example:
-
--   The **β-globin gene enhancer** is crucial for hemoglobin production
-    in red blood cells.
-
-#### Example:
-
--   The **HBB gene (Beta-Globin)** has a TATA box in its promoter,
-    essential for red blood cell function.
-
-## Silencers and Insulators (Control gene expression)
-
-### Silencers
-
-Regulatory DNA sequences that **bind repressor proteins**, reducing gene
-expression.
-
-#### Example:
-
--   **NRSE (Neural Restrictive Silencer Element)** prevents
-    neuron-specific genes from being expressed in non-neuronal cells.
-
-### Insulators
-
--   DNA sequences that block enhancers from activating the wrong gene.
--   **Function**: Ensure precise gene regulation by preventing
-    cross-talk between adjacent genes.
-
-#### Example:
-
--   The IGF2/H19 gene locus uses an insulator to ensure proper
-    imprinting in mammalian development.
 
 ## Repetitive DNA (Microsatellites, transposons, pseudogenes)
 
@@ -531,7 +455,7 @@ overexpressed in **many cancers**, affecting tumor progression.
 -   tRNA^Met brings methionine to the ribosome to initiate protein
     synthesis.
 
-# 5. Functional Importance of Non-Coding DNA
+# 3. Functional Importance of Non-Coding DNA
 
 Although non-coding DNA does not encode proteins, it plays a crucial
 role in **gene regulation, epigenetic modifications, and genetic
@@ -638,7 +562,7 @@ can disrupt regulatory functions, leading to disease.
 -   **Cardiovascular Diseases**:
     -   SNPs in **9p21 non-coding regions** increase heart disease risk.
 
-# 6. Alternative Splicing and Gene Expression
+# 4. Alternative Splicing and Gene Expression
 
 Alternative splicing is a **post-transcriptional process** where
 different combinations of **exons and introns** are selectively included
@@ -790,7 +714,7 @@ in muscle fibers.</td>
     -   **Spinal Muscular Atrophy (SMA)**: SMN1 gene splicing defects
         lead to neuron degeneration.
 
-# 7. Evolutionary Perspective
+# 5. Evolutionary Perspective
 
 The presence of **introns** and **non-coding DNA** in the genome has
 long been debated in evolutionary biology. While earlier scientists
