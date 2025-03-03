@@ -92,7 +92,15 @@ contain the coding sequences that specify proteins, other regions like
 **promoters, introns, and regulatory elements** ensure proper gene
 function.
 
-## Exons (Coding sequences)
+# 2.1. Coding DNA
+
+Coding DNA refers to **regions of the genome that are transcribed into
+mRNA and subsequently translated into proteins**. These regions contain
+**exons**, which carry the information needed for **protein synthesis**.
+Although the human genome consists of about **3 billion base pairs**,
+only **~1-2% of it is coding DNA**, while the rest is non-coding.
+
+## Exons
 
 **Exons** are **coding regions** of a gene that remain in the final mRNA
 transcript and are translated into proteins.
@@ -117,6 +125,85 @@ transcript and are translated into proteins.
 -   The **TP53 gene (tumor suppressor)** has **11 exons**, encoding a
     protein that prevents cancer by stopping damaged cells from
     dividing.
+
+These regions undergo:
+
+-   **Transcription** → DNA is copied into mRNA.
+-   **Translation** → mRNA is read to synthesize proteins.
+
+### Key Features of Coding DNA:
+
+-   Found in genes that code for proteins.
+-   Contains **triplet codons** (sets of three nucleotides), each
+    specifying an amino acid.
+-   **Highly conserved** across species due to functional importance.
+-   Mutations in coding regions can lead to **genetic disorders** (e.g.,
+    sickle cell anemia, cystic fibrosis).
+
+#### Example:
+
+-   The **HBB gene** (beta-globin) encodes part of **hemoglobin**,
+    essential for oxygen transport in blood.
+
+## Open Reading Frame (ORF) and its significance
+
+An **Open Reading Frame (ORF)** is a **continuous stretch of codons**
+(without stop codons) that **has the potential to encode a protein**. It
+begins with a **start codon (AUG)** and ends with a **stop codon (UAA,
+UAG, or UGA)**.
+
+### Key Features of ORFs:
+
+-   **Start codon (AUG)**: Specifies the amino acid **Methionine
+    (Met)**.
+-   **Stop codons (UAA, UAG, UGA)**: Terminate translation.
+-   **Found in **coding DNA\*\* and help determine where proteins start
+    and stop.
+-   Identified using **bioinformatics tools** like **BLAST, ORF Finder,
+    and GenScan**.
+
+### Why Are ORFs Important?
+
+-   **Protein Identification**: Used in **gene prediction** and
+    **annotation**.
+-   **Disease Research**: Mutations in ORFs can cause **frame-shift
+    mutations**, leading to genetic disorders.
+-   **Comparative Genomics**: Helps compare genes across species to
+    study **evolutionary relationships**.
+
+#### Example:
+
+The **CFTR gene (Cystic Fibrosis Transmembrane Conductance Regulator)**
+has an ORF encoding a protein crucial for chloride ion transport.
+
+## Role in protein synthesis
+
+Protein synthesis occurs in two major steps:
+
+### Step 1: Transcription (DNA → mRNA)
+
+-   **RNA polymerase binds to the promoter** and transcribes **coding
+    DNA (exons)** into **pre-mRNA**.
+-   **Introns are spliced out**, leaving only **exons** in the final
+    **mRNA transcript**.
+-   The **Poly-A tail** and **5’ cap** are added for stability.
+-   **Key Enzymes**: RNA Polymerase, Spliceosome (for intron removal).
+
+#### Example:
+
+The **BRCA1 gene** undergoes transcription to produce mRNA that codes
+for a **DNA repair protein**.
+
+### Step 2: Translation (mRNA → Protein)
+
+-   **Ribosomes read the mRNA codons** in sets of three.
+-   **tRNA brings amino acids** based on codon-anticodon pairing.
+-   **Peptide bonds form**, creating a **polypeptide chain (protein)**.
+
+#### Example:
+
+The **insulin gene (INS)** is transcribed and translated to produce
+**insulin**, regulating blood sugar.
 
 ## Introns (Non-coding sequences, removed during splicing)
 
@@ -273,97 +360,6 @@ transcription will occur.
     transcription factors to **activate or suppress genes**.
 -   **Insulators** function like prokaryotic operators by blocking
     interactions between enhancers and promoters
-
-# 3. Coding DNA
-
-Coding DNA refers to **regions of the genome that are transcribed into
-mRNA and subsequently translated into proteins**. These regions contain
-**exons**, which carry the information needed for **protein synthesis**.
-Although the human genome consists of about **3 billion base pairs**,
-only **~1-2% of it is coding DNA**, while the rest is non-coding.
-
-## Definition:
-
-Regions that are transcribed and translated into proteins. Coding DNA
-consists of exons, the nucleotide sequences that encode amino acids,
-forming proteins. These regions undergo:
-
--   **Transcription** → DNA is copied into mRNA.
--   **Translation** → mRNA is read to synthesize proteins.
-
-### Key Features of Coding DNA:
-
--   Found in genes that code for proteins.
--   Contains **triplet codons** (sets of three nucleotides), each
-    specifying an amino acid.
--   **Highly conserved** across species due to functional importance.
--   Mutations in coding regions can lead to **genetic disorders** (e.g.,
-    sickle cell anemia, cystic fibrosis).
-
-#### Example:
-
--   The **HBB gene** (beta-globin) encodes part of **hemoglobin**,
-    essential for oxygen transport in blood.
-
-## Open Reading Frame (ORF) and its significance
-
-An **Open Reading Frame (ORF)** is a **continuous stretch of codons**
-(without stop codons) that **has the potential to encode a protein**. It
-begins with a **start codon (AUG)** and ends with a **stop codon (UAA,
-UAG, or UGA)**.
-
-### Key Features of ORFs:
-
--   **Start codon (AUG)**: Specifies the amino acid **Methionine
-    (Met)**.
--   **Stop codons (UAA, UAG, UGA)**: Terminate translation.
--   **Found in **coding DNA\*\* and help determine where proteins start
-    and stop.
--   Identified using **bioinformatics tools** like **BLAST, ORF Finder,
-    and GenScan**.
-
-### Why Are ORFs Important?
-
--   **Protein Identification**: Used in **gene prediction** and
-    **annotation**.
--   **Disease Research**: Mutations in ORFs can cause **frame-shift
-    mutations**, leading to genetic disorders.
--   **Comparative Genomics**: Helps compare genes across species to
-    study **evolutionary relationships**.
-
-#### Example:
-
-The **CFTR gene (Cystic Fibrosis Transmembrane Conductance Regulator)**
-has an ORF encoding a protein crucial for chloride ion transport.
-
-## Role in protein synthesis
-
-Protein synthesis occurs in two major steps:
-
-### Step 1: Transcription (DNA → mRNA)
-
--   **RNA polymerase binds to the promoter** and transcribes **coding
-    DNA (exons)** into **pre-mRNA**.
--   **Introns are spliced out**, leaving only **exons** in the final
-    **mRNA transcript**.
--   The **Poly-A tail** and **5’ cap** are added for stability.
--   **Key Enzymes**: RNA Polymerase, Spliceosome (for intron removal).
-
-#### Example:
-
-The **BRCA1 gene** undergoes transcription to produce mRNA that codes
-for a **DNA repair protein**.
-
-### Step 2: Translation (mRNA → Protein)
-
--   **Ribosomes read the mRNA codons** in sets of three.
--   **tRNA brings amino acids** based on codon-anticodon pairing.
--   **Peptide bonds form**, creating a **polypeptide chain (protein)**.
-
-#### Example:
-
-The **insulin gene (INS)** is transcribed and translated to produce
-**insulin**, regulating blood sugar.
 
 # 4. Non-Coding DNA
 
