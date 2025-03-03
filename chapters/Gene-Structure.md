@@ -334,7 +334,7 @@ Figure 8: Enhancer-Promotor interaction
 </p>
 
 [Image
-Credit](https://openlabnotebooks.org/project-overview-understanding-enhancer-biology-in-cancer/)
+Credit](https://rwu.pressbooks.pub/bio103/chapter/regulation-of-gene-expression/)
 
 #### Example:
 
@@ -345,7 +345,13 @@ Credit](https://openlabnotebooks.org/project-overview-understanding-enhancer-bio
 
 -   Regulatory DNA sequences that **bind repressor proteins**,
     \*\*suppress gene expression\*.
--   
+
+<img src="Figures/Silencer2.png" alt="Figure 9: Silencer-Promotor interaction" width="75%" height="75%" />
+<p class="caption">
+Figure 9: Silencer-Promotor interaction
+</p>
+
+[Image Credit](https://www.nature.com/articles/s41580-022-00549-9)
 
 #### Example:
 
