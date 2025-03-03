@@ -5,14 +5,6 @@ that determine an organism’s traits. Understanding **gene structure** is
 essential for exploring **genetics, evolution, gene regulation, and
 disease mechanisms**.
 
-<img src="Figures/Structure_of_Eukaryotic_Gene_SMC.jpg" alt="Figure 1: Organization of a eukaryotic protein-coding gene region"  />
-<p class="caption">
-Figure 1: Organization of a eukaryotic protein-coding gene region
-</p>
-
-[Image
-Credit](https://www.mun.ca/biology/scarr/Organization_of_a_eukaryotic_gene.html)
-
 A gene consists of both **coding (exons)** and **non-coding (introns,
 regulatory elements) regions**, playing a vital role in **protein
 synthesis and gene expression**. The distinction between these regions
@@ -25,6 +17,14 @@ A **gene** is a segment of DNA that contains the instructions to produce
 **a functional product**, typically a protein. However, some genes code
 for **functional RNA molecules** (e.g., rRNA, tRNA, miRNA) instead of
 proteins.
+
+<img src="Figures/Structure_of_Eukaryotic_Gene_SMC.jpg" alt="Figure 1: Organization of a eukaryotic protein-coding gene region"  />
+<p class="caption">
+Figure 1: Organization of a eukaryotic protein-coding gene region
+</p>
+
+[Image
+Credit](https://www.mun.ca/biology/scarr/Organization_of_a_eukaryotic_gene.html)
 
 ### Key Features of a Gene:
 
@@ -57,7 +57,9 @@ regulatory and structural roles.
 
 ### Coding DNA
 
-Takes part in the formation of protein. \#### A. Exons
+Takes part in the formation of protein.
+
+#### A. Exons
 
 ### Non-Coding DNA
 
@@ -415,7 +417,7 @@ transcription will occur.
 
 -   Ψβ-globin is a pseudogene related to the HBB gene.
 
-## Non-Coding RNAs (ncRNAs) (miRNA, lncRNA, rRNA, tRNA)
+## Non-Coding RNAs (ncRNAs)
 
 ### MicroRNAs (miRNA)
 
