@@ -92,36 +92,6 @@ contain the coding sequences that specify proteins, other regions like
 **promoters, introns, and regulatory elements** ensure proper gene
 function.
 
-## Promoter (Initiates transcription)
-
-The **promoter** is a **regulatory DNA sequence** located **upstream (5’
-end)** of a gene, where RNA polymerase binds to **initiate
-transcription**.
-
-### Structure of a Promoter:
-
-A typical eukaryotic promoter contains:
-
--   **Core Promoter Region**:
-    -   **TATA Box** (~25-30 bp upstream) – Helps position RNA
-        polymerase.
-    -   **Initiator Sequence** (Inr) – Marks the exact transcription
-        start site (TSS).
--   **Proximal Promoter Elements** (~50-200 bp upstream):
-    -   **GC Box** (recognized by SP1 transcription factor).
-    -   **CAAT Box** (recognized by transcriptional activators).
-
-### Function:
-
--   Acts as a **binding site** for **RNA polymerase and transcription
-    factors**.
--   Determines **where and when** a gene is transcribed.
-
-### Example:
-
--   The **HBB gene** (beta-globin) has a TATA box **that regulates
-    hemoglobin production in red blood cells**.
-
 ## Exons (Coding sequences)
 
 **Exons** are **coding regions** of a gene that remain in the final mRNA
@@ -176,7 +146,37 @@ splicing**.
     contains **large introns (~99% of the gene)**, which may help
     regulate its expression.
 
-## Regulatory Elements (Enhancers, silencers, insulators)
+## Regulatory Elements
+
+### Promoter (Initiates transcription)
+
+The **promoter** is a **regulatory DNA sequence** located **upstream (5’
+end)** of a gene, where RNA polymerase binds to **initiate
+transcription**.
+
+#### Structure of a Promoter:
+
+A typical eukaryotic promoter contains:
+
+-   **Core Promoter Region**:
+    -   **TATA Box** (~25-30 bp upstream) – Helps position RNA
+        polymerase.
+    -   **Initiator Sequence** (Inr) – Marks the exact transcription
+        start site (TSS).
+-   **Proximal Promoter Elements** (~50-200 bp upstream):
+    -   **GC Box** (recognized by SP1 transcription factor).
+    -   **CAAT Box** (recognized by transcriptional activators).
+
+#### Function:
+
+-   Acts as a **binding site** for **RNA polymerase and transcription
+    factors**.
+-   Determines **where and when** a gene is transcribed.
+
+#### Example:
+
+-   The **HBB gene** (beta-globin) has a TATA box **that regulates
+    hemoglobin production in red blood cells**.
 
 ### Enhancers
 
