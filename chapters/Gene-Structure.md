@@ -328,6 +328,14 @@ A typical eukaryotic promoter contains:
 -   Can be **located far from genes** (even within introns or
     downstream).
 
+<img src="Figures/Enhancer_promoter_inter2.png" alt="Figure 8: Enhancer-Promotor interaction" width="75%" height="75%" />
+<p class="caption">
+Figure 8: Enhancer-Promotor interaction
+</p>
+
+[Image
+Credit](https://openlabnotebooks.org/project-overview-understanding-enhancer-biology-in-cancer/)
+
 #### Example:
 
 -   The **β-globin gene enhancer** is crucial for hemoglobin production
