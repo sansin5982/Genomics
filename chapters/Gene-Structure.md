@@ -366,6 +366,14 @@ Figure 9: Silencer-Promotor interaction
 -   **CCCTC-binding factor (CTCF)** is a protein that binds to
     insulators.
 
+<img src="Figures/Insulators2.png" alt="Figure 10: Insulators" width="75%" height="75%" />
+<p class="caption">
+Figure 10: Insulators
+</p>
+
+[Image
+Credit](https://www.semanticscholar.org/paper/Chromatin-Insulators-and-CTCF%3A-Architects-of-States-Mukhopadhyay/48175dc987dca635c57616693c287886a61e3fe6)
+
 #### Example:
 
 -   The IGF2/H19 gene locus uses an insulator to ensure proper
