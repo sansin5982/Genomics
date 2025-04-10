@@ -113,3 +113,45 @@ daughter cells. It usually overlaps with telophase.
 -   In **plant cells**, vesicles derived from the Golgi apparatus
     coalesce at the center to form a cell plate, which matures into a
     new cell wall.
+
+### IMPORTANCE OF MITOSIS
+
+Mitosis ensures the integrity and continuity of genetic information. Its
+biological roles include:
+
+**1. Development and Growth**: From a single fertilized egg, mitosis
+generates all the cells of an organism.
+
+**2. Tissue Repair**: Replaces cells lost through wear and tear or
+injury.
+
+**3. Cell Replacement**: Maintains tissues such as skin, blood, and the
+gut lining.
+
+**4. Asexual Reproduction**: In unicellular organisms and some
+multicellular species.
+
+### MITOTIC ERRORS AND RELATED DISEASES
+
+**1. Non-disjunction**: Failure of chromatids to separate can result in
+aneuploidy (e.g., trisomy 21 in Down syndrome).
+
+**2. Cancer**: Loss of cell cycle checkpoints leads to uncontrolled
+mitosis. Mutations in TP53, RB1, and ATM are common in tumors.
+
+**3. Mosaicism**: Mitotic errors in early development may result in
+populations of genetically distinct cells within one organism.
+
+**4. Premature Aging and Senescence**: Defective mitosis or excessive
+mitotic divisions can lead to telomere shortening, cellular senescence,
+or apoptosis.
+
+#### REFERENCES
+
+-   Alberts B. et al. “Molecular Biology of the Cell.”
+-   Lodish H. et al. “Molecular Cell Biology.”
+-   Reece, Jane et al. “Campbell Biology.”
+-   NCBI Bookshelf (<https://www.ncbi.nlm.nih.gov/books/>)
+-   Nature Cell Biology (<https://www.nature.com/ncb/>)
+-   HHMI BioInteractive (<https://www.biointeractive.org/>)
+-   Khan Academy (<https://www.khanacademy.org/science/biology>)
