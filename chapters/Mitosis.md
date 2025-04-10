@@ -1,4 +1,4 @@
-# Deoxyribonucleic Acid (DNA)
+# Mitosis
 
 Mitosis is a vital process that ensures the accurate division of the
 nucleus and its genetic material. It occurs in somatic cells and results
