@@ -2,6 +2,8 @@
 
 Chapters:
 
+-   [Mitosis](chapters/Mitosis)
+-   [Meiosis](chapters/Meosis)
 -   [DNA](chapters/DNA)
 -   [Gene Structure](chapters/Gene-Structure)
 -   [Genetic Code](chapters/Genetic-Code)
