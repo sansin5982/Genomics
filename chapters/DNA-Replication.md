@@ -71,39 +71,17 @@ polymerase. In eukaryotes, two key polymerases are involved:
     discontinuously in Okazaki fragments.
 
 The two strands of DNA are antiparallel, so synthesis can only occur in
-the 5’ to 3’ direction. As a result: \* The **leading strand** is
-synthesized continuously in the same direction as the replication fork.
-\* The **lagging strand** is synthesized in short fragments, known as
-**Okazaki fragments**, in the opposite direction.
-
-These polymerases require a sliding clamp, known as **proliferating cell
-nuclear antigen (PCNA)** in eukaryotes, to remain attached to the DNA
-and ensure processivity. PCNA is loaded onto the DNA by the
-**replication factor C (RFC)** complex.
-
-ELONGATION: SYNTHESIS OF NEW DNA STRANDS
-
-The enzyme responsible for synthesizing the new DNA strands is DNA
-polymerase. In eukaryotes, two key polymerases are involved:
-
-DNA polymerase ε (epsilon) synthesizes the leading strand continuously.
-
-DNA polymerase δ (delta) synthesizes the lagging strand discontinuously
-in Okazaki fragments.
-
-The two strands of DNA are antiparallel, so synthesis can only occur in
 the 5’ to 3’ direction. As a result:
 
-The leading strand is synthesized continuously in the same direction as
-the replication fork.
-
-The lagging strand is synthesized in short fragments, known as Okazaki
-fragments, in the opposite direction.
+-   The **leading strand** is synthesized continuously in the same
+    direction as the replication fork.
+-   The **lagging strand** is synthesized in short fragments, known as
+    **Okazaki fragments**, in the opposite direction.
 
 These polymerases require a sliding clamp, known as proliferating cell
 nuclear antigen (PCNA) in eukaryotes, to remain attached to the DNA and
-ensure processivity. PCNA is loaded onto the DNA by the replication
-factor C (RFC) complex.
+ensure processivity. PCNA is loaded onto the DNA by the **replication
+factor C (RFC) complex**.
 
 ### Removal of primers and ligation
 
