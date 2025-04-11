@@ -138,7 +138,7 @@ nucleolus disappears, and the mitotic spindle begins to form. The
 centrosomes, which organize the spindle microtubules, start migrating to
 opposite poles of the cell.
 
-<img src="Figures/Prophase.png" alt="Figure 3: Prophase" width="1024" />
+<img src="Figures/Prophase.png" alt="Figure 3: Prophase" width="60%" />
 <p class="caption">
 Figure 3: Prophase
 </p>
@@ -152,7 +152,7 @@ chromosome. Chromosomes begin to move due to dynamic interactions with
 the spindle apparatus, which is composed of microtubules, motor
 proteins, and regulatory factors.
 
-<img src="Figures/Prometaphase.png" alt="Figure 3: Prometaphase" width="1024" />
+<img src="Figures/Prometaphase.png" alt="Figure 3: Prometaphase" width="60%" />
 <p class="caption">
 Figure 3: Prometaphase
 </p>
@@ -166,7 +166,7 @@ this alignment and prevents the cell from progressing until all
 chromosomes are properly attached. Disruption of this checkpoint can
 lead to chromosomal instability, a hallmark of many cancers.
 
-<img src="Figures/Metaphase.png" alt="Figure 4: Metaphase" width="1024" />
+<img src="Figures/Metaphase.png" alt="Figure 4: Metaphase" width="60%" />
 <p class="caption">
 Figure 4: Metaphase
 </p>
@@ -179,7 +179,7 @@ pulled toward opposite poles by shortening of the kinetochore
 microtubules. This movement is facilitated by motor proteins such as
 dynein and kinesin.
 
-<img src="Figures/Anaphase.png" alt="Figure 5: Anaphase" width="1024" />
+<img src="Figures/Anaphase.png" alt="Figure 5: Anaphase" width="60%" />
 <p class="caption">
 Figure 5: Anaphase
 </p>
@@ -196,7 +196,7 @@ set of chromosomes, and the nucleolus reappears. The mitotic spindle
 disassembles, and the cell now contains two genetically identical
 nuclei.
 
-<img src="Figures/Telophase.png" alt="Figure 6: Telophase" width="1024" />
+<img src="Figures/Telophase.png" alt="Figure 6: Telophase" width="60%" />
 <p class="caption">
 Figure 6: Telophase
 </p>
@@ -213,7 +213,7 @@ the cell to form a cell plate. This structure expands outward until it
 fuses with the cell membrane, separating the two daughter cells and
 becoming the new cell wall.
 
-<img src="Figures/Cytokinesis.png" alt="Figure 7: Cytokinesis" width="1024" />
+<img src="Figures/Cytokinesis.png" alt="Figure 7: Cytokinesis" width="60%" />
 <p class="caption">
 Figure 7: Cytokinesis
 </p>
