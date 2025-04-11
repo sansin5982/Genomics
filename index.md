@@ -2,7 +2,7 @@
 
 Chapters:
 
--   [Mitosis](chapters/Mitosis)
+-   [Cell Cycle](chapters/Cell-cycle)
 -   [Meiosis](chapters/Meosis)
 -   [DNA](chapters/DNA)
 -   [Gene Structure](chapters/Gene-Structure)
