@@ -87,12 +87,10 @@ replicated and that no damage is present. Proteins such as ATM and ATR
 detect DNA damage and initiate repair pathways. If damage cannot be
 repaired, p53 may again trigger cell cycle arrest or apoptosis.
 
-<img src="Figures/Interphase.png" alt="Figure 2: Interphase" width="511" />
+<img src="Figures/Interphase.png" alt="Figure 2: Interphase" width="1024" />
 <p class="caption">
 Figure 2: Interphase
 </p>
-
-[Image Credit](https://theory.labster.com/cell-cycle/)
 
 ### MOLECULAR CONTROL OF MITOSIS
 
@@ -143,12 +141,10 @@ nucleolus disappears, and the mitotic spindle begins to form. The
 centrosomes, which organize the spindle microtubules, start migrating to
 opposite poles of the cell.
 
-<img src="Figures/Prophase.png" alt="Figure 3: Prophase" width="330" />
+<img src="Figures/Prophase.png" alt="Figure 3: Prophase" width="1024" />
 <p class="caption">
 Figure 3: Prophase
 </p>
-
-[Image Credit](https://en.wikipedia.org/wiki/Prophase)
 
 ### Prometaphase
 
@@ -159,12 +155,10 @@ chromosome. Chromosomes begin to move due to dynamic interactions with
 the spindle apparatus, which is composed of microtubules, motor
 proteins, and regulatory factors.
 
-<img src="Figures/Prometaphase.png" alt="Figure 3: Prometaphase" width="1280" />
+<img src="Figures/Prometaphase.png" alt="Figure 3: Prometaphase" width="1024" />
 <p class="caption">
 Figure 3: Prometaphase
 </p>
-
-[Image Credit](https://en.wikipedia.org/wiki/Prometaphase)
 
 ### Metaphase
 
@@ -175,12 +169,10 @@ this alignment and prevents the cell from progressing until all
 chromosomes are properly attached. Disruption of this checkpoint can
 lead to chromosomal instability, a hallmark of many cancers.
 
-<img src="Figures/Metaphase.jpeg" alt="Figure 4: Metaphase"  />
+<img src="Figures/Metaphase.png" alt="Figure 4: Metaphase" width="1024" />
 <p class="caption">
 Figure 4: Metaphase
 </p>
-
-[Image Credit](https://passel2.unl.edu/view/lesson/f57a1a8ce6f5/5)
 
 ### Anaphase
 
@@ -190,12 +182,10 @@ pulled toward opposite poles by shortening of the kinetochore
 microtubules. This movement is facilitated by motor proteins such as
 dynein and kinesin.
 
-<img src="Figures/Anaphase.png" alt="Figure 5: Anaphase" width="1280" />
+<img src="Figures/Anaphase.png" alt="Figure 5: Anaphase" width="1024" />
 <p class="caption">
 Figure 5: Anaphase
 </p>
-
-[Image Credit](https://en.wikipedia.org/wiki/Anaphase)
 
 If chromosomes fail to separate properly, aneuploidy may result—leading
 to disorders such as trisomy 21 (Down syndrome) or conditions like
@@ -209,6 +199,11 @@ set of chromosomes, and the nucleolus reappears. The mitotic spindle
 disassembles, and the cell now contains two genetically identical
 nuclei.
 
+<img src="Figures/Telophase.png" alt="Figure 6: Telophase" width="1024" />
+<p class="caption">
+Figure 6: Telophase
+</p>
+
 ## CYTOKINESIS: DIVIDING THE CYTOPLASM
 
 Cytokinesis usually begins during telophase and concludes the cell
@@ -220,6 +215,11 @@ In plant cells, vesicles from the Golgi apparatus fuse in the center of
 the cell to form a cell plate. This structure expands outward until it
 fuses with the cell membrane, separating the two daughter cells and
 becoming the new cell wall.
+
+<img src="Figures/Cytokinesis.png" alt="Figure 7: Cytokinesis" width="1024" />
+<p class="caption">
+Figure 7: Cytokinesis
+</p>
 
 ### IMPORTANCE OF MITOSIS
 
