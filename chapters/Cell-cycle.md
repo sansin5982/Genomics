@@ -110,7 +110,6 @@ Checkpoints ensure the integrity of the process:
 
 -   **G2/M Checkpoint**: Verifies DNA replication completeness and
     damage repair.
-
 -   **Spindle Assembly Checkpoint (SAC)**: Prevents anaphase onset until
     all chromosomes are properly attached to spindle fibers.
 
