@@ -87,7 +87,7 @@ replicated and that no damage is present. Proteins such as ATM and ATR
 detect DNA damage and initiate repair pathways. If damage cannot be
 repaired, p53 may again trigger cell cycle arrest or apoptosis.
 
-<img src="Figures/Interphase.png" alt="Figure 2: Interphase" width="50%" />
+<img src="Figures/Interphase.png" alt="Figure 2: Interphase" width="60%" />
 <p class="caption">
 Figure 2: Interphase
 </p>
