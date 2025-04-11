@@ -99,11 +99,9 @@ particularly:
 
 -   **Cyclins**: Regulatory proteins whose concentrations vary
     cyclically in the cell.
-
 -   **Cyclin-dependent kinases (CDKs)**: Enzymes that, when bound to
     cyclins, phosphorylate target proteins to trigger progression
     through the cell cycle.
-
 -   **Anaphase-Promoting Complex/Cyclosome (APC/C)**: A ubiquitin ligase
     that marks securin and mitotic cyclins for degradation, allowing the
     separation of sister chromatids and exit from mitosis.
