@@ -9,6 +9,14 @@ new complementary strand. The accuracy and regulation of this process
 are crucial for genetic stability, and errors during replication can
 result in mutations, genetic disorders, or cancer.
 
+<img src="Figures/DNA replication.png" alt="Figure 1: DNA replication" width="250" />
+<p class="caption">
+Figure 1: DNA replication
+</p>
+
+[Image
+Credit](https://en.wikipedia.org/wiki/DNA_replication#/media/File:DNA_replication_split.svg)
+
 DNA replication primarily occurs during the **S phase of the cell
 cycle** and involves a well-coordinated sequence of molecular events. A
 multitude of enzymes and accessory proteins collaborate to unwind the
