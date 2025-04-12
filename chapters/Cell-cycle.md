@@ -213,7 +213,7 @@ the cell to form a cell plate. This structure expands outward until it
 fuses with the cell membrane, separating the two daughter cells and
 becoming the new cell wall.
 
-<img src="Figures/Cytokinesis.jpeg" alt="Figure 7: Cytokinesis" width="40%" />
+<img src="Figures/Cytokinesis.jpeg" alt="Figure 7: Cytokinesis" width="80%" />
 <p class="caption">
 Figure 7: Cytokinesis
 </p>
