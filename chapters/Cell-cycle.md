@@ -166,7 +166,7 @@ this alignment and prevents the cell from progressing until all
 chromosomes are properly attached. Disruption of this checkpoint can
 lead to chromosomal instability, a hallmark of many cancers.
 
-<img src="Figures/Metaphase.jpg" alt="Figure 4: Metaphase" width="60%" />
+<img src="Figures/Metaphase.jpeg" alt="Figure 4: Metaphase" width="60%" />
 <p class="caption">
 Figure 4: Metaphase
 </p>
@@ -213,7 +213,7 @@ the cell to form a cell plate. This structure expands outward until it
 fuses with the cell membrane, separating the two daughter cells and
 becoming the new cell wall.
 
-<img src="Figures/Cytokinesis.png" alt="Figure 7: Cytokinesis" width="40%" />
+<img src="Figures/Cytokinesis.jpeg" alt="Figure 7: Cytokinesis" width="40%" />
 <p class="caption">
 Figure 7: Cytokinesis
 </p>
