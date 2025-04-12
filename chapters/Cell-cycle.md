@@ -28,9 +28,9 @@ The cell cycle is divided into four major phases:
 -   **M Phase (Mitosis and Cytokinesis)**: The cell undergoes nuclear
     division followed by division of the cytoplasm.
 
-<img src="Figures/Cell-Cycle-1.png" alt="Figure 1: Phases of cell cycel" width="750" />
+<img src="Figures/Cell-Cycle-1.png" alt="Figure 1: Phases of cell cycle" width="750" />
 <p class="caption">
-Figure 1: Phases of cell cycel
+Figure 1: Phases of cell cycle
 </p>
 
 [Image Credit](https://www.cusabio.com/Cell-Biology/Cell-Cycle.html)

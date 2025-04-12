@@ -30,6 +30,15 @@ Replication begins at specific locations in the DNA molecule known as
 per chromosome to allow rapid duplication. The process starts with the
 recognition of these origins by a multi-protein complex.
 
+<img src="Figures/DNA replication1.jpg" alt="Figure 1: A replication fork is formed by the opening of the origin of replication, and helicase separates the DNA strands."  />
+<p class="caption">
+Figure 1: A replication fork is formed by the opening of the origin of
+replication, and helicase separates the DNA strands.
+</p>
+
+[Image
+Credit](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Concepts_in_Biology_(OpenStax)/09%3A_Molecular_Biology/9.02%3A_DNA_Replication)
+
 The **Origin Recognition Complex (ORC)** binds to the DNA and recruits
 additional proteins, including **CDC6** and **CDT1**, which help load
 the **Mini-Chromosome Maintenance (MCM) complex, a helicase**. This
