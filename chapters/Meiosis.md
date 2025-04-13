@@ -92,6 +92,13 @@ cohesion is protected by shugoshin proteins (SGO1/2), which prevent
 separase from cleaving cohesins at the centromere, thus keeping sister
 chromatids together.
 
+<img src="Figures/Anaphase-1-Meiosis.jpg" alt="Figure 3: Anaphase one"  />
+<p class="caption">
+Figure 3: Anaphase one
+</p>
+
+[Image Credit](https://www.sciencefacts.net/meiosis.html)
+
 ### Telophase I and Cytokinesis
 
 Chromosomes arrive at opposite poles, and the nuclear envelope may
