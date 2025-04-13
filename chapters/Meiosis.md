@@ -107,6 +107,13 @@ daughter cells, each with one set of duplicated chromosomes. These cells
 now enter a brief interphase-like state known as interkinesis, without
 another round of DNA replication.
 
+<img src="Figures/Telophase_1_cytokinesis.png" alt="Figure 4: Telophase one and Cytokinesis" width="248" />
+<p class="caption">
+Figure 4: Telophase one and Cytokinesis
+</p>
+
+[Image Credit](https://www.expii.com/t/meiosis-overview-stages-10164)
+
 ## Meiosis II: Equational Divison
 
 Meiosis II resembles mitosis in many aspects and involves the separation
