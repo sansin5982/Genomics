@@ -3,7 +3,7 @@
 Chapters:
 
 -   [Cell Cycle](chapters/Cell-cycle)
--   [Meiosis](chapters/Meosis)
+-   [Meiosis](chapters/Meiosis)
 -   [DNA](chapters/DNA)
 -   [Gene Structure](chapters/Gene-Structure)
 -   [Genetic Code](chapters/Genetic-Code)
