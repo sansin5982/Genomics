@@ -30,9 +30,9 @@ Replication begins at specific locations in the DNA molecule known as
 per chromosome to allow rapid duplication. The process starts with the
 recognition of these origins by a multi-protein complex.
 
-<img src="Figures/DNA_replication1.png" alt="Figure 1: A replication fork is formed by the opening of the origin of replication, and helicase separates the DNA strands." width="691" />
+<img src="Figures/DNA_replication1.png" alt="Figure 2: A replication fork is formed by the opening of the origin of replication, and helicase separates the DNA strands." width="691" />
 <p class="caption">
-Figure 1: A replication fork is formed by the opening of the origin of
+Figure 2: A replication fork is formed by the opening of the origin of
 replication, and helicase separates the DNA strands.
 </p>
 
