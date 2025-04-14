@@ -79,7 +79,7 @@ intramolecular base pairing.
 Secondary Structure Though RNA is single-stranded, regions within the
 strand can base-pair with complementary sequences.
 
-#### Common secondary structures:
+### Common secondary structures:
 
 -   Hairpins
 -   Stem-loops
@@ -98,6 +98,18 @@ rRNA, and ribozymes.
 
 Examples: \* **tRNA** folds into an L-shaped 3D structure. \* **rRNA**
 adopts complex scaffolding to support ribosome function.
+
+<img src="Figures/RNA structure.PNG" alt="Figure 2: RNA primary (left), secondary (middle), and tertiary structures (right). The RNA folding process is hierarchical, i.e., the RNA secondary structure forms rapidly from linear RNA (primary structure) with a large energy loss, while the formation of a complex tertiary structure is usually much slower." width="600" />
+<p class="caption">
+Figure 2: RNA primary (left), secondary (middle), and tertiary
+structures (right). The RNA folding process is hierarchical, i.e., the
+RNA secondary structure forms rapidly from linear RNA (primary
+structure) with a large energy loss, while the formation of a complex
+tertiary structure is usually much slower.
+</p>
+
+[Image
+Credit](https://journals.plos.org/ploscompbiol/article/figures?id=10.1371/journal.pcbi.1009291)
 
 #### Significance of RNA Structure
 
@@ -153,6 +165,14 @@ degradation)</td>
 </tr>
 </tbody>
 </table>
+
+<img src="Figures/RNA_vs_DNA.jpg" alt="Figure 3: Difference between RNA and DNA" width="75%" height="75%" />
+<p class="caption">
+Figure 3: Difference between RNA and DNA
+</p>
+
+[Image
+Credit](https://opentextbc.ca/biology/chapter/9-1-the-structure-of-dna/)
 
 ## Types of RNA and Their Roles
 
