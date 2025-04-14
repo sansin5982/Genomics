@@ -189,6 +189,14 @@ cytoplasm, where it is **translated into protein**. It serves as a
 **template** for protein synthesis and is **central to gene
 expression**.
 
+<img src="Figures/mRNA formation.png" alt="Figure 4: Central Dogma: Formation of mRNA from DNA" width="125%" height="125%" />
+<p class="caption">
+Figure 4: Central Dogma: Formation of mRNA from DNA
+</p>
+
+\[Image
+Credit\](<https://en.wikipedia.org/wiki/Messenger_RNA#/media/File:Gene_structure_eukaryote_2_annotated.svg>
+
 mRNA is **transcribed from DNA** during **transcription**, and then
 processed (in eukaryotes) before being translated. **RNA polymerase**
 converts the gene into **pre-mRNA**. During **RNA splicing**, introns
@@ -203,9 +211,9 @@ Instead of **thymine**, mRNA used **uracil**.
 The structure of a **eukaryotic mRNA molecule** includes several
 **functional regions**:
 
-<img src="Figures/MRNA_structure.png" alt="Figure 4: Structure of mRNA" width="125%" height="125%" />
+<img src="Figures/MRNA_structure.png" alt="Figure 5: Structure of mRNA" width="125%" height="125%" />
 <p class="caption">
-Figure 4: Structure of mRNA
+Figure 5: Structure of mRNA
 </p>
 
 [Image
