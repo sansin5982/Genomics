@@ -203,7 +203,7 @@ Instead of **thymine**, mRNA used **uracil**.
 The structure of a **eukaryotic mRNA molecule** includes several
 **functional regions**:
 
-<img src="Figures/MRNA_structure.png" alt="Figure 4: Structure of mRNA" width="75%" height="75%" />
+<img src="Figures/MRNA_structure.png" alt="Figure 4: Structure of mRNA" width="125%" height="125%" />
 <p class="caption">
 Figure 4: Structure of mRNA
 </p>
