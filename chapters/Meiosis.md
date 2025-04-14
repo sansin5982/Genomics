@@ -148,11 +148,25 @@ If the nuclear envelope had reformed in telophase I, it now breaks down
 again. Chromosomes condense, and a new spindle apparatus forms.
 Centrosomes duplicate and migrate to opposite poles.
 
+<img src="Figures/Prophase-2-Meiosis.jpg" alt="Figure 8: Prophase Two"  />
+<p class="caption">
+Figure 8: Prophase Two
+</p>
+
+[Image Credit](https://www.sciencefacts.net/meiosis.html)
+
 ### Metaphase II
 
 Chromosomes align at the metaphase plate, and spindle fibers from
 opposite poles attach to kinetochores of sister chromatids. Aurora B
 kinase helps ensure proper tension and attachment.
+
+<img src="Figures/Metaphase-2-Meiosis.jpg" alt="Figure 9: Metaphase two"  />
+<p class="caption">
+Figure 9: Metaphase two
+</p>
+
+[Image Credit](https://www.sciencefacts.net/meiosis.html)
 
 ### Anaphase II
 
@@ -160,12 +174,26 @@ The centromeric cohesion is now released by separase, allowing sister
 chromatids to separate and move to opposite poles. The spindle
 checkpoint ensures fidelity in segregation.
 
+<img src="Figures/Anaphase-2-Meiosis.jpg" alt="Figure 10: Anaphase two"  />
+<p class="caption">
+Figure 10: Anaphase two
+</p>
+
+[Image Credit](https://www.sciencefacts.net/meiosis.html)
+
 ### Telophase II and Cytokinesis
 
 Chromosomes decondense, nuclear envelopes reform, and the cytoplasm
 divides. This results in four genetically distinct haploid cells, each
 containing one complete set of chromosomes. These cells mature into
 gametes in animals (sperm or eggs) or spores in plants and fungi.
+
+<img src="Figures/Telophase-2-Meiosis.jpg" alt="Figure 11: Telophase two"  />
+<p class="caption">
+Figure 11: Telophase two
+</p>
+
+[Image Credit](https://www.sciencefacts.net/meiosis.html)
 
 ## Genetic Diversity Through Meiosis
 
