@@ -195,7 +195,7 @@ Figure 4: Central Dogma: Formation of mRNA from DNA
 </p>
 
 \[Image
-Credit\](<https://en.wikipedia.org/wiki/Messenger_RNA#/media/File:Gene_structure_eukaryote_2_annotated.svg>
+Credit\](<https://en.wikipedia.org/wiki/Messenger_RNA#/media/File:Gene_structure_eukaryote_2_annotated.svg>\]
 
 mRNA is **transcribed from DNA** during **transcription**, and then
 processed (in eukaryotes) before being translated. **RNA polymerase**
@@ -204,7 +204,37 @@ are removed, leaving only **exons**. This exon constitutes **mRNA**.
 Genetic information in mRNA is contained in the sequence of
 **nucleotide**
 
-Instead of **thymine**, mRNA used **uracil**.
+Instead of **thymine**, mRNA uses **uracil**. Several steps takes place
+to form mature mRNA. \* **Splicing**: Removes **introns** or **outrons**
+(non coding region) from pre-mRNA.
+
+-   **5’ cap addition**: Also known as **RNA cap**, an **RNA
+    7-methylguanosine cap** or **RNA m7G cap**. A 5’ cap is a modified
+    guanine nucleotide that has been added to the front or 5’ end of
+    mRNA. Its presence is critical for recognition by the ribosome and
+    protection from RNases.
+
+-   **Polyadenylation**: Polyadenylation is the covalent linkage of a
+    polyadenylyl moiety to a messenger RNA molecule. After the mRNA has
+    been cleaved, around **250 adenosine residues** are added to the
+    free 3’ end at the cleavage site. This reaction is catalyzed by
+    polyadenylate polymerase. Protect mRNA from degradation by
+    exonuclease.
+
+-   **Coding regions**: Coding regrions are composed of codons which are
+    decoded and translated into proteins by the ribosome. Coding regions
+    begin with the **start codon (AUG)** and end with a **stop codon
+    (UAA, UAG, UGA)**.
+
+-   **Untranslated region (UTR)**: UTRs are sections of the mRNA before
+    the start codon and after the stop codon **that are not
+    translated**, termed the **five prime untranslated region (5’ UTR)**
+    and **three prime untranslated region (3’ UTR)**, respectively.
+
+-   **Poly(A) tail**: The **3’ poly(A) tail** is a long sequence of
+    adenine nucleotides (often several hundred) added to the 3’ end of
+    the pre-mRNA. This tail promotes export from the nucleus and
+    translation, and protects the mRNA from degradation.
 
 #### Structure of mRNA
 
