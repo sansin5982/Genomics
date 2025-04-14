@@ -15,6 +15,13 @@ integrity and ensure proper chromosome segregation. Failures in meiosis
 **can lead to aneuploidies such as trisomy 21 (Down syndrome)** and are
 a leading cause of miscarriages and infertility.
 
+<img src="Figures/Meiosis.jpg" alt="Figure 1: Meiosis all stages"  />
+<p class="caption">
+Figure 1: Meiosis all stages
+</p>
+
+[Image Credit](https://www.sciencefacts.net/meiosis.html)
+
 ## Pre-meotic phase
 
 Prior to entering meiosis, **cells undergo interphase**, which includes
@@ -25,9 +32,9 @@ and topoisomerases** play their standard roles in accurately duplicating
 the genome. Importantly, cohesin complexes are loaded during this phase
 to hold sister chromatids together until anaphase.
 
-<img src="Figures/Interphase-Meiosis.jpg" alt="Figure 1: Interphase"  />
+<img src="Figures/Interphase-Meiosis.jpg" alt="Figure 2: Interphase"  />
 <p class="caption">
-Figure 1: Interphase
+Figure 2: Interphase
 </p>
 
 [Image Credit](https://www.sciencefacts.net/meiosis.html)
@@ -37,9 +44,9 @@ Figure 1: Interphase
 The hallmark of meiosis I is the separation of homologous chromosomes,
 **reducing the chromosome number from diploid (2n) to haploid (n)**.
 
-<img src="Figures/Meiosis-I-Reductional-Division.png" alt="Figure 2: Meiosis 1 Reductional Division" width="1200" />
+<img src="Figures/Meiosis-I-Reductional-Division.png" alt="Figure 3: Meiosis 1 Reductional Division" width="1200" />
 <p class="caption">
-Figure 2: Meiosis 1 Reductional Division
+Figure 3: Meiosis 1 Reductional Division
 </p>
 
 [Image
@@ -51,9 +58,9 @@ This is the longest and most complex stage of meiosis and is subdivided
 into **five stages: leptotene, zygotene, pachytene, diplotene**, and
 **diakinesis**.
 
-<img src="Figures/prophase-one.jpeg" alt="Figure 3: Stages of Prophase one"  />
+<img src="Figures/prophase-one.jpeg" alt="Figure 4: Stages of Prophase one"  />
 <p class="caption">
-Figure 3: Stages of Prophase one
+Figure 4: Stages of Prophase one
 </p>
 
 [Image
@@ -85,9 +92,9 @@ alignment is randomized, contributing to genetic variation (independent
 assortment). The spindle checkpoint ensures that all chromosomes are
 properly aligned before progression.
 
-<img src="Figures/Metaphase-1-Meiosis.jpg" alt="Figure 4: Metaphase one"  />
+<img src="Figures/Metaphase-1-Meiosis.jpg" alt="Figure 5: Metaphase one"  />
 <p class="caption">
-Figure 4: Metaphase one
+Figure 5: Metaphase one
 </p>
 
 [Image Credit](https://www.sciencefacts.net/meiosis.html)
@@ -100,9 +107,9 @@ cohesion is protected by shugoshin proteins (SGO1/2), which prevent
 separase from cleaving cohesins at the centromere, thus keeping sister
 chromatids together.
 
-<img src="Figures/Anaphase-1-Meiosis.jpg" alt="Figure 5: Anaphase one"  />
+<img src="Figures/Anaphase-1-Meiosis.jpg" alt="Figure 6: Anaphase one"  />
 <p class="caption">
-Figure 5: Anaphase one
+Figure 6: Anaphase one
 </p>
 
 [Image Credit](https://www.sciencefacts.net/meiosis.html)
@@ -115,9 +122,9 @@ daughter cells, each with one set of duplicated chromosomes. These cells
 now enter a brief interphase-like state known as interkinesis, without
 another round of DNA replication.
 
-<img src="Figures/Telophase_1_cytokinesis.png" alt="Figure 6: Telophase one and Cytokinesis" width="248" />
+<img src="Figures/Telophase_1_cytokinesis.png" alt="Figure 7: Telophase one and Cytokinesis" width="248" />
 <p class="caption">
-Figure 6: Telophase one and Cytokinesis
+Figure 7: Telophase one and Cytokinesis
 </p>
 
 [Image Credit](https://www.expii.com/t/meiosis-overview-stages-10164)
@@ -127,9 +134,9 @@ Figure 6: Telophase one and Cytokinesis
 Meiosis II resembles mitosis in many aspects and involves the separation
 of sister chromatids.
 
-<img src="Figures/Meiosis-II-Equational-Division.png" alt="Figure 7: Meiosis II Equational Divison" width="1200" />
+<img src="Figures/Meiosis-II-Equational-Division.png" alt="Figure 8: Meiosis II Equational Divison" width="1200" />
 <p class="caption">
-Figure 7: Meiosis II Equational Divison
+Figure 8: Meiosis II Equational Divison
 </p>
 
 [Image
