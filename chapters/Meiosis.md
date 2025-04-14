@@ -244,3 +244,5 @@ meiotic arrest.
     genesis of human aneuploidy. Nature Reviews Genetics, 2(4), 280–291.
 -   NCBI Bookshelf (<https://www.ncbi.nlm.nih.gov/books/>)
 -   Nature Cell Biology (<https://www.nature.com/ncb/>)
+
+[⬅ Back to Home](../index.md)
