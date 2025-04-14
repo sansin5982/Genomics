@@ -339,19 +339,164 @@ These polypeptides usually have a related functions.
 #### Role of mRNA in Disease
 
 Mutations or misregulation of mRNA can cause diseases in several ways:
-\* **Aberrant splicing** → production of dysfunctional proteins. For
-example: Spinal Muscular Atrophy, Beta-Thalassemia \* **mRNA decay
-defects** → abnormal accumulation of toxic proteins \* **Transcriptional
-dysregulation** → cancer, neurodegeneration
+
+-   **Aberrant splicing** → production of dysfunctional proteins. For
+    example: Spinal Muscular Atrophy, Beta-Thalassemia
+-   **mRNA decay defects** → abnormal accumulation of toxic proteins
+-   **Transcriptional dysregulation** → cancer, neurodegeneration
 
 ### 2. Ribosomal RNA (rRNA)
 
--   **Role**: Forms the core of ribosomes, facilitating protein
-    synthesis.
--   **Function**: Provides structural and enzymatic support for
-    translation.
--   **Application in Genomics**: Studied in phylogenetics and
-    metagenomics to understand species relationships.
+**Ribosomal RNA (rRNA)** is a type of **non-coding** RNA that forms the
+**core structural and functional components of the ribosome**, which is
+the molecular machine responsible for **protein synthesis**
+(translation).
+
+rRNA, along with ribosomal proteins, makes up **ribosomes**, which:
+
+-   Read mRNA sequences.
+-   Catalyze the formation of peptide bonds between amino acids.
+
+**rRNA is the most abundant type of RNA in the cell (~80–90% of total
+RNA).**
+
+#### Structure of rRNA
+
+#### a. Types of rRNA in Eukaryotes
+
+Eukaryotic ribosomes are **80S**, composed of:
+
+-   **60S large subunit**:
+
+    -   **28S rRNA**
+    -   **5.8S rRNA**
+    -   **5S rRNA**
+
+-   **40S small subunit**:
+
+    -   **18S rRNA**
+
+#### b. Types of rRNA in Prokaryotes
+
+Prokaryotic ribosomes are **70S**, composed of:
+
+-   **50S large subunit**:
+
+    -   **3S rRNA**
+    -   **5S rRNA**
+
+-   **30S small subunit**:
+
+-   **16S rRNA**
+
+#### c. Structural Features
+
+-   rRNAs **fold into complex secondary and tertiary structures** with
+    stems, loops, bulges, and helices.
+-   These folded structures form the **scaffold** for ribosome assembly
+    and are crucial for function.
+-   rRNAs **interact with ribosomal proteins** and **mRNA/tRNA** to
+    coordinate translation.
+
+**23S (prokaryotic) and 28S (eukaryotic) rRNAs have peptidyl transferase
+activity, making them ribozymes**.
+
+#### Role of rRNA in Genetics and Genomics
+
+#### a. Protein Synthesis
+
+-   rRNA is the **catalytic engine** of the ribosome.
+-   The **ribosome reads mRNA**, aligns tRNAs, and synthesizes proteins.
+
+#### b. Ribosome Biogenesis
+
+-   rRNAs are **transcribed in the nucleolus** (except 5S rRNA).
+-   They undergo **modification and cleavage** before forming mature
+    ribosomes.
+
+#### c. rRNA Genes in the Genome
+
+-   rRNA genes exist in **repetitive clusters** called **rDNA** (e.g.,
+    45S pre-rRNA genes).
+-   Located on **nucleolar organizing regions (NORs)** of specific
+    chromosomes (in humans: 13, 14, 15, 21, 22).
+
+#### d. Phylogenetics and Evolution
+
+-   **16S (prokaryotic)** and **18S (eukaryotic)** rRNAs are highly
+    conserved.
+-   Widely used for **species identification** and **evolutionary
+    studies** (e.g., 16S rRNA sequencing in microbiome research).
+
+#### Role of rRNA in Disease
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Disease</th>
+<th style="text-align: left;">Mechanism</th>
+<th style="text-align: left;">rRNA Involvement</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Ribosomopathies</strong></td>
+<td style="text-align: left;">Inherited disorders affecting ribosome
+biogenesis</td>
+<td style="text-align: left;">Mutations in rRNA processing genes (e.g.,
+TCOF1, DKC1) → defective rRNA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Treacher Collins
+Syndrome</strong></td>
+<td style="text-align: left;">Craniofacial defects due to defective
+ribosome biogenesis</td>
+<td style="text-align: left;">Mutations affect RNA polymerase I/III
+transcription of rRNA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Cancer</strong></td>
+<td style="text-align: left;">Increased ribosome biogenesis and rRNA
+transcription</td>
+<td style="text-align: left;">Overexpression of rDNA, rRNA, and ribosome
+assembly factors</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Dyskeratosis
+Congenita</strong></td>
+<td style="text-align: left;">Telomerase and rRNA pseudouridylation
+defects</td>
+<td style="text-align: left;">Mutation in DKC1 affects snoRNA-guided
+modification of rRNA</td>
+</tr>
+</tbody>
+</table>
+
+#### Examples and Research Applications
+
+#### a. 16S/18S rRNA Sequencing
+
+-   Used in microbiome studies, environmental microbiology, and
+    evolutionary biology.
+-   16S rRNA used for bacterial taxonomic classification.
+-   18S rRNA used for eukaryotic diversity studies.
+
+#### b. rRNA Modifications
+
+-   rRNA methylation and pseudouridylation help stabilize structure and
+    function.
+-   Studied via epitranscriptomics (role of RNA modifications in
+    health/disease).
+
+#### c. rRNA in Ribosome Profiling
+
+-   Used to map translation efficiency and ribosome occupancy on mRNAs.
+-   Helps study translational control in cancer and viral infections.
 
 ### 3. Transfer RNA (tRNA)
 
@@ -445,30 +590,71 @@ transform medicine and biotechnology.
 
 #### References
 
--   Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., &
-    Walter, P. (2014). Molecular Biology of the Cell (6th ed.). Garland
-    Science.
--   Watson, J. D., Baker, T. A., Bell, S. P., Gann, A., Levine, M., &
-    Losick, R. (2017). Molecular Biology of the Gene (7th ed.). Pearson.
+-   Alberts B. et al. (2014). Molecular Biology of the Cell, 6th Ed.
+    Garland Science.
+-   Bartel, D. P. (2009). “MicroRNAs: Target recognition and regulatory
+    functions.” Cell, 136(2), 215-233.
+-   Blanchard, S. C. (2009). “Ribosome dynamics and mRNA translation
+    regulation.” Nature Structural & Molecular Biology, 16(6), 664–670.
+-   Beermann, J., Piccoli, M. T., Viereck, J., & Thum, T. (2016).
+    “Non-coding RNAs in development and disease: Background, mechanisms,
+    and therapeutic approaches.” Physiological Reviews, 96(4), 1297-
 -   Cech, T. R., & Steitz, J. A. (2014). “The noncoding RNA
     revolution—Trashing old rules to forge new ones.” Cell, 157(1),
     77-94.
--   Mattick, J. S., & Makunin, I. V. (2006). “Non-coding RNA.” Human
-    Molecular Genetics, 15(R1), R17-R29.
--   Bartel, D. P. (2009). “MicroRNAs: Target recognition and regulatory
-    functions.” Cell, 136(2), 215-233.
--   Sharp, P. A. (2009). “The centrality of RNA.” Cell, 136(4), 577-580.
+-   De Silva, D., et al. (2009). “Ribosome biogenesis in health and
+    disease.” Trends in Molecular Medicine, 15(12), 581–585.
 -   Doudna, J. A., & Cech, T. R. (2002). “The chemical repertoire of
     natural ribozymes.” Nature, 418(6894), 222-228.
--   Lee, R. C., Feinbaum, R. L., & Ambros, V. (1993). “The C. elegans
-    heterochronic gene lin-4 encodes small RNAs with antisense
-    complementarity to lin-14.” Cell, 75(5), 843-854.
+-   Elbashir, S. M. et al. (2001). “Duplexes of 21-nucleotide RNAs
+    mediate RNA interference in cultured mammalian cells.” Nature,
+    411(6836), 494–498.
+-   Finkel, R. S. et al. (2017). “Nusinersen versus sham control in
+    infantile-onset spinal muscular atrophy.” New England Journal of
+    Medicine, 377(18), 1723–1732.
 -   Fire, A., Xu, S., Montgomery, M. K., Kostas, S. A., Driver, S. E., &
     Mello, C. C. (1998). “Potent and specific genetic interference by
     double-stranded RNA in Caenorhabditis elegans.” Nature, 391(6669),
     806-811.
--   Beermann, J., Piccoli, M. T., Viereck, J., & Thum, T. (2016).
-    “Non-coding RNAs in development and disease: Background, mechanisms,
-    and therapeutic approaches.” Physiological Reviews, 96(4), 1297-
+-   Jackson, R. J., Hellen, C. U., & Pestova, T. V. (2010). “The
+    mechanism of eukaryotic translation initiation and principles of its
+    regulation.” Nature Reviews Molecular Cell Biology, 11(2), 113–127.
+-   Karikó, K., Buckstein, M., Ni, H., & Weissman, D. (2005).
+    “Suppression of RNA recognition by Toll-like receptors: The impact
+    of nucleoside modification and the evolutionary origin of RNA.”
+    Immunity, 23(2), 165–175.
+-   Lee, R. C., Feinbaum, R. L., & Ambros, V. (1993). “The C. elegans
+    heterochronic gene lin-4 encodes small RNAs with antisense
+    complementarity to lin-14.” Cell, 75(5), 843-854.
+-   Mattick, J. S., & Makunin, I. V. (2006). “Non-coding RNA.” Human
+    Molecular Genetics, 15(R1), R17-R29.
+-   Moore, M. J., & Proudfoot, N. J. (2009). “Pre-mRNA processing
+    reaches back to transcription and ahead to translation.” Cell,
+    136(4), 688–700.
+-   Penzo, M., & Montanaro, L. (2018). “Turning Uridines around: Role of
+    rRNA pseudouridylation in ribosome biogenesis and ribosomal
+    function.” Biomolecules, 8(2), 38.
+-   Ruggero, D., & Pandolfi, P. P. (2003). “Does the ribosome translate
+    cancer?” Nature Reviews Cancer, 3(3), 179–192.
+-   Sahin, U., Karikó, K., & Türeci, Ö. (2014). “mRNA-based
+    therapeutics—developing a new class of drugs.” Nature Reviews Drug
+    Discovery, 13(10), 759–780.
+-   Sharp, P. A. (2009). “The centrality of RNA.” Cell, 136(4), 577-580.
+-   Wang, Z., & Burge, C. B. (2008). “Splicing regulation: From a parts
+    list of regulatory elements to an integrated splicing code.” RNA,
+    14(5), 802–813.
+-   Warner, J. R., & McIntosh, K. B. (2009). “How common are
+    extraribosomal functions of ribosomal proteins?” Molecular Cell,
+    34(1), 3–11.
+-   Watson, J. D., Baker, T. A., Bell, S. P., Gann, A., Levine, M., &
+    Losick, R. (2017). Molecular Biology of the Gene (7th ed.). Pearson.
+-   Wilson, D. N., & Doudna Cate, J. H. (2012). “The structure and
+    function of the eukaryotic ribosome.” Cold Spring Harbor
+    Perspectives in Biology, 4(5), a011536.
+-   Woolford, J. L., & Baserga, S. J. (2013). “Ribosome biogenesis in
+    the yeast Saccharomyces cerevisiae.” Genetics, 195(3), 643–681.
+-   Woese, C. R., & Fox, G. E. (1977). “Phylogenetic structure of the
+    prokaryotic domain: The primary kingdoms.” Proceedings of the
+    National Academy of Sciences, 74(11), 5088–5090.
 
 [⬅ Back to Home](../index.md)
