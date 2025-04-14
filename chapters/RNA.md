@@ -299,6 +299,13 @@ A’s) added to the 3′ end. Enhances stability and translation.</td>
 In prokaryotes, mRNA does not have a 5′ cap or poly(A) tail, and often
 encodes multiple proteins (polycistronic).
 
+### Monocistronic versus polycistronic m RNA
+
+Monocistronic mRNA contains the genetic information to translate only a
+single protein chain (polypetide). Polycistronic mRNA carries several
+**open reading frames**, each of which translated into a polypeptide.
+These polypeptides usually have a related functions.
+
 #### Role of mRNA in Genetics and Genomics
 
 #### a. Gene Expression
