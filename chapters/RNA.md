@@ -96,8 +96,10 @@ rRNA, and ribozymes.
     -   Base stacking
     -   Interaction with metal ions or proteins
 
-Examples: \* **tRNA** folds into an L-shaped 3D structure. \* **rRNA**
-adopts complex scaffolding to support ribosome function.
+Examples:
+
+-   **tRNA** folds into an L-shaped 3D structure.
+-   **rRNA** adopts complex scaffolding to support ribosome function.
 
 <img src="Figures/RNA structure.PNG" alt="Figure 2: RNA primary (left), secondary (middle), and tertiary structures (right). The RNA folding process is hierarchical, i.e., the RNA secondary structure forms rapidly from linear RNA (primary structure) with a large energy loss, while the formation of a complex tertiary structure is usually much slower." width="600" />
 <p class="caption">
@@ -181,12 +183,97 @@ and cellular processes.
 
 ### 1. Messenger RNA (mRNA)
 
--   **Role**: Carries genetic information from DNA to ribosomes for
-    protein synthesis.
--   **Process**: Transcribed from a gene and later translated into a
-    protein.
--   **Application in Genomics**: Used in transcriptomics (RNA
-    sequencing) to study gene expression patterns.
+**Messenger RNA (mRNA)** is a type of RNA that **carries genetic
+information from DNA** in the nucleus to the **ribosomes** in the
+cytoplasm, where it is **translated into protein**. It serves as a
+**template** for protein synthesis and is **central to gene
+expression**.
+
+mRNA is **transcribed from DNA** during **transcription**, and then
+processed (in eukaryotes) before being translated.
+
+#### Structure of mRNA
+
+The structure of a **eukaryotic mRNA molecule** includes several
+**functional regions**:
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Region</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>5’Cap</strong></td>
+<td style="text-align: left;">A modified guanine nucleotide
+(7-methylguanosine) added to the 5′ end. Protects mRNA from degradation
+and helps in ribosome binding.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>5′ Untranslated Region (5′
+UTR)</strong></td>
+<td style="text-align: left;">Regulatory region upstream of the start
+codon. Influences translation efficiency and mRNA stability.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Coding Sequence
+(CDS)</strong></td>
+<td style="text-align: left;">The actual protein-coding region, starting
+with <strong>AUG (start codon)</strong> and ending with a <strong>stop
+codon (UAA, UAG, UGA)</strong>.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>3′ Untranslated Region (3′
+UTR)</strong></td>
+<td style="text-align: left;">Region downstream of the stop codon.
+Regulates stability, localization, and translation.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Poly(A) Tail</strong></td>
+<td style="text-align: left;">A stretch of adenine nucleotides (~50–250
+A’s) added to the 3′ end. Enhances stability and translation.</td>
+</tr>
+</tbody>
+</table>
+
+In prokaryotes, mRNA does not have a 5′ cap or poly(A) tail, and often
+encodes multiple proteins (polycistronic).
+
+#### Role of mRNA in Genetics and Genomics
+
+#### a. Gene Expression
+
+-   mRNA is the intermediate product between a gene (DNA) and the
+    functional product (protein).
+-   Gene expression studies (e.g., using RNA-seq) measure mRNA levels to
+    understand which genes are active.
+
+#### b. Transcriptomics
+
+-   mRNA is central to transcriptomics, a major field in genomics aimed
+    at:
+    -   Studying gene expression profiles
+    -   Identifying disease biomarkers
+    -   Exploring developmental and cellular responses
+
+#### c. Splicing and Isoforms
+
+-   Alternative splicing of pre-mRNA creates **different mRNA isoforms**
+    from a single gene → protein diversity.
+
+#### Role of mRNA in Disease
+
+Mutations or misregulation of mRNA can cause diseases in several ways:
+\* **Aberrant splicing** → production of dysfunctional proteins. For
+example: Spinal Muscular Atrophy, Beta-Thalassemia \* **mRNA decay
+defects** → abnormal accumulation of toxic proteins \* **Transcriptional
+dysregulation** → cancer, neurodegeneration
 
 ### 2. Ribosomal RNA (rRNA)
 
