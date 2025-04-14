@@ -37,15 +37,23 @@ Figure 1: Interphase
 The hallmark of meiosis I is the separation of homologous chromosomes,
 **reducing the chromosome number from diploid (2n) to haploid (n)**.
 
+<img src="Figures/Meiosis-I-Reductional-Division.png" alt="Figure 2: Meiosis 1 Reductional Division" width="1200" />
+<p class="caption">
+Figure 2: Meiosis 1 Reductional Division
+</p>
+
+[Image
+Credit](https://www.examples.com/ap-biology/the-process-and-function-of-meiosis)
+
 ### Prophase I
 
 This is the longest and most complex stage of meiosis and is subdivided
 into **five stages: leptotene, zygotene, pachytene, diplotene**, and
 **diakinesis**.
 
-<img src="Figures/prophase-one.jpeg" alt="Figure 2: Stages of Prophase one"  />
+<img src="Figures/prophase-one.jpeg" alt="Figure 3: Stages of Prophase one"  />
 <p class="caption">
-Figure 2: Stages of Prophase one
+Figure 3: Stages of Prophase one
 </p>
 
 [Image
@@ -77,9 +85,9 @@ alignment is randomized, contributing to genetic variation (independent
 assortment). The spindle checkpoint ensures that all chromosomes are
 properly aligned before progression.
 
-<img src="Figures/Metaphase-1-Meiosis.jpg" alt="Figure 3: Metaphase one"  />
+<img src="Figures/Metaphase-1-Meiosis.jpg" alt="Figure 4: Metaphase one"  />
 <p class="caption">
-Figure 3: Metaphase one
+Figure 4: Metaphase one
 </p>
 
 [Image Credit](https://www.sciencefacts.net/meiosis.html)
@@ -92,9 +100,9 @@ cohesion is protected by shugoshin proteins (SGO1/2), which prevent
 separase from cleaving cohesins at the centromere, thus keeping sister
 chromatids together.
 
-<img src="Figures/Anaphase-1-Meiosis.jpg" alt="Figure 3: Anaphase one"  />
+<img src="Figures/Anaphase-1-Meiosis.jpg" alt="Figure 5: Anaphase one"  />
 <p class="caption">
-Figure 3: Anaphase one
+Figure 5: Anaphase one
 </p>
 
 [Image Credit](https://www.sciencefacts.net/meiosis.html)
@@ -107,9 +115,9 @@ daughter cells, each with one set of duplicated chromosomes. These cells
 now enter a brief interphase-like state known as interkinesis, without
 another round of DNA replication.
 
-<img src="Figures/Telophase_1_cytokinesis.png" alt="Figure 4: Telophase one and Cytokinesis" width="248" />
+<img src="Figures/Telophase_1_cytokinesis.png" alt="Figure 6: Telophase one and Cytokinesis" width="248" />
 <p class="caption">
-Figure 4: Telophase one and Cytokinesis
+Figure 6: Telophase one and Cytokinesis
 </p>
 
 [Image Credit](https://www.expii.com/t/meiosis-overview-stages-10164)
@@ -118,6 +126,14 @@ Figure 4: Telophase one and Cytokinesis
 
 Meiosis II resembles mitosis in many aspects and involves the separation
 of sister chromatids.
+
+<img src="Figures/Meiosis-II-Equational-Division.png" alt="Figure 7: Meiosis II Equational Divison" width="1200" />
+<p class="caption">
+Figure 7: Meiosis II Equational Divison
+</p>
+
+[Image
+Credit](https://www.examples.com/ap-biology/the-process-and-function-of-meiosis)
 
 ### Prophase II
 
