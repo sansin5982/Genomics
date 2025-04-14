@@ -2,9 +2,10 @@
 
 Chapters:
 
+-   [DNA](chapters/DNA)
+-   [RNA](chapters/RNA)
 -   [Cell Cycle](chapters/Cell-cycle)
 -   [Meiosis](chapters/Meiosis)
--   [DNA](chapters/DNA)
 -   [Gene Structure](chapters/Gene-Structure)
 -   [Genetic Code](chapters/Genetic-Code)
 -   [DNA Replication](chapters/DNA-Replication)
