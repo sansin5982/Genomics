@@ -71,6 +71,14 @@ intramolecular base pairing.
 -   Connects to the 3′ carbon of the next nucleotide via a
     **phosphodiester bond** → forms the **RNA backbone**.
 
+<img src="Figures/RNA_components.jpeg" alt="Figure 2: RNA components"  />
+<p class="caption">
+Figure 2: RNA components
+</p>
+
+[Image
+Credit](https://bio.libretexts.org/Courses/Prince_Georges_Community_College/PGCC_Microbiology/02%3A_Chemistry_of_Microbiology/2.05%3A_Organic_Compounds/2.5.04%3A_DNA_and_RNA)
+
 ### Primary Structure
 
 -   Linear sequence of nucleotides (e.g., AUGCGUA…)
@@ -101,9 +109,9 @@ Examples:
 -   **tRNA** folds into an L-shaped 3D structure.
 -   **rRNA** adopts complex scaffolding to support ribosome function.
 
-<img src="Figures/RNA structure.PNG" alt="Figure 2: RNA primary (left), secondary (middle), and tertiary structures (right). The RNA folding process is hierarchical, i.e., the RNA secondary structure forms rapidly from linear RNA (primary structure) with a large energy loss, while the formation of a complex tertiary structure is usually much slower." width="600" />
+<img src="Figures/RNA structure.PNG" alt="Figure 3: RNA primary (left), secondary (middle), and tertiary structures (right). The RNA folding process is hierarchical, i.e., the RNA secondary structure forms rapidly from linear RNA (primary structure) with a large energy loss, while the formation of a complex tertiary structure is usually much slower." width="600" />
 <p class="caption">
-Figure 2: RNA primary (left), secondary (middle), and tertiary
+Figure 3: RNA primary (left), secondary (middle), and tertiary
 structures (right). The RNA folding process is hierarchical, i.e., the
 RNA secondary structure forms rapidly from linear RNA (primary
 structure) with a large energy loss, while the formation of a complex
@@ -168,9 +176,9 @@ degradation)</td>
 </tbody>
 </table>
 
-<img src="Figures/RNA_vs_DNA.jpg" alt="Figure 3: Difference between RNA and DNA" width="75%" height="75%" />
+<img src="Figures/RNA_vs_DNA.jpg" alt="Figure 4: Difference between RNA and DNA" width="75%" height="75%" />
 <p class="caption">
-Figure 3: Difference between RNA and DNA
+Figure 4: Difference between RNA and DNA
 </p>
 
 [Image
@@ -189,9 +197,9 @@ cytoplasm, where it is **translated into protein**. It serves as a
 **template** for protein synthesis and is **central to gene
 expression**.
 
-<img src="Figures/mRNA formation.png" alt="Figure 4: Central Dogma: Formation of mRNA from DNA" width="125%" height="125%" />
+<img src="Figures/mRNA formation.png" alt="Figure 5: Central Dogma: Formation of mRNA from DNA" width="125%" height="125%" />
 <p class="caption">
-Figure 4: Central Dogma: Formation of mRNA from DNA
+Figure 5: Central Dogma: Formation of mRNA from DNA
 </p>
 
 [Image
@@ -243,9 +251,9 @@ to form mature mRNA.
 The structure of a **eukaryotic mRNA molecule** includes several
 **functional regions**:
 
-<img src="Figures/MRNA_structure.png" alt="Figure 5: Structure of mRNA" width="125%" height="125%" />
+<img src="Figures/MRNA_structure.png" alt="Figure 6: Structure of mRNA" width="125%" height="125%" />
 <p class="caption">
-Figure 5: Structure of mRNA
+Figure 6: Structure of mRNA
 </p>
 
 [Image
