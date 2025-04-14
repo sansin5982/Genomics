@@ -32,6 +32,13 @@ nucleotides, each made up of three components:
 -   A five-carbon sugar (ribose)
 -   A phosphate group
 
+<img src="Figures/Ribonucleic-Acid-RNA.png" alt="Figure 1:Basic Structure of RNA" width="563" />
+<p class="caption">
+Figure 1:Basic Structure of RNA
+</p>
+
+[Image Credit](https://byjus.com/biology/structure-of-rna/)
+
 ### Basic Components of RNA
 
 #### 1. Nitrogenous Bases
