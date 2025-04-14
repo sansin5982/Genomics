@@ -194,8 +194,8 @@ expression**.
 Figure 4: Central Dogma: Formation of mRNA from DNA
 </p>
 
-\[Image
-Credit\](<https://en.wikipedia.org/wiki/Messenger_RNA#/media/File:Gene_structure_eukaryote_2_annotated.svg>\]
+[Image
+Credit](https://en.wikipedia.org/wiki/Messenger_RNA#/media/File:Gene_structure_eukaryote_2_annotated.svg)
 
 mRNA is **transcribed from DNA** during **transcription**, and then
 processed (in eukaryotes) before being translated. **RNA polymerase**
@@ -205,8 +205,10 @@ Genetic information in mRNA is contained in the sequence of
 **nucleotide**
 
 Instead of **thymine**, mRNA uses **uracil**. Several steps takes place
-to form mature mRNA. \* **Splicing**: Removes **introns** or **outrons**
-(non coding region) from pre-mRNA.
+to form mature mRNA.
+
+-   **Splicing**: Removes **introns** or **outrons** (non coding region)
+    from pre-mRNA.
 
 -   **5’ cap addition**: Also known as **RNA cap**, an **RNA
     7-methylguanosine cap** or **RNA m7G cap**. A 5’ cap is a modified
