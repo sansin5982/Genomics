@@ -190,12 +190,26 @@ cytoplasm, where it is **translated into protein**. It serves as a
 expression**.
 
 mRNA is **transcribed from DNA** during **transcription**, and then
-processed (in eukaryotes) before being translated.
+processed (in eukaryotes) before being translated. **RNA polymerase**
+converts the gene into **pre-mRNA**. During **RNA splicing**, introns
+are removed, leaving only **exons**. This exon constitutes **mRNA**.
+Genetic information in mRNA is contained in the sequence of
+**nucleotide**
+
+Instead of **thymine**, mRNA used **uracil**.
 
 #### Structure of mRNA
 
 The structure of a **eukaryotic mRNA molecule** includes several
 **functional regions**:
+
+<img src="Figures/MRNA_structure.png" alt="Figure 4: Structure of mRNA" width="75%" height="75%" />
+<p class="caption">
+Figure 4: Structure of mRNA
+</p>
+
+[Image
+Credit](https://en.wikipedia.org/wiki/Messenger_RNA#/media/File:MRNA_structure.svg)
 
 <table>
 <colgroup>
