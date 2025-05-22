@@ -1,8 +1,15 @@
-# 🧬 What is RNA-seq?
+# 🧬 RNA-seq?
 
 **RNA-seq** (RNA sequencing) is a high-throughput sequencing technique
 used to measure the complete set of RNA transcripts in a sample — known
 as the **transcriptome** — at a specific time.
+
+<img src="Figures/RNA-seq.png" alt="Figure 1: Summary of RNA-Seq Analysis" width="500" />
+<p class="caption">
+Figure 1: Summary of RNA-Seq Analysis
+</p>
+
+[Image Credit](https://en.wikipedia.org/wiki/RNA-Seq)
 
 It helps in:
 
