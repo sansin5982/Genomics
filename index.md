@@ -12,3 +12,4 @@ Chapters:
 -   [Cis-Regulatory Elements](chapters/Cis-Regulatory-Elements)
 -   [Trans-Regulatory Elements](chapters/Trans-Regulatory-Elements)
 -   [RNA Sequencing](chapters/RNA-seq)
+-   [PostGWAS approaches](chapters/Post-GWAS)
