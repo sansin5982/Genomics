@@ -6,9 +6,19 @@ doesn’t explain how or why these variants impact biology. **Post-GWAS**
 refers to all the downstream analyses that help interpret, validate, and
 apply GWAS findings.
 
+### 🔍 Post-GWAS refers to the analysis steps taken after identifying GWAS hits to:
+
+Understand biological meaning
+
+Find causal genes or pathways
+
+Discover shared genetics across traits
+
 ------------------------------------------------------------------------
 
 # 🔧 Categories of Post-GWAS Tools
+
+-   We organize the tools into functional categories:
 
 <table>
 <colgroup>
@@ -65,6 +75,8 @@ apply GWAS findings.
 
 # 🛠 1. Gene Mapping & Annotation Tools
 
+-   These tools help connect SNPs to genes or functional annotations.
+
 <table>
 <thead>
 <tr>
@@ -100,9 +112,15 @@ apply GWAS findings.
 </tbody>
 </table>
 
+> If GWAS gives you dots on a map, these tools help label cities,
+> rivers, or forests near those dots.
+
 ------------------------------------------------------------------------
 
 # 🌿 2. Tissue/Cell-Type Specificity Tools
+
+-   We want to know: In which tissue or cell type is the signal coming
+    from?
 
 <table>
 <thead>
@@ -135,6 +153,9 @@ apply GWAS findings.
 
 # 🎯 3. Pathway and Functional Enrichment
 
+-   Used to understand which biological pathways or gene sets are
+    involved.
+
 <table>
 <thead>
 <tr>
@@ -166,9 +187,15 @@ apply GWAS findings.
 </tbody>
 </table>
 
+> Think of this as grouping your top SNPs into “teams” and finding out
+> which team (e.g., immune system, brain function) is winning.
+
 ------------------------------------------------------------------------
 
 # 🧠 4. Genetic Correlation & Heritability Estimation
+
+-   Understand how much of a trait is genetic and whether two traits
+    share genetics.
 
 <table>
 <thead>
@@ -200,6 +227,8 @@ apply GWAS findings.
 ------------------------------------------------------------------------
 
 # 🧬 5. Fine-Mapping Tools
+
+-   Helps pinpoint the most likely causal variants among many.
 
 <table>
 <colgroup>
@@ -235,6 +264,9 @@ apply GWAS findings.
 </tr>
 </tbody>
 </table>
+
+> GWAS gives you a neighborhood; fine-mapping tries to find the actual
+> house (causal variant).
 
 ------------------------------------------------------------------------
 
@@ -333,31 +365,53 @@ apply GWAS findings.
 </tbody>
 </table>
 
+> Think of MR like a genetic clinical trial — using nature’s random
+> assignment of alleles to test if high BMI causes diabetes, for
+> example.
+
 ------------------------------------------------------------------------
 
 # 🌍 9. Advanced Tools: Single-cell, 3D Genome, ML
 
 ## 🔎 A. scGWAS
 
--   Integrates GWAS with single-cell RNA-seq data.
--   Identifies disease-relevant **cell subtypes**.
--   GitHub: <https://github.com/li-lab/scGWAS>
+Integrates GWAS with single-cell transcriptomic data to identify cell
+types or subtypes where disease-associated variants are most active. \*
+Traditional GWAS + bulk RNA may miss fine-scale signals. \* GitHub:
+<https://github.com/li-lab/scGWAS>
 
-## 🧬 B. H-MAGMA
+> If a disease is like a fire in a building, scGWAS helps you locate the
+> exact room (cell type) where the fire started — not just the building.
 
--   Extends MAGMA by integrating **Hi-C chromatin interaction** data.
--   Useful for brain and regulatory disorders.
+## 🧠 B. S-LDSC (Stratified LD Score Regression)
 
-## 💡 C. PoPs (Polygenic Priority Score)
+-   Extension of LDSC that **partitions heritability** based on
+    functional categories.
+-   Which annotation (e.g. promoter, enhancer) contributes most to
+    heritability?
 
--   Ranks genes based on network, expression, and pathway features.
+## 🧬 C. H-MAGMA
 
-## 🎓 D. TWAS (Transcriptome-Wide Association Study)
+-   Enhances MAGMA by integrating **Hi-C** data (3D chromatin structure)
+    to assign distal SNPs to genes.
+-   Especially useful for **brain disorders** and regulatory SNPs.
+
+> Example: An intergenic SNP may loop to a gene promoter 1Mb away —
+> H-MAGMA captures this.
+
+## 💡 D. PoPs (Polygenic Priority Score)
+
+-   Uses gene features (expression, pathways, networks) to **prioritize
+    genes** near GWAS loci.
+-   Trained on large GWAS + functional databases.
+-   Especially useful when multiple genes are in LD with a lead SNP.
+
+## 🎓 E. TWAS (Transcriptome-Wide Association Study)
 
 -   Tests association of **predicted gene expression** with traits.
--   Tools: PrediXcan, FUSION, MetaXcan.
+-   **Tools: PrediXcan// S-PrediXcan, FUSION, MetaXcan.**
 
-## 🧪 E. Chromatin/eQTL-aware Tools
+## 🧪 F. Chromatin/eQTL-aware Tools
 
 <table>
 <thead>
@@ -368,23 +422,57 @@ apply GWAS findings.
 </thead>
 <tbody>
 <tr>
-<td>Open Targets</td>
+<td><strong>Open Targets</strong></td>
 <td>Multi-omic GWAS portal</td>
 </tr>
 <tr>
-<td>CHiCAGO</td>
+<td><strong>CHiCAGO</strong></td>
 <td>Chromatin interaction analysis</td>
 </tr>
 <tr>
-<td>FOCUS</td>
+<td><strong>FOCUS</strong></td>
 <td>TWAS fine-mapping and gene prioritization</td>
 </tr>
 </tbody>
 </table>
 
-## 🧠 F. ML & Deep Learning
+## 🧠 G. Machine Learning Tools for Gene Prioritization
 
 <table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 87%" />
+</colgroup>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>DeepSEA</strong></td>
+<td>Deep learning model to predict regulatory effects</td>
+</tr>
+<tr>
+<td><strong>BIRD</strong></td>
+<td>Bayesian integration of regulatory data</td>
+</tr>
+<tr>
+<td><strong>Varmole</strong></td>
+<td>Deep neural network with interpretable layers for regulatory SNP
+effect modeling</td>
+</tr>
+</tbody>
+</table>
+
+## 🧬 H. Pathway-aware Polygenic Tools
+
+<table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 72%" />
+</colgroup>
 <thead>
 <tr>
 <th>Tool</th>
@@ -393,12 +481,45 @@ apply GWAS findings.
 </thead>
 <tbody>
 <tr>
-<td>DeepSEA</td>
-<td>Predicts regulatory effects using deep learning</td>
+<td><strong>AnnoPred</strong></td>
+<td>Functionally informed PRS</td>
 </tr>
 <tr>
-<td>Varmole</td>
-<td>Neural network modeling of SNP → gene → trait</td>
+<td><strong>PRSet</strong> (in PRSice)</td>
+<td>Pathway-level risk scoring</td>
+</tr>
+<tr>
+<td><strong>TIGAR</strong></td>
+<td>TWAS + network analysis for pathway-level prioritization</td>
+</tr>
+</tbody>
+</table>
+
+## 🧪 I. Functional Validation Resources
+
+<table>
+<colgroup>
+<col style="width: 51%" />
+<col style="width: 48%" />
+</colgroup>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GTEx Portal</strong></td>
+<td>eQTL tissue atlas</td>
+</tr>
+<tr>
+<td><strong>ENCODE</strong> / <strong>Roadmap Epigenomics</strong></td>
+<td>Regulatory annotation</td>
+</tr>
+<tr>
+<td><strong>PsychENCODE</strong></td>
+<td>Brain-specific functional genomics</td>
 </tr>
 </tbody>
 </table>
