@@ -95,7 +95,7 @@ FUMA consists of **two main pipelines**:
 
 This module performs the **core mapping and annotation** of GWAS SNPs.
 
-### ✅ A. Independent Significant SNP Identification
+#### ✅ A. Independent Significant SNP Identification
 
 -   Select SNPs with **p &lt; 5e-8** (default)
 -   Use **LD (r²) thresholds** to find independent signals (e.g., r²
@@ -105,7 +105,7 @@ This module performs the **core mapping and annotation** of GWAS SNPs.
 > “Which SNPs are truly independent, and which ones are just tagging
 > others?”
 
-### ✅ B. Functional Annotation of SNPs
+#### ✅ B. Functional Annotation of SNPs
 
 FUMA uses multiple databases:
 
@@ -115,7 +115,7 @@ FUMA uses multiple databases:
 -   **Chromatin states** from Roadmap Epigenomics
 -   **eQTLs (expression QTLs)** from GTEx and other dataset
 
-### ✅ C. SNP-to-Gene Mapping Methods
+#### ✅ C. SNP-to-Gene Mapping Methods
 
 FUMA uses 3 strategies:
 
@@ -150,14 +150,87 @@ regulate</td>
 > Think of it as “Which gene is closest?”, “Which gene is turned on by
 > this SNP?”, and “Which gene does this SNP touch in 3D space?”
 
-### ✅ D. MAGMA Gene-Based Analysis
+#### ✅ D. MAGMA Gene-Based Analysis
 
 -   Aggregates SNPs into gene-level p-values
 -   Tests **each gene’s association** with the phenotype
 
-✅ E. Tissue Expression Analysis \* Tests if associated genes are
-enriched in specific tissues \* Uses GTEx, BrainSpan, and other
-transcriptomic resources
+#### ✅ E. Tissue Expression Analysis
 
-✅ F. Cell-Type Specificity (optional) \* For neuro/immune traits, can
-check enrichment in single-cell types
+-   Tests if associated genes are enriched in specific tissues
+-   Uses GTEx, BrainSpan, and other transcriptomic resources
+
+#### ✅ F. Cell-Type Specificity (optional)
+
+-   For neuro/immune traits, can check enrichment in single-cell types
+
+### 🔹 2. GENE2FUNC Module
+
+This module helps understand what the mapped genes do biologically.
+
+#### ✅ A. Tissue Expression Heatmap
+
+-   Shows expression levels across GTEx tissues for mapped genes
+-   Highlights tissue-specific expression
+
+#### ✅ B. Gene Set Enrichment
+
+-   Uses MsigDB, GO, KEGG, Reactome databases
+-   Enriches mapped genes into pathways/functions
+
+#### ✅ C. Differentially Expressed Genes (DEG) Analysis
+
+-   Identifies genes that are over- or under-expressed in specific
+    tissues
+
+#### ✅ D. Interaction Networks (GeneMANIA)
+
+-   Visualizes how genes interact with each other (optional integration)
+
+### Summary
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Step</th>
+<th style="text-align: left;">What it does</th>
+<th style="text-align: left;">Analogy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>SNP2GENE</strong></td>
+<td style="text-align: left;">Connect SNPs to genes and tissues</td>
+<td style="text-align: left;">“Where is the signal coming from and which
+switch is it flipping?”</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>GENE2FUNC</strong></td>
+<td style="text-align: left;">Discover what those genes actually do</td>
+<td style="text-align: left;">“What job does this gene do in the
+body?”</td>
+</tr>
+</tbody>
+</table>
+
+#### 📆 Final Notes
+
+-   FUMA supports **summary-statistic-level** input, not
+    individual-level genotype data.
+-   Output includes **interactive plots, tables, and downloadable
+    files**.
+-   FUMA is widely used in publications and supports **multi-ancestry
+    GWAS** if LD reference is appropriate
+
+#### 🔗 References
+
+-   Watanabe et al. (2017), “Functional mapping and annotation of
+    genetic associations with FUMA.” Nature Communications.
+    <https://www.nature.com/articles/s41467-017-01261-5>
+-   FUMA official site: <https://fuma.ctglab.nl>
+-   FUMA tutorials: <https://fuma.ctglab.nl/tutorial>
