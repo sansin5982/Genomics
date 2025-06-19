@@ -13,3 +13,4 @@ Chapters:
 -   [Trans-Regulatory Elements](chapters/Trans-Regulatory-Elements)
 -   [RNA Sequencing](chapters/RNA-seq)
 -   [PostGWAS approaches](chapters/Post-GWAS)
+    -   [FUMA](chapters/Post-GWAS/FUMA)
