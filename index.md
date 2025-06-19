@@ -14,3 +14,4 @@ Chapters:
 -   [RNA Sequencing](chapters/RNA-seq)
 -   [PostGWAS approaches](chapters/Post-GWAS)
     -   [FUMA](chapters/Post-GWAS/FUMA)
+    -   [LDSC](chapters/Post-GWAS/LDSC)
