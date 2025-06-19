@@ -1,3 +1,10 @@
+<script type="text/javascript" async
+    src="https://polyfill.io/v3/polyfill.min.js?features=es6">
+</script>
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
 # 🧠 LDSC?
 
 **LDSC (LD Score Regression)** is a statistical method used to:
@@ -15,8 +22,8 @@
 
 ## 🧮 Core Concept of LD Score Regression
 
--   **LD Score (*ℓ**ᵢ*)** of a SNP = sum of ***r*<sup>2</sup>** values
-    with other SNPs within a 1 cM window.
+-   **LD Score (*ℓ*<sub>*i*</sub>)** of a SNP = sum of
+    ***r*<sup>2</sup>** values with other SNPs within a 1 cM window.
 -   SNPs with high LD scores tag more variants → expected to have
     **higher test statistics** under polygenicity.
 
@@ -26,11 +33,20 @@ $$
 \Large E\[\chi^2\] = 1 + \frac{N h\_g^2 \ell}{M}
 $$
 
-Where: - *χ*<sup>2</sup>: test statistic for SNP i - *N*: sample size -
-*h*<sub>*g*</sub><sup>2</sup>: SNP heritability - ℓ: LD score - *M*:
-number of SNPs
+Where:
+
+-   *χ*<sup>2</sup>: test statistic for SNP i
+
+-   *N*: sample size
+
+-   *h*<sub>*g*</sub><sup>2</sup>: SNP heritability
+
+-   ℓ: LD score
+
+-   *M*: number of SNPs
 
 -   **Slope** → heritability  
+
 -   **Intercept** → inflation due to confounding
 
 ------------------------------------------------------------------------
@@ -84,108 +100,25 @@ Required columns:
 </tbody>
 </table>
 
-> Use the LDSC tool munge\_sumstats.py to format summary stats.
-
-<!-- Format the data using: -->
-<!-- ```bash -->
-<!-- python munge_sumstats.py \ -->
-<!--   --sumstats sumstats.txt \ -->
-<!--   --out trait1_munged \ -->
-<!--   --merge-alleles w_hm3.snplist -->
-<!-- ``` -->
-
-#### 2. LD Scores
-
-Precomputed files are available: \* 1000 Genomes Europeans (baselineLD
-v2.2, v1.1) \* UK Biobank, East Asian, African LD scores also available
-
-### 🧪 Key Analyses Performed by LDSC
-
-#### A. SNP Heritability (–h2) Estimation (`ldsc.py`)
-
-Estimates *h*<sup>2</sup> using LD regression:
-
-Output includes: \* Heritability (on observed and liability scale) \*
-Intercept (confounding estimate) \* Ratio of confounding vs polygenicity
-
-<!-- python ldsc.py \ -->
-<!--   --h2 trait1_munged.sumstats.gz \ -->
-<!--   --ref-ld-chr eur_w_ld_chr/ \ -->
-<!--   --w-ld-chr eur_w_ld_chr/ \ -->
-<!--   --out trait1_h2 -->
-
-#### B. Genetic Correlation (`ldsc.py` with `--rg`)
-
-Tests shared genetic architecture between traits:
-
--   Compares **two GWAS summary files**
--   Estimates *r*<sub>*g*</sub>: **genetic correlation**
--   Positive *r*<sub>*g*</sub>: traits share common genetic causes
-
-<!-- python ldsc.py \ -->
-<!--   --rg trait1.sumstats.gz,trait2.sumstats.gz \ -->
-<!--   --ref-ld-chr eur_w_ld_chr/ \ -->
-<!--   --w-ld-chr eur_w_ld_chr/ \ -->
-<!--   --out trait1_trait2_rg -->
-
-#### C. Partitioned Heritability (`ldsc.py` with `--h2-cts`, `--ref-ld-chr`)
-
-Tests contribution of specific annotations: \* Tests if specific
-**annotations** (e.g., promoter, enhancer, tissue-specific) are enriched
-for heritability \* Requires baseline model files (e.g.,
-baselineLD\_v2.2)
-
-<!-- python ldsc.py \ -->
-<!--   --h2 trait1.sumstats.gz \ -->
-<!--   --ref-ld-chr baselineLD_v2.2/baselineLD. \ -->
-<!--   --w-ld-chr weights_hm3_no_hla/weights. \ -->
-<!--   --overlap-annot \ -->
-<!--   --frqfile-chr 1000G_frq/1000G.EUR.QC. \ -->
-<!--   --out trait1_partitioned -->
-
-#### D. Stratified LDSC (S-LDSC)
-
--   Used for cell-type/tissue specific partitioning
--   Can test &gt;100 annotations (Roadmap, GTEx, etc.)
-
-> **Explanation**: LDSC answers “how much is genetics?”, “which tissues
-> matter most?”, and “are these two traits genetically similar?”
-
-#### 📊 Interpretation of Results
-
-Metric Meaning \* *h*<sup>2</sup> SNP heritability estimate \* Intercept
-Inflation due to population structure/confounding \* Ratio % of
-inflation not due to polygenicity \* *r*<sub>*g*</sub> Genetic
-correlation \* Enrichment *h*<sup>2</sup> %*S**N**P* % in annotation
-
-#### 🧬 Applications of LDSC
-
--   GWAS QC and inflation diagnosis
--   Cross-trait genetic correlation studies
--   Tissue prioritization
--   Enrichment in regulatory or chromatin marks
-
-### Common commands
-
 #### Download LDSC
 
 #### Step 1: Clone the LDSC GitHub repository
 
 git clone <https://github.com/bulik/ldsc.git>
 
-# Step 2: Move into the ldsc directory
+#### Step 2: Move into the ldsc directory
 
 cd ldsc
 
-# Step 3: Create an environment with LDSC dependencies
+#### Step 3: Create an environment with LDSC dependencies
 
 conda env create –n ldsc python=3.9
 
-# Activate LDSC environment
+#### Activate LDSC environment
 
 ldsc activate ldsc
 
-# Once environment is activated
+#### Once environment is activated
 
 ./ldsc.py -h
 
@@ -199,15 +132,120 @@ installation is done, we need to download files from:
 -   <https://zenodo.org/records/7768714>
 -   <https://ibg.colorado.edu/cdrom2021/Day06-nivard/GenomicSEM_practical/eur_w_ld_chr/>
 
-### Key LDSC analysis
+#### Mung Sumstats
 
-#### A. SNP heritability (`--h2`)
+Use the LDSC tool munge\_sumstats.py to format summary stats.
+
+python munge\_sumstats.py  
+–sumstats sumstats.txt  
+–out trait1\_munged  
+–merge-alleles w\_hm3.snplist
+
+#### 2. LD Scores
+
+Precomputed files are available: \* 1000 Genomes Europeans (baselineLD
+v2.2, v1.1) \* UK Biobank, East Asian, African LD scores also available
+
+### 🧪 Key Analyses Performed by LDSC
+
+#### A. SNP Heritability (–h2) Estimation (`ldsc.py`)
+
+Estimates *h*<sup>2</sup> using LD regression:
+
+Output includes:
+
+-   Heritability (on observed and liability scale)
+-   Intercept (confounding estimate)
+-   Ratio of confounding vs polygenicity
 
 python ldsc.py  
 –h2 trait1\_munged.sumstats.gz  
 –ref-ld-chr eur\_w\_ld\_chr/  
 –w-ld-chr eur\_w\_ld\_chr/  
 –out trait1\_h2
+
+#### B. Genetic Correlation (`ldsc.py` with `--rg`)
+
+Tests shared genetic architecture between traits:
+
+-   Compares **two GWAS summary files**
+-   Estimates *r*<sub>*g*</sub>: **genetic correlation**
+-   Positive *r*<sub>*g*</sub>: traits share common genetic causes
+
+python ldsc.py  
+–rg trait1.sumstats.gz,trait2.sumstats.gz  
+–ref-ld-chr eur\_w\_ld\_chr/  
+–w-ld-chr eur\_w\_ld\_chr/  
+–out trait1\_trait2\_rg
+
+#### C. Partitioned Heritability (`ldsc.py` with `--h2-cts`, `--ref-ld-chr`)
+
+Tests contribution of specific annotations:
+
+-   Tests if specific **annotations** (e.g., promoter, enhancer,
+    tissue-specific) are enriched for heritability
+-   Requires baseline model files (e.g., baselineLD\_v2.2)
+
+python ldsc.py  
+–h2 trait1.sumstats.gz  
+–ref-ld-chr baselineLD\_v2.2/baselineLD.  
+–w-ld-chr weights\_hm3\_no\_hla/weights.  
+–overlap-annot  
+–frqfile-chr 1000G\_frq/1000G.EUR.QC.  
+–out trait1\_partitioned
+
+#### D. Stratified LDSC (S-LDSC)
+
+-   Used for cell-type/tissue specific partitioning
+-   Can test &gt;100 annotations (Roadmap, GTEx, etc.)
+
+> **Explanation**: LDSC answers “how much is genetics?”, “which tissues
+> matter most?”, and “are these two traits genetically similar?”
+
+#### 📊 Interpretation of Results
+
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><span
+class="math inline"><em>h</em><sup>2</sup></span></td>
+<td style="text-align: left;">SNP-based heritability</td>
+</tr>
+<tr>
+<td style="text-align: left;">Intercept</td>
+<td style="text-align: left;">Inflation due to confounding (should be
+~1.0)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Ratio</td>
+<td style="text-align: left;">Proportion of inflation not due to
+polygenicity</td>
+</tr>
+<tr>
+<td style="text-align: left;"><span
+class="math inline"><em>r</em><sub><em>g</em></sub></span></td>
+<td style="text-align: left;">Genetic correlation (between traits)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Enrichment</td>
+<td style="text-align: left;">Heritability % / SNP % in an
+annotation</td>
+</tr>
+</tbody>
+</table>
+
+#### 🧬 Applications of LDSC
+
+-   **GWAS QC**: Check for confounding
+-   **Cross-trait analysis**: Shared etiology (e.g., ASD & depression)
+-   **Tissue prioritization**: Use S-LDSC to highlight relevant tissues
+-   **Cross-population analysis**: Use ancestry-matched LD scores
 
 #### 🧩 Resources
 
