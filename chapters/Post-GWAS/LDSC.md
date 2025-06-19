@@ -1,8 +1,7 @@
-<script type="text/javascript" async
-    src="https://polyfill.io/v3/polyfill.min.js?features=es6">
-</script>
-<script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
 # 🧠 LDSC?
@@ -104,25 +103,25 @@ Required columns:
 
 #### Step 1: Clone the LDSC GitHub repository
 
-git clone <https://github.com/bulik/ldsc.git>
+**git clone <https://github.com/bulik/ldsc.git>**
 
 #### Step 2: Move into the ldsc directory
 
-cd ldsc
+**cd ldsc**
 
 #### Step 3: Create an environment with LDSC dependencies
 
-conda env create –n ldsc python=3.9
+**conda env create –file environment.yml**
 
 #### Activate LDSC environment
 
-ldsc activate ldsc
+**ldsc activate ldsc**
 
 #### Once environment is activated
 
-./ldsc.py -h
+**./ldsc.py -h**
 
-./munge\_sumstats.py -h
+**./munge\_sumstats.py -h**
 
 -   If these commands fail then there is some issue in installation
 
@@ -136,10 +135,10 @@ installation is done, we need to download files from:
 
 Use the LDSC tool munge\_sumstats.py to format summary stats.
 
-python munge\_sumstats.py  
-–sumstats sumstats.txt  
-–out trait1\_munged  
-–merge-alleles w\_hm3.snplist
+    python munge_sumstats.py \
+      --sumstats sumstats.txt \
+      --out trait1_munged \
+      --merge-alleles w_hm3.snplist
 
 #### 2. LD Scores
 
@@ -158,11 +157,13 @@ Output includes:
 -   Intercept (confounding estimate)
 -   Ratio of confounding vs polygenicity
 
-python ldsc.py  
-–h2 trait1\_munged.sumstats.gz  
-–ref-ld-chr eur\_w\_ld\_chr/  
-–w-ld-chr eur\_w\_ld\_chr/  
-–out trait1\_h2
+<!-- -->
+
+    python ldsc.py \
+      --h2 trait1_munged.sumstats.gz \
+      --ref-ld-chr eur_w_ld_chr/ \
+      --w-ld-chr eur_w_ld_chr/ \
+      --out trait1_h2
 
 #### B. Genetic Correlation (`ldsc.py` with `--rg`)
 
@@ -172,11 +173,13 @@ Tests shared genetic architecture between traits:
 -   Estimates *r*<sub>*g*</sub>: **genetic correlation**
 -   Positive *r*<sub>*g*</sub>: traits share common genetic causes
 
-python ldsc.py  
-–rg trait1.sumstats.gz,trait2.sumstats.gz  
-–ref-ld-chr eur\_w\_ld\_chr/  
-–w-ld-chr eur\_w\_ld\_chr/  
-–out trait1\_trait2\_rg
+<!-- -->
+
+    python ldsc.py \
+      --rg trait1.sumstats.gz,trait2.sumstats.gz \
+      --ref-ld-chr eur_w_ld_chr/ \
+      --w-ld-chr eur_w_ld_chr/ \
+      --out trait1_trait2_rg
 
 #### C. Partitioned Heritability (`ldsc.py` with `--h2-cts`, `--ref-ld-chr`)
 
@@ -186,13 +189,15 @@ Tests contribution of specific annotations:
     tissue-specific) are enriched for heritability
 -   Requires baseline model files (e.g., baselineLD\_v2.2)
 
-python ldsc.py  
-–h2 trait1.sumstats.gz  
-–ref-ld-chr baselineLD\_v2.2/baselineLD.  
-–w-ld-chr weights\_hm3\_no\_hla/weights.  
-–overlap-annot  
-–frqfile-chr 1000G\_frq/1000G.EUR.QC.  
-–out trait1\_partitioned
+<!-- -->
+
+    python ldsc.py \
+      --h2 trait1.sumstats.gz \
+      --ref-ld-chr baselineLD_v2.2/baselineLD. \
+      --w-ld-chr weights_hm3_no_hla/weights. \
+      --overlap-annot \
+      --frqfile-chr 1000G_frq/1000G.EUR.QC. \
+      --out trait1_partitioned
 
 #### D. Stratified LDSC (S-LDSC)
 
