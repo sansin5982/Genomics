@@ -1,17 +1,28 @@
 # Welcome to Genetics and Genomics!
 
-Chapters:
-
--   [Gene Structure](chapters/Gene-Structure)
--   [Genetic Code](chapters/Genetic-Code)
--   [DNA](chapters/DNA)
--   [RNA](chapters/RNA)
--   [Cell Cycle](chapters/Cell-cycle)
--   [DNA Replication](chapters/DNA-Replication)
--   [Meiosis](chapters/Meiosis)
--   [Cis-Regulatory Elements](chapters/Cis-Regulatory-Elements)
--   [Trans-Regulatory Elements](chapters/Trans-Regulatory-Elements)
--   [RNA Sequencing](chapters/RNA-seq)
--   [PostGWAS approaches](chapters/Post-GWAS)
-    -   [FUMA](chapters/Post-GWAS/FUMA)
-    -   [LDSC](chapters/Post-GWAS/LDSC)
+Chapters: - [Introduction to Genomics](chapters/Introduction) - [Genome
+Structure and Organization](chapters/Organization) - [DNA Sequencing
+Technologies](chapters/Technologies) - [Genome Assembly and
+Annotation](chapters/Annotation) - [Genetic Variation and
+Polymorphisms](chapters/Polymorphisms) - [Comparative
+Genomics](chapters/CG) - [Functional Genomics](chapters/FG) -
+[Transcriptomics](chapters/Transcriptomics) -
+[Epigenomics](chapters/Epigenomics) - [Proteomics and Metabolomics in
+Genomics](chapters/PMG) - [Metagenomics and Microbiomics](chapters/MM) -
+[Evolutionary and Population Genomics](chapters/Evolutionary) -
+[Genomics in Medicine](chapters/Medicine) - [Personalized and Precision
+Medicine](chapters/Precision) - [Animal and Veterinary
+Genomics](chapters/Animal) - [Bioinformatics and Computational
+Genomics](chapters/Bioinformatics) - [Ethical, Legal, and Social
+Implications (ELSI) of Genomics](chapters/Ethical) - [Emerging
+Technologies and Future Directions](chapters/Emerging) - [Case Studies
+and Applications](chapters/Case) - [Gene
+Structure](Genetics/Gene-Structure) - [Genetic
+Code](Genetics/Genetic-Code) - [DNA](Genetics/DNA) -
+[RNA](Genetics/RNA) - [Cell Cycle](Genetics/Cell-cycle) - [DNA
+Replication](Genetics/DNA-Replication) - [Meiosis](Genetics/Meiosis) -
+[Cis-Regulatory Elements](Genetics/Cis-Regulatory-Elements) -
+[Trans-Regulatory Elements](Genetics/Trans-Regulatory-Elements) - [RNA
+Sequencing](Genetics/RNA-seq) - [PostGWAS
+approaches](Genetics/Post-GWAS) - [FUMA](Genetics/Post-GWAS/FUMA) -
+[LDSC](Genetics/Post-GWAS/LDSC)
