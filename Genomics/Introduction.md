@@ -1,3 +1,10 @@
+<script type="text/javascript" async
+    src="https://polyfill.io/v3/polyfill.min.js?features=es6">
+</script>
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
 # Introduction to Genomics
 
 ## 1.1 Definition and Scope of Genomics
@@ -162,7 +169,7 @@ Two draft sequences were published simultaneously:
 -   **Celera Genomics** (Venter et al.): Whole-genome shotgun
 
 > International Human Genome Sequencing Consortium. (2001). Initial
-> sequencing and &gt;analysis of the human genome. Nature, 409(6822),
+> sequencing and analysis of the human genome. Nature, 409(6822),
 > 860–921.
 >
 > Venter, J. C., et al. (2001). The sequence of the human genome.
