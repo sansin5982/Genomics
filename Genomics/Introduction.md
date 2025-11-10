@@ -30,14 +30,17 @@ simultaneously across all genetic elements.
 
 ### 1.1.3 Interdisciplinary Nature: Biology, Computing, Statistics
 
-Genomics is inherently **interdisciplinary**: \* **Molecular Biology**
-provides mechanistic insights into DNA replication, transcription, and
-repair. \* **Bioinformatics** enables storage, retrieval, and analysis
-of terabase-scale data using algorithms and databases. \*
-**Biostatistics** ensures rigorous hypothesis testing, multiple-testing
-correction, and probabilistic modeling of genomic phenomena. \*
-**Machine Learning** powers variant calling, gene prediction, and
-phenotype prediction from genomic data.
+Genomics is inherently **interdisciplinary**:
+
+-   **Molecular Biology** provides mechanistic insights into DNA
+    replication, transcription, and repair.
+-   **Bioinformatics** enables storage, retrieval, and analysis of
+    terabase-scale data using algorithms and databases.
+-   **Biostatistics** ensures rigorous hypothesis testing,
+    multiple-testing correction, and probabilistic modeling of genomic
+    phenomena.
+-   **Machine Learning** powers variant calling, gene prediction, and
+    phenotype prediction from genomic data.
 
 ### 1.1.4 Applications Across Medicine, Agriculture, Evolution
 
