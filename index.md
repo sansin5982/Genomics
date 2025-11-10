@@ -1,6 +1,23 @@
 # Welcome to Genetics and Genomics!
 
-Chapters:
+Genetics:
+
+-   [Gene Structure](Genetics/Gene-Structure)
+-   [Genetic Code](Genetics/Genetic-Code)
+-   [DNA](Genetics/DNA)
+-   [RNA](Genetics/RNA)
+-   [Cell Cycle](Genetics/Cell-cycle)
+-   [DNA Replication](Genetics/DNA-Replication)
+-   [Meiosis](Genetics/Meiosis)
+-   [Cis-Regulatory Elements](Genetics/Cis-Regulatory-Elements)
+-   [Trans-Regulatory Elements](Genetics/Trans-Regulatory-Elements)
+-   [RNA Sequencing](Genetics/RNA-seq)
+-   [PostGWAS approaches](Genetics/Post-GWAS)
+    -   [FUMA](Genetics/Post-GWAS/FUMA)
+    -   [LDSC](Genetics/Post-GWAS/LDSC)
+    -   [Single Cell GWAS](Genetics/Post-GWAS/scGWAS)
+
+Genomics:
 
 -   [Introduction to Genomics](chapters/Introduction)
 -   [Genome Structure and Organization](chapters/Organization)
@@ -22,20 +39,3 @@ Chapters:
     Genomics](chapters/Ethical)
 -   [Emerging Technologies and Future Directions](chapters/Emerging)
 -   [Case Studies and Applications](chapters/Case)
-
-Genetics:
-
--   [Gene Structure](Genetics/Gene-Structure)
--   [Genetic Code](Genetics/Genetic-Code)
--   [DNA](Genetics/DNA)
--   [RNA](Genetics/RNA)
--   [Cell Cycle](Genetics/Cell-cycle)
--   [DNA Replication](Genetics/DNA-Replication)
--   [Meiosis](Genetics/Meiosis)
--   [Cis-Regulatory Elements](Genetics/Cis-Regulatory-Elements)
--   [Trans-Regulatory Elements](Genetics/Trans-Regulatory-Elements)
--   [RNA Sequencing](Genetics/RNA-seq)
--   [PostGWAS approaches](Genetics/Post-GWAS)
-    -   [FUMA](Genetics/Post-GWAS/FUMA)
-    -   [LDSC](Genetics/Post-GWAS/LDSC)
-    -   [Single Cell GWAS](Genetics/Post-GWAS/scGWAS)
