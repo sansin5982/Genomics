@@ -7,3 +7,4 @@ description: "Fundamentals of Genetics and Genomics."
 # Enable navigation links
 include:
   - chapters/
+  - Genetics/
