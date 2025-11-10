@@ -38,3 +38,4 @@ Genetics:
 -   [PostGWAS approaches](Genetics/Post-GWAS)
     -   [FUMA](Genetics/Post-GWAS/FUMA)
     -   [LDSC](Genetics/Post-GWAS/LDSC)
+    -   [Single Cell GWAS](Genetics/Post-GWAS/scGWAS)
